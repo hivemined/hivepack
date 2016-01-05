@@ -1,0 +1,15 @@
+# Ignore all files by default.
+/*
+
+# Include MultiMC instance data and repository information.
+!/patches/
+!/.gitignore
+!/instance.cfg
+!/README.md
+
+# Include the minecraft directory and ignore all but modpack files.
+!/minecraft
+/minecraft/*
+!/minecraft/config
+!/minecraft/mods
+
