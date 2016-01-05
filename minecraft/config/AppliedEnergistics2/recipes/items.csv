@@ -359,73 +359,78 @@ ae2stuff:Encoder, Pattern Encoder
 ae2stuff:Grower, Crystal Growth Chamber
 ae2stuff:Inscriber, Advanced Inscriber
 ae2stuff:Wireless, Wireless Connector
-BiblioCraft:tile.BiblioFramedChest:0, Framed Chest
-BiblioCraft:BiblioPaneler:0, Oak Furniture Paneler
-BiblioCraft:BiblioPaneler:1, Spruce Furniture Paneler
-BiblioCraft:BiblioPaneler:2, Birch Furniture Paneler
-BiblioCraft:BiblioPaneler:3, Jungle Furniture Paneler
-BiblioCraft:BiblioPaneler:4, Acacia Furniture Paneler
-BiblioCraft:BiblioPaneler:5, Dark Oak Furniture Paneler
-BiblioCraft:BiblioPaneler:6, Framed Furniture Paneler
-BiblioCraft:BiblioClipboard, tile.BiblioClipboard.name
-BiblioCraft:BiblioTypewriter:0, White Typewriter
-BiblioCraft:BiblioTypewriter:1, Light Gray Typewriter
-BiblioCraft:BiblioTypewriter:2, Gray Typewriter
-BiblioCraft:BiblioTypewriter:3, Black Typewriter
-BiblioCraft:BiblioTypewriter:4, Red Typewriter
-BiblioCraft:BiblioTypewriter:5, Orange Typewriter
-BiblioCraft:BiblioTypewriter:6, Yellow Typewriter
-BiblioCraft:BiblioTypewriter:7, Lime Typewriter
-BiblioCraft:BiblioTypewriter:8, Green Typewriter
-BiblioCraft:BiblioTypewriter:9, Cyan Typewriter
-BiblioCraft:BiblioTypewriter:10, Light Blue Typewriter
-BiblioCraft:BiblioTypewriter:11, Blue Typewriter
-BiblioCraft:BiblioTypewriter:12, Purple Typewriter
-BiblioCraft:BiblioTypewriter:13, Magenta Typewriter
-BiblioCraft:BiblioTypewriter:14, Pink Typewriter
-BiblioCraft:BiblioTypewriter:15, Brown Typewriter
-BiblioCraft:BiblioClock:0, Oak Clock
-BiblioCraft:BiblioClock:1, Spruce Clock
-BiblioCraft:BiblioClock:2, Birch Clock
-BiblioCraft:BiblioClock:3, Jungle Clock
-BiblioCraft:BiblioClock:4, Acacia Clock
-BiblioCraft:BiblioClock:5, Dark Oak Clock
-BiblioCraft:BiblioClock:6, Framed Clock
-BiblioCraft:BiblioFlatPainting:0, Oak Painting Frame
-BiblioCraft:BiblioFlatPainting:1, Spruce Painting Frame
-BiblioCraft:BiblioFlatPainting:2, Birch Painting Frame
-BiblioCraft:BiblioFlatPainting:3, Jungle Painting Frame
-BiblioCraft:BiblioFlatPainting:4, Acacia Painting Frame
-BiblioCraft:BiblioFlatPainting:5, Dark Oak Painting Frame
-BiblioCraft:BiblioFlatPainting:6, Framed Painting Frame
-BiblioCraft:BiblioSimplePainting:0, Oak Painting Frame
-BiblioCraft:BiblioSimplePainting:1, Spruce Painting Frame
-BiblioCraft:BiblioSimplePainting:2, Birch Painting Frame
-BiblioCraft:BiblioSimplePainting:3, Jungle Painting Frame
-BiblioCraft:BiblioSimplePainting:4, Acacia Painting Frame
-BiblioCraft:BiblioSimplePainting:5, Dark Oak Painting Frame
-BiblioCraft:BiblioSimplePainting:6, Framed Painting Frame
-BiblioCraft:BiblioMiddlePainting:0, Oak Painting Frame
-BiblioCraft:BiblioMiddlePainting:1, Spruce Painting Frame
-BiblioCraft:BiblioMiddlePainting:2, Birch Painting Frame
-BiblioCraft:BiblioMiddlePainting:3, Jungle Painting Frame
-BiblioCraft:BiblioMiddlePainting:4, Acacia Painting Frame
-BiblioCraft:BiblioMiddlePainting:5, Dark Oak Painting Frame
-BiblioCraft:BiblioMiddlePainting:6, Framed Painting Frame
-BiblioCraft:BiblioFancyPainting:0, Oak Painting Frame
-BiblioCraft:BiblioFancyPainting:1, Spruce Painting Frame
-BiblioCraft:BiblioFancyPainting:2, Birch Painting Frame
-BiblioCraft:BiblioFancyPainting:3, Jungle Painting Frame
-BiblioCraft:BiblioFancyPainting:4, Acacia Painting Frame
-BiblioCraft:BiblioFancyPainting:5, Dark Oak Painting Frame
-BiblioCraft:BiblioFancyPainting:6, Framed Painting Frame
-BiblioCraft:BiblioBorderlessPainting:0, Oak Painting Frame
-BiblioCraft:BiblioBorderlessPainting:1, Spruce Painting Frame
-BiblioCraft:BiblioBorderlessPainting:2, Birch Painting Frame
-BiblioCraft:BiblioBorderlessPainting:3, Jungle Painting Frame
-BiblioCraft:BiblioBorderlessPainting:4, Acacia Painting Frame
-BiblioCraft:BiblioBorderlessPainting:5, Dark Oak Painting Frame
-BiblioCraft:BiblioBorderlessPainting:6, Framed Painting Frame
+MineFactoryReloaded:conveyor:16, Conveyor Belt
+MineFactoryReloaded:conveyor:0, Conveyor Belt (White)
+MineFactoryReloaded:conveyor:1, Conveyor Belt (Orange)
+MineFactoryReloaded:conveyor:2, Conveyor Belt (Magenta)
+MineFactoryReloaded:conveyor:3, Conveyor Belt (Light Blue)
+MineFactoryReloaded:conveyor:4, Conveyor Belt (Yellow)
+MineFactoryReloaded:conveyor:5, Conveyor Belt (Lime)
+MineFactoryReloaded:conveyor:6, Conveyor Belt (Pink)
+MineFactoryReloaded:conveyor:7, Conveyor Belt (Gray)
+MineFactoryReloaded:conveyor:8, Conveyor Belt (Light Gray)
+MineFactoryReloaded:conveyor:9, Conveyor Belt (Cyan)
+MineFactoryReloaded:conveyor:10, Conveyor Belt (Purple)
+MineFactoryReloaded:conveyor:11, Conveyor Belt (Blue)
+MineFactoryReloaded:conveyor:12, Conveyor Belt (Brown)
+MineFactoryReloaded:conveyor:13, Conveyor Belt (Green)
+MineFactoryReloaded:conveyor:14, Conveyor Belt (Red)
+MineFactoryReloaded:conveyor:15, Conveyor Belt (Black)
+MineFactoryReloaded:machineblock:0, Factory Machine Block
+MineFactoryReloaded:machineblock:1, Programmable RedNet Controller Housing
+MineFactoryReloaded:machine.0:0, Planter
+MineFactoryReloaded:machine.0:1, Fisher
+MineFactoryReloaded:machine.0:2, Harvester
+MineFactoryReloaded:machine.0:3, Rancher
+MineFactoryReloaded:machine.0:4, Fertilizer
+MineFactoryReloaded:machine.0:5, Veterinary Station
+MineFactoryReloaded:machine.0:6, Item Collector
+MineFactoryReloaded:machine.0:7, Block Breaker
+MineFactoryReloaded:machine.0:8, Weather Collector
+MineFactoryReloaded:machine.0:9, Sludge Boiler
+MineFactoryReloaded:machine.0:10, Sewer
+MineFactoryReloaded:machine.0:11, Composter
+MineFactoryReloaded:machine.0:12, Breeder
+MineFactoryReloaded:machine.0:13, Grinder
+MineFactoryReloaded:machine.0:14, Auto-Enchanter
+MineFactoryReloaded:machine.0:15, Chronotyper
+MineFactoryReloaded:machine.1:0, Ejector
+MineFactoryReloaded:machine.1:1, Item Router
+MineFactoryReloaded:machine.1:2, Liquid Router
+MineFactoryReloaded:machine.1:3, Deep Storage Unit
+MineFactoryReloaded:machine.1:4, LiquiCrafter
+MineFactoryReloaded:machine.1:5, Lava Fabricator
+MineFactoryReloaded:machine.1:6, Steam Boiler
+MineFactoryReloaded:machine.1:7, Auto-Jukebox
+MineFactoryReloaded:machine.1:8, Unifier
+MineFactoryReloaded:machine.1:9, Auto-Spawner
+MineFactoryReloaded:machine.1:10, BioReactor
+MineFactoryReloaded:machine.1:11, BioFuel Generator
+MineFactoryReloaded:machine.1:12, Auto-Disenchanter
+MineFactoryReloaded:machine.1:13, Slaughterhouse
+MineFactoryReloaded:machine.1:14, Meat Packer
+MineFactoryReloaded:machine.1:15, Enchantment Router
+MineFactoryReloaded:machine.2:0, Laser Drill
+MineFactoryReloaded:machine.2:1, Laser Drill Precharger
+MineFactoryReloaded:machine.2:2, Auto-Anvil
+MineFactoryReloaded:machine.2:3, Block Smasher
+MineFactoryReloaded:machine.2:4, RedNote Block
+MineFactoryReloaded:machine.2:5, Auto-Brewer
+MineFactoryReloaded:machine.2:6, Fruit Picker
+MineFactoryReloaded:machine.2:7, Block Placer
+MineFactoryReloaded:machine.2:8, Mob Counter
+MineFactoryReloaded:machine.2:9, Steam Turbine
+MineFactoryReloaded:machine.2:10, Chunk Loader
+MineFactoryReloaded:machine.2:11, Fountain
+MineFactoryReloaded:machine.2:12, Mob Router
+MineFactoryReloaded:tank, Plastic Tank
+MineFactoryReloaded:cable.plastic, Plastic Pipe
+MineFactoryReloaded:cable.redstone:0, RedNet Cable
+MineFactoryReloaded:cable.redstone:1, RedNet Cable
+MineFactoryReloaded:cable.redstone:2, RedNet Energy Cable
+MineFactoryReloaded:cable.redstone:3, RedNet Energy Cable
+MineFactoryReloaded:rednet.logic, Programmable RedNet Controller
+MineFactoryReloaded:rednet.panel:0, RedNet Historian
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -507,7 +512,7 @@ minecraft:redstone, Redstone
 minecraft:snowball, Snowball
 minecraft:boat, Boat
 minecraft:leather, Leather
-minecraft:milk_bucket, Milk
+minecraft:milk_bucket, Milk Bucket
 minecraft:brick, Brick
 minecraft:clay_ball, Clay
 minecraft:reeds, Sugar Canes
@@ -690,6 +695,394 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, Minecart with TNT
 minecraft:hopper_minecart, Minecart with Hopper
+MineFactoryReloaded:rail.cargo.pickup, Cargo Pickup Rail
+MineFactoryReloaded:rail.cargo.dropoff, Cargo Dropoff Rail
+MineFactoryReloaded:rail.passenger.pickup, Passenger Pickup Rail
+MineFactoryReloaded:rail.passenger.dropoff, Passenger Dropoff Rail
+MineFactoryReloaded:rubberwood.sapling:0, Rubber Sapling
+MineFactoryReloaded:rubberwood.sapling:1, Sacred Rubber Sapling
+MineFactoryReloaded:rubberwood.sapling:2, Mega Rubber Sapling
+MineFactoryReloaded:rubberwood.sapling:3, Sacred Rubber Sapling
+MineFactoryReloaded:rubberwood.log, Rubber Wood
+MineFactoryReloaded:rubberwood.leaves:0, Rubber Leaves
+MineFactoryReloaded:rubberwood.leaves:1, Dry Rubber Leaves
+MineFactoryReloaded:stainedglass.block:0, Stained Glass (White)
+MineFactoryReloaded:stainedglass.block:1, Stained Glass (Orange)
+MineFactoryReloaded:stainedglass.block:2, Stained Glass (Magenta)
+MineFactoryReloaded:stainedglass.block:3, Stained Glass (Light Blue)
+MineFactoryReloaded:stainedglass.block:4, Stained Glass (Yellow)
+MineFactoryReloaded:stainedglass.block:5, Stained Glass (Lime)
+MineFactoryReloaded:stainedglass.block:6, Stained Glass (Pink)
+MineFactoryReloaded:stainedglass.block:7, Stained Glass (Gray)
+MineFactoryReloaded:stainedglass.block:8, Stained Glass (Light Gray)
+MineFactoryReloaded:stainedglass.block:9, Stained Glass (Cyan)
+MineFactoryReloaded:stainedglass.block:10, Stained Glass (Purple)
+MineFactoryReloaded:stainedglass.block:11, Stained Glass (Blue)
+MineFactoryReloaded:stainedglass.block:12, Stained Glass (Brown)
+MineFactoryReloaded:stainedglass.block:13, Stained Glass (Green)
+MineFactoryReloaded:stainedglass.block:14, Stained Glass (Red)
+MineFactoryReloaded:stainedglass.block:15, Stained Glass (Black)
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
+MineFactoryReloaded:stainedglass.pane:0, Stained Glass Pane (White)
+MineFactoryReloaded:stainedglass.pane:1, Stained Glass Pane (Orange)
+MineFactoryReloaded:stainedglass.pane:2, Stained Glass Pane (Magenta)
+MineFactoryReloaded:stainedglass.pane:3, Stained Glass Pane (Light Blue)
+MineFactoryReloaded:stainedglass.pane:4, Stained Glass Pane (Yellow)
+MineFactoryReloaded:stainedglass.pane:5, Stained Glass Pane (Lime)
+MineFactoryReloaded:stainedglass.pane:6, Stained Glass Pane (Pink)
+MineFactoryReloaded:stainedglass.pane:7, Stained Glass Pane (Gray)
+MineFactoryReloaded:stainedglass.pane:8, Stained Glass Pane (Light Gray)
+MineFactoryReloaded:stainedglass.pane:9, Stained Glass Pane (Cyan)
+MineFactoryReloaded:stainedglass.pane:10, Stained Glass Pane (Purple)
+MineFactoryReloaded:stainedglass.pane:11, Stained Glass Pane (Blue)
+MineFactoryReloaded:stainedglass.pane:12, Stained Glass Pane (Brown)
+MineFactoryReloaded:stainedglass.pane:13, Stained Glass Pane (Green)
+MineFactoryReloaded:stainedglass.pane:14, Stained Glass Pane (Red)
+MineFactoryReloaded:stainedglass.pane:15, Stained Glass Pane (Black)
+MineFactoryReloaded:road:0, Road
+MineFactoryReloaded:road:1, Road Light
+MineFactoryReloaded:road:4, Road Light (Inverted)
+MineFactoryReloaded:plastic, Block of Plastic
+MineFactoryReloaded:brick:0, Ice Bricks
+MineFactoryReloaded:brick:1, Glowstone Bricks
+MineFactoryReloaded:brick:2, Lapis Bricks
+MineFactoryReloaded:brick:3, Obsidian Bricks
+MineFactoryReloaded:brick:4, Paved Stone Bricks
+MineFactoryReloaded:brick:5, Snow Bricks
+MineFactoryReloaded:brick:6, Large Ice Bricks
+MineFactoryReloaded:brick:7, Large Glowstone Bricks
+MineFactoryReloaded:brick:8, Large Lapis Bricks
+MineFactoryReloaded:brick:9, Large Obsidian Bricks
+MineFactoryReloaded:brick:10, Large Paved Stone Bricks
+MineFactoryReloaded:brick:11, Large Snow Bricks
+MineFactoryReloaded:brick:12, Raw Meat Block
+MineFactoryReloaded:brick:13, Cooked Meat Block
+MineFactoryReloaded:brick:14, Large Bricks
+MineFactoryReloaded:brick:15, Sugar Charcoal Block
+MineFactoryReloaded:stone:0, Smooth Blackstone
+MineFactoryReloaded:stone:1, Smooth Whitestone
+MineFactoryReloaded:stone:2, Cobble Blackstone
+MineFactoryReloaded:stone:3, Cobble Whitestone
+MineFactoryReloaded:stone:4, Large Blackstone Bricks
+MineFactoryReloaded:stone:5, Large Whitestone Bricks
+MineFactoryReloaded:stone:6, Small Blackstone Bricks
+MineFactoryReloaded:stone:7, Small Whitestone Bricks
+MineFactoryReloaded:stone:8, Blackstone Gravel
+MineFactoryReloaded:stone:9, Whitestone Gravel
+MineFactoryReloaded:stone:10, Paved Blackstone
+MineFactoryReloaded:stone:11, Paved Whitestone
+MineFactoryReloaded:pinkslime.block, Pink Slime Block
+MineFactoryReloaded:vinescaffold, Vine Scaffolding
+MineFactoryReloaded:farmland, Fertile Soil
+MineFactoryReloaded:detcord, DetCord
+MineFactoryReloaded:milk.still, Milk
+MineFactoryReloaded:sludge.still, Sludge
+MineFactoryReloaded:sewage.still, Sewage
+MineFactoryReloaded:mobessence.still, Essence
+MineFactoryReloaded:biofuel.still, BioFuel
+MineFactoryReloaded:meat.still, Meat
+MineFactoryReloaded:pinkslime.still, Pink Slime
+MineFactoryReloaded:chocolatemilk.still, Chocolate Milk
+MineFactoryReloaded:mushroomsoup.still, Mushroom Soup
+MineFactoryReloaded:steam.still, Steam
+Thaumcraft:blockFluxGoo:0, Flux Goo
+Thaumcraft:blockFluxGas:0, Flux Gas
+Thaumcraft:blockFluidPure, Purifying Fluid
+Thaumcraft:blockFluidDeath, Liquid Death
+Thaumcraft:blockCustomOre:0, Cinnabar Ore
+Thaumcraft:blockCustomOre:1, Air Infused Stone
+Thaumcraft:blockCustomOre:2, Fire Infused Stone
+Thaumcraft:blockCustomOre:3, Water Infused Stone
+Thaumcraft:blockCustomOre:4, Earth Infused Stone
+Thaumcraft:blockCustomOre:5, Order Infused Stone
+Thaumcraft:blockCustomOre:6, Entropy Infused Stone
+Thaumcraft:blockCustomOre:7, Amber Bearing Stone
+Thaumcraft:blockMagicalLog:0, Greatwood Log
+Thaumcraft:blockMagicalLog:1, Silverwood Log
+Thaumcraft:blockMagicalLeaves:0, Greatwood Leaves
+Thaumcraft:blockMagicalLeaves:1, Silverwood Leaves
+Thaumcraft:blockCustomPlant:0, Greatwood Sapling
+Thaumcraft:blockCustomPlant:1, Silverwood Sapling
+Thaumcraft:blockCustomPlant:2, Shimmerleaf
+Thaumcraft:blockCustomPlant:3, Cinderpearl
+Thaumcraft:blockCustomPlant:4, Ethereal Bloom
+Thaumcraft:blockCustomPlant:5, Vishroom
+Thaumcraft:blockTaint:0, Crusted Taint
+Thaumcraft:blockTaint:1, Tainted Soil
+Thaumcraft:blockTaint:2, Block of Flesh
+Thaumcraft:blockTaintFibres:0, Fibrous Taint
+Thaumcraft:blockTaintFibres:1, Tainted Grass
+Thaumcraft:blockTaintFibres:2, Tainted Plant
+Thaumcraft:blockTaintFibres:3, Spore Stalk
+Thaumcraft:blockCosmeticOpaque:0, Amber Block
+Thaumcraft:blockCosmeticOpaque:1, Amber Bricks
+Thaumcraft:blockCosmeticOpaque:2, Warded Glass
+Thaumcraft:blockCosmeticSolid:0, Obsidian Totem
+Thaumcraft:blockCosmeticSolid:1, Obsidian Tile
+Thaumcraft:blockCosmeticSolid:2, Paving Stone of Travel
+Thaumcraft:blockCosmeticSolid:3, Paving Stone of Warding
+Thaumcraft:blockCosmeticSolid:4, Thaumium Block
+Thaumcraft:blockCosmeticSolid:5, Tallow Block
+Thaumcraft:blockCosmeticSolid:6, Arcane Stone Block
+Thaumcraft:blockCosmeticSolid:7, Arcane Stone Bricks
+Thaumcraft:blockCosmeticSolid:8, Charged Obsidian Totem
+Thaumcraft:blockCosmeticSolid:9, Golem Fetter
+Thaumcraft:blockCosmeticSolid:11, Ancient Stone
+Thaumcraft:blockCosmeticSolid:12, Ancient Rock
+Thaumcraft:blockCosmeticSolid:14, Crusted Stone
+Thaumcraft:blockCosmeticSolid:15, Ancient Stone Pedestal
+Thaumcraft:blockCrystal:0, Air Crystal Cluster
+Thaumcraft:blockCrystal:1, Fire Crystal Cluster
+Thaumcraft:blockCrystal:2, Water Crystal Cluster
+Thaumcraft:blockCrystal:3, Earth Crystal Cluster
+Thaumcraft:blockCrystal:4, Order Crystal Cluster
+Thaumcraft:blockCrystal:5, Entropy Crystal Cluster
+Thaumcraft:blockCrystal:6, Mixed Crystal Cluster
+Thaumcraft:blockTube:0, Essentia Tube
+Thaumcraft:blockTube:1, Essentia Valve
+Thaumcraft:blockTube:2, Alchemical Centrifuge
+Thaumcraft:blockTube:3, Filtered Essentia Tube
+Thaumcraft:blockTube:4, Essentia Buffer
+Thaumcraft:blockTube:5, Restricted Essentia Tube
+Thaumcraft:blockTube:6, Directional Essentia Tube
+Thaumcraft:blockTube:7, Essentia Crystallizer
+Thaumcraft:blockMetalDevice:0, Crucible
+Thaumcraft:blockMetalDevice:1, Arcane Alembic
+Thaumcraft:blockMetalDevice:5, Item Grate
+Thaumcraft:blockMetalDevice:7, Arcane Lamp
+Thaumcraft:blockMetalDevice:8, Lamp of Growth
+Thaumcraft:blockMetalDevice:13, Lamp of Fertility
+Thaumcraft:blockMetalDevice:9, Alchemical Construct
+Thaumcraft:blockMetalDevice:3, Advanced Alchemical Construct
+Thaumcraft:blockMetalDevice:12, Mnemonic Matrix
+Thaumcraft:blockMetalDevice:14, Vis Relay
+Thaumcraft:blockMetalDevice:2, Vis Charge Relay
+Thaumcraft:blockWoodenDevice:0, Arcane Bellows
+Thaumcraft:blockWoodenDevice:1, Arcane Ear
+Thaumcraft:blockWoodenDevice:2, Arcane Pressure Plate
+Thaumcraft:blockWoodenDevice:4, Arcane Bore Base
+Thaumcraft:blockWoodenDevice:5, Arcane Bore
+Thaumcraft:blockWoodenDevice:6, Greatwood Planks
+Thaumcraft:blockWoodenDevice:7, Silverwood Planks
+Thaumcraft:blockWoodenDevice:8, Crimson Cult Banner
+Thaumcraft:blockWoodenDevice:8, White Banner
+Thaumcraft:blockWoodenDevice:8, Orange Banner
+Thaumcraft:blockWoodenDevice:8, Magenta Banner
+Thaumcraft:blockWoodenDevice:8, Light Blue Banner
+Thaumcraft:blockWoodenDevice:8, Yellow Banner
+Thaumcraft:blockWoodenDevice:8, Lime Banner
+Thaumcraft:blockWoodenDevice:8, Pink Banner
+Thaumcraft:blockWoodenDevice:8, Gray Banner
+Thaumcraft:blockWoodenDevice:8, Light Gray Banner
+Thaumcraft:blockWoodenDevice:8, Cyan Banner
+Thaumcraft:blockWoodenDevice:8, Purple Banner
+Thaumcraft:blockWoodenDevice:8, Blue Banner
+Thaumcraft:blockWoodenDevice:8, Brown Banner
+Thaumcraft:blockWoodenDevice:8, Green Banner
+Thaumcraft:blockWoodenDevice:8, Red Banner
+Thaumcraft:blockWoodenDevice:8, Black Banner
+Thaumcraft:blockStoneDevice:0, Alchemical Furnace
+Thaumcraft:blockStoneDevice:1, Arcane Pedestal
+Thaumcraft:blockStoneDevice:2, Runic Matrix
+Thaumcraft:blockStoneDevice:5, Wand Recharge Pedestal
+Thaumcraft:blockStoneDevice:8, Compound Recharge Focus
+Thaumcraft:blockStoneDevice:9, Node Stabilizer
+Thaumcraft:blockStoneDevice:10, Advanced Node Stabilizer
+Thaumcraft:blockStoneDevice:11, Node Transducer
+Thaumcraft:blockStoneDevice:12, Arcane Spa
+Thaumcraft:blockStoneDevice:13, Focal Manipulator
+Thaumcraft:blockStoneDevice:14, Flux Scrubber
+Thaumcraft:blockMirror:0, Magic Mirror
+Thaumcraft:blockMirror:6, Essentia Mirror
+Thaumcraft:blockTable:0, Table
+Thaumcraft:blockTable:14, Deconstruction Table
+Thaumcraft:blockTable:15, Arcane Worktable
+Thaumcraft:blockChestHungry, Hungry Chest
+Thaumcraft:blockArcaneDoor, Arcane Door
+Thaumcraft:blockLifter, Arcane Levitator
+Thaumcraft:blockMagicBox, tile.blockMagicBox.name
+Thaumcraft:blockAlchemyFurnace, Advanced Alchemical Furnace
+Thaumcraft:blockJar:0, Warded Jar
+Thaumcraft:blockJar:1, Brain in a Jar
+Thaumcraft:blockJar:3, Void Jar
+Thaumcraft:blockCandle:0, White Tallow Candle
+Thaumcraft:blockCandle:1, Orange Tallow Candle
+Thaumcraft:blockCandle:2, Magenta Tallow Candle
+Thaumcraft:blockCandle:3, Light Blue Tallow Candle
+Thaumcraft:blockCandle:4, Yellow Tallow Candle
+Thaumcraft:blockCandle:5, Lime Tallow Candle
+Thaumcraft:blockCandle:6, Pink Tallow Candle
+Thaumcraft:blockCandle:7, Gray Tallow Candle
+Thaumcraft:blockCandle:8, Light Gray Tallow Candle
+Thaumcraft:blockCandle:9, Cyan Tallow Candle
+Thaumcraft:blockCandle:10, Purple Tallow Candle
+Thaumcraft:blockCandle:11, Blue Tallow Candle
+Thaumcraft:blockCandle:12, Brown Tallow Candle
+Thaumcraft:blockCandle:13, Green Tallow Candle
+Thaumcraft:blockCandle:14, Red Tallow Candle
+Thaumcraft:blockCandle:15, Black Tallow Candle
+Thaumcraft:blockEldritch:4, Glowing Crusted Stone
+Thaumcraft:blockAiry:0, Aura Node
+Thaumcraft:blockManaPod, tile.blockManaPod.name
+Thaumcraft:blockArcaneFurnace, Infernal Furnace
+Thaumcraft:blockWarded, tile.blockWarded.name
+Thaumcraft:blockHole, Empty Space
+Thaumcraft:blockPortalEldritch, Eldritch Portal
+Thaumcraft:blockEssentiaReservoir:0, Essentia Reservoir
+Thaumcraft:blockEldritchNothing, tile.blockPortalNothing.name
+Thaumcraft:blockStairsArcaneStone, Arcane Stone Stairs
+Thaumcraft:blockStairsGreatwood, Greatwood Stairs
+Thaumcraft:blockStairsSilverwood, Silverwood Stairs
+Thaumcraft:blockStairsEldritch, Ancient Stone Stairs
+Thaumcraft:blockCosmeticSlabWood:0, Greatwood Slab
+Thaumcraft:blockCosmeticSlabWood:1, Silverwood Slab
+Thaumcraft:blockCosmeticSlabStone:0, Arcane Stone Slab
+Thaumcraft:blockCosmeticSlabStone:1, Ancient Stone Slab
+Thaumcraft:blockCosmeticDoubleSlabWood, tile.blockCosmeticDoubleSlabWood.name
+Thaumcraft:blockCosmeticDoubleSlabStone, tile.blockCosmeticDoubleSlabStone.name
+Thaumcraft:blockLootUrn:0, Old Urn
+Thaumcraft:blockLootUrn:1, Old Urn
+Thaumcraft:blockLootUrn:2, Old Urn
+Thaumcraft:blockLootCrate:0, Abandoned Crate
+Thaumcraft:blockLootCrate:1, Abandoned Crate
+Thaumcraft:blockLootCrate:2, Abandoned Crate
+Automagy:blockRedcrystal, Redcrystal
+Automagy:blockRedcrystalAmp, Amplified Redcrystal
+Automagy:blockRedcrystalDim, Dim Redcrystal
+Automagy:blockRedcrystalDense, Dense Redcrystal
+Automagy:blockRedcrystalRes, Resonating Redcrystal
+Automagy:blockRedcrystalMerc, Mercurial Redcrystal
+Automagy:blockTorchInversion, Redstone Inversion Torch
+Automagy:blockTorchInversion_off, Redstone Inversion Torch
+Automagy:blockRemoteComparator, Remote Comparator
+Automagy:blockVisReader, Vis Reader
+Automagy:blockTally, Tally Box
+Automagy:blockHourglass, Hourglass
+Automagy:blockHourglassMagic, Magic Hourglass
+Automagy:blockGreedyChest, Greedy Chest
+Automagy:blockEagerChest, Eager Chest
+Automagy:blockTenaciousChest, Tenacious Chest
+Automagy:blockHungryMaw, Hungry Maw
+Automagy:blockFinicalMaw, Finical Maw
+Automagy:blockGolemInhibitor, Golemic Inhibitor
+Automagy:blockEntitySignal, Signum Entia
+Automagy:blockEssentiaLocus, Essentia Locus
+Automagy:blockEssentiaLocusAggregator, Essentia Aggregator
+Automagy:blockInventarium, Inventarium Core
+Automagy:blockUnseenScribe, Unseen Scribe
+Automagy:blockScribePointer, Scrivener's Oculus
+Automagy:blockGolemTaskmaster, Golemic Taskmaster
+Automagy:blockReqTome, Requisition Tome
+Automagy:blockBookshelfEnchanted:0, Enchanting Bookshelf
+Automagy:blockBookshelfEnchanted:1, Ensorcelled Bookshelf
+Automagy:blockTranslucent:0, Glowing Amber
+Automagy:blockTranslucent:1, Glowing Amber Bricks
+Automagy:blockMetalGlow:0, Memory Block
+Automagy:blockNethermind, Nethermind
+Automagy:blockRunedObsidian, Runed Obsidian
+Automagy:blockNetherRune:0, Runed Obsidian (Rock)
+Automagy:blockNetherRune:1, Runed Obsidian (Sea)
+Automagy:blockNetherRune:2, Runed Obsidian (Crystal)
+Automagy:blockNetherRune:4, Runed Obsidian (Soul)
+Automagy:blockNetherRune:6, Runed Obsidian (Celerity)
+Automagy:blockNetherRuneMob:0, Runed Obsidian (Zombie)
+Automagy:blockNetherRuneMob:1, Runed Obsidian (Blaze)
+Automagy:blockNetherRuneMob:2, Runed Obsidian (Ghast)
+Automagy:blockNetherRuneMob:3, Runed Obsidian (Skull)
+Automagy:blockNetherRuneMob:4, Runed Obsidian (Slime)
+Automagy:blockNetherRuneMob:5, Runed Obsidian (Bat)
+Automagy:blockNetherRuneMob:6, Runed Obsidian (Wisp)
+Automagy:blockMobLure, Siren's Lure
+Automagy:blockDimensionLure, Dimensional Lure
+Automagy:blockGolemWorkbench, Golem's Workbench
+Automagy:blockThirstyTank, Thirsty Tank
+Automagy:blockBoiler, Alchemical Boiler
+Automagy:blockCreativeJar:3, Infinity Jar
+Automagy:blockAmnesiac, Amnesiac's Stone
+Automagy:blockXPStone, Soul Stone
+Automagy:blockXPJar, Jar of Enchanter's Concentrate
+Automagy:blockThaumostaticPylon:0, Thaumostatic Pylon
+Automagy:blockThaumostaticPylon:1, Thaumostatic Controller
+Automagy:blockMirrorAlt:0, Melding Mirror
+Automagy:blockFluidMilk, Milk
+Automagy:blockFluidMushroom, Mushroom Soup
+Automagy:blockFluidVishroom, Vishroom Soup
+Automagy:blockPhenomenon, Phenomenon
+Automagy:blockThaumostaticSpire, Thaumostatic Spire
+Automagy:blockTallyLensWorld, Tally Box (Lens: Unbound)
+Automagy:blockTallyLensDrops, Tally Box (Lens: Yield)
+BiblioCraft:tile.BiblioFramedChest:0, Framed Chest
+BiblioCraft:BiblioPaneler:0, Oak Furniture Paneler
+BiblioCraft:BiblioPaneler:1, Spruce Furniture Paneler
+BiblioCraft:BiblioPaneler:2, Birch Furniture Paneler
+BiblioCraft:BiblioPaneler:3, Jungle Furniture Paneler
+BiblioCraft:BiblioPaneler:4, Acacia Furniture Paneler
+BiblioCraft:BiblioPaneler:5, Dark Oak Furniture Paneler
+BiblioCraft:BiblioPaneler:6, Framed Furniture Paneler
+BiblioCraft:BiblioClipboard, tile.BiblioClipboard.name
+BiblioCraft:BiblioTypewriter:0, White Typewriter
+BiblioCraft:BiblioTypewriter:1, Light Gray Typewriter
+BiblioCraft:BiblioTypewriter:2, Gray Typewriter
+BiblioCraft:BiblioTypewriter:3, Black Typewriter
+BiblioCraft:BiblioTypewriter:4, Red Typewriter
+BiblioCraft:BiblioTypewriter:5, Orange Typewriter
+BiblioCraft:BiblioTypewriter:6, Yellow Typewriter
+BiblioCraft:BiblioTypewriter:7, Lime Typewriter
+BiblioCraft:BiblioTypewriter:8, Green Typewriter
+BiblioCraft:BiblioTypewriter:9, Cyan Typewriter
+BiblioCraft:BiblioTypewriter:10, Light Blue Typewriter
+BiblioCraft:BiblioTypewriter:11, Blue Typewriter
+BiblioCraft:BiblioTypewriter:12, Purple Typewriter
+BiblioCraft:BiblioTypewriter:13, Magenta Typewriter
+BiblioCraft:BiblioTypewriter:14, Pink Typewriter
+BiblioCraft:BiblioTypewriter:15, Brown Typewriter
+BiblioCraft:BiblioClock:0, Oak Clock
+BiblioCraft:BiblioClock:1, Spruce Clock
+BiblioCraft:BiblioClock:2, Birch Clock
+BiblioCraft:BiblioClock:3, Jungle Clock
+BiblioCraft:BiblioClock:4, Acacia Clock
+BiblioCraft:BiblioClock:5, Dark Oak Clock
+BiblioCraft:BiblioClock:6, Framed Clock
+BiblioCraft:BiblioFlatPainting:0, Oak Painting Frame
+BiblioCraft:BiblioFlatPainting:1, Spruce Painting Frame
+BiblioCraft:BiblioFlatPainting:2, Birch Painting Frame
+BiblioCraft:BiblioFlatPainting:3, Jungle Painting Frame
+BiblioCraft:BiblioFlatPainting:4, Acacia Painting Frame
+BiblioCraft:BiblioFlatPainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioFlatPainting:6, Framed Painting Frame
+BiblioCraft:BiblioSimplePainting:0, Oak Painting Frame
+BiblioCraft:BiblioSimplePainting:1, Spruce Painting Frame
+BiblioCraft:BiblioSimplePainting:2, Birch Painting Frame
+BiblioCraft:BiblioSimplePainting:3, Jungle Painting Frame
+BiblioCraft:BiblioSimplePainting:4, Acacia Painting Frame
+BiblioCraft:BiblioSimplePainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioSimplePainting:6, Framed Painting Frame
+BiblioCraft:BiblioMiddlePainting:0, Oak Painting Frame
+BiblioCraft:BiblioMiddlePainting:1, Spruce Painting Frame
+BiblioCraft:BiblioMiddlePainting:2, Birch Painting Frame
+BiblioCraft:BiblioMiddlePainting:3, Jungle Painting Frame
+BiblioCraft:BiblioMiddlePainting:4, Acacia Painting Frame
+BiblioCraft:BiblioMiddlePainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioMiddlePainting:6, Framed Painting Frame
+BiblioCraft:BiblioFancyPainting:0, Oak Painting Frame
+BiblioCraft:BiblioFancyPainting:1, Spruce Painting Frame
+BiblioCraft:BiblioFancyPainting:2, Birch Painting Frame
+BiblioCraft:BiblioFancyPainting:3, Jungle Painting Frame
+BiblioCraft:BiblioFancyPainting:4, Acacia Painting Frame
+BiblioCraft:BiblioFancyPainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioFancyPainting:6, Framed Painting Frame
+BiblioCraft:BiblioBorderlessPainting:0, Oak Painting Frame
+BiblioCraft:BiblioBorderlessPainting:1, Spruce Painting Frame
+BiblioCraft:BiblioBorderlessPainting:2, Birch Painting Frame
+BiblioCraft:BiblioBorderlessPainting:3, Jungle Painting Frame
+BiblioCraft:BiblioBorderlessPainting:4, Acacia Painting Frame
+BiblioCraft:BiblioBorderlessPainting:5, Dark Oak Painting Frame
+BiblioCraft:BiblioBorderlessPainting:6, Framed Painting Frame
 BiblioCraft:BiblioPaintPress, Painting Press
 BiblioCraft:BiblioSwordPedestal:0, Sword Pedestal
 BiblioCraft:BiblioSwordPedestal:1, Sword Pedestal
@@ -743,12 +1136,6 @@ BiblioCraft:BiblioPotionShelf:3, Jungle Potion Shelf
 BiblioCraft:BiblioPotionShelf:4, Acacia Potion Shelf
 BiblioCraft:BiblioPotionShelf:5, Dark Oak Potion Shelf
 BiblioCraft:BiblioPotionShelf:6, Framed Potion Shelf
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
 BiblioCraft:BiblioShelf:0, Oak Shelf
 BiblioCraft:BiblioShelf:1, Spruce Shelf
 BiblioCraft:BiblioShelf:2, Birch Shelf
@@ -1206,167 +1593,6 @@ AWWayofTime:blockEnchantmentGlyph:0, Glyph of the Adept Enchanter
 AWWayofTime:blockEnchantmentGlyph:1, Glyph of Arcane Potential
 AWWayofTime:blockStabilityGlyph:0, Glyph of Rigid Stability
 AWWayofTime:blockCrucible, Incense Crucible
-Thaumcraft:blockFluxGoo:0, Flux Goo
-Thaumcraft:blockFluxGas:0, Flux Gas
-Thaumcraft:blockFluidPure, Purifying Fluid
-Thaumcraft:blockFluidDeath, Liquid Death
-Thaumcraft:blockCustomOre:0, Cinnabar Ore
-Thaumcraft:blockCustomOre:1, Air Infused Stone
-Thaumcraft:blockCustomOre:2, Fire Infused Stone
-Thaumcraft:blockCustomOre:3, Water Infused Stone
-Thaumcraft:blockCustomOre:4, Earth Infused Stone
-Thaumcraft:blockCustomOre:5, Order Infused Stone
-Thaumcraft:blockCustomOre:6, Entropy Infused Stone
-Thaumcraft:blockCustomOre:7, Amber Bearing Stone
-Thaumcraft:blockMagicalLog:0, Greatwood Log
-Thaumcraft:blockMagicalLog:1, Silverwood Log
-Thaumcraft:blockMagicalLeaves:0, Greatwood Leaves
-Thaumcraft:blockMagicalLeaves:1, Silverwood Leaves
-Thaumcraft:blockCustomPlant:0, Greatwood Sapling
-Thaumcraft:blockCustomPlant:1, Silverwood Sapling
-Thaumcraft:blockCustomPlant:2, Shimmerleaf
-Thaumcraft:blockCustomPlant:3, Cinderpearl
-Thaumcraft:blockCustomPlant:4, Ethereal Bloom
-Thaumcraft:blockCustomPlant:5, Vishroom
-Thaumcraft:blockTaint:0, Crusted Taint
-Thaumcraft:blockTaint:1, Tainted Soil
-Thaumcraft:blockTaint:2, Block of Flesh
-Thaumcraft:blockTaintFibres:0, Fibrous Taint
-Thaumcraft:blockTaintFibres:1, Tainted Grass
-Thaumcraft:blockTaintFibres:2, Tainted Plant
-Thaumcraft:blockTaintFibres:3, Spore Stalk
-Thaumcraft:blockCosmeticOpaque:0, Amber Block
-Thaumcraft:blockCosmeticOpaque:1, Amber Bricks
-Thaumcraft:blockCosmeticOpaque:2, Warded Glass
-Thaumcraft:blockCosmeticSolid:0, Obsidian Totem
-Thaumcraft:blockCosmeticSolid:1, Obsidian Tile
-Thaumcraft:blockCosmeticSolid:2, Paving Stone of Travel
-Thaumcraft:blockCosmeticSolid:3, Paving Stone of Warding
-Thaumcraft:blockCosmeticSolid:4, Thaumium Block
-Thaumcraft:blockCosmeticSolid:5, Tallow Block
-Thaumcraft:blockCosmeticSolid:6, Arcane Stone Block
-Thaumcraft:blockCosmeticSolid:7, Arcane Stone Bricks
-Thaumcraft:blockCosmeticSolid:8, Charged Obsidian Totem
-Thaumcraft:blockCosmeticSolid:9, Golem Fetter
-Thaumcraft:blockCosmeticSolid:11, Ancient Stone
-Thaumcraft:blockCosmeticSolid:12, Ancient Rock
-Thaumcraft:blockCosmeticSolid:14, Crusted Stone
-Thaumcraft:blockCosmeticSolid:15, Ancient Stone Pedestal
-Thaumcraft:blockCrystal:0, Air Crystal Cluster
-Thaumcraft:blockCrystal:1, Fire Crystal Cluster
-Thaumcraft:blockCrystal:2, Water Crystal Cluster
-Thaumcraft:blockCrystal:3, Earth Crystal Cluster
-Thaumcraft:blockCrystal:4, Order Crystal Cluster
-Thaumcraft:blockCrystal:5, Entropy Crystal Cluster
-Thaumcraft:blockCrystal:6, Mixed Crystal Cluster
-Thaumcraft:blockTube:0, Essentia Tube
-Thaumcraft:blockTube:1, Essentia Valve
-Thaumcraft:blockTube:2, Alchemical Centrifuge
-Thaumcraft:blockTube:3, Filtered Essentia Tube
-Thaumcraft:blockTube:4, Essentia Buffer
-Thaumcraft:blockTube:5, Restricted Essentia Tube
-Thaumcraft:blockTube:6, Directional Essentia Tube
-Thaumcraft:blockTube:7, Essentia Crystallizer
-Thaumcraft:blockMetalDevice:0, Crucible
-Thaumcraft:blockMetalDevice:1, Arcane Alembic
-Thaumcraft:blockMetalDevice:5, Item Grate
-Thaumcraft:blockMetalDevice:7, Arcane Lamp
-Thaumcraft:blockMetalDevice:8, Lamp of Growth
-Thaumcraft:blockMetalDevice:13, Lamp of Fertility
-Thaumcraft:blockMetalDevice:9, Alchemical Construct
-Thaumcraft:blockMetalDevice:3, Advanced Alchemical Construct
-Thaumcraft:blockMetalDevice:12, Mnemonic Matrix
-Thaumcraft:blockMetalDevice:14, Vis Relay
-Thaumcraft:blockMetalDevice:2, Vis Charge Relay
-Thaumcraft:blockWoodenDevice:0, Arcane Bellows
-Thaumcraft:blockWoodenDevice:1, Arcane Ear
-Thaumcraft:blockWoodenDevice:2, Arcane Pressure Plate
-Thaumcraft:blockWoodenDevice:4, Arcane Bore Base
-Thaumcraft:blockWoodenDevice:5, Arcane Bore
-Thaumcraft:blockWoodenDevice:6, Greatwood Planks
-Thaumcraft:blockWoodenDevice:7, Silverwood Planks
-Thaumcraft:blockWoodenDevice:8, Crimson Cult Banner
-Thaumcraft:blockWoodenDevice:8, White Banner
-Thaumcraft:blockWoodenDevice:8, Orange Banner
-Thaumcraft:blockWoodenDevice:8, Magenta Banner
-Thaumcraft:blockWoodenDevice:8, Light Blue Banner
-Thaumcraft:blockWoodenDevice:8, Yellow Banner
-Thaumcraft:blockWoodenDevice:8, Lime Banner
-Thaumcraft:blockWoodenDevice:8, Pink Banner
-Thaumcraft:blockWoodenDevice:8, Gray Banner
-Thaumcraft:blockWoodenDevice:8, Light Gray Banner
-Thaumcraft:blockWoodenDevice:8, Cyan Banner
-Thaumcraft:blockWoodenDevice:8, Purple Banner
-Thaumcraft:blockWoodenDevice:8, Blue Banner
-Thaumcraft:blockWoodenDevice:8, Brown Banner
-Thaumcraft:blockWoodenDevice:8, Green Banner
-Thaumcraft:blockWoodenDevice:8, Red Banner
-Thaumcraft:blockWoodenDevice:8, Black Banner
-Thaumcraft:blockStoneDevice:0, Alchemical Furnace
-Thaumcraft:blockStoneDevice:1, Arcane Pedestal
-Thaumcraft:blockStoneDevice:2, Runic Matrix
-Thaumcraft:blockStoneDevice:5, Wand Recharge Pedestal
-Thaumcraft:blockStoneDevice:8, Compound Recharge Focus
-Thaumcraft:blockStoneDevice:9, Node Stabilizer
-Thaumcraft:blockStoneDevice:10, Advanced Node Stabilizer
-Thaumcraft:blockStoneDevice:11, Node Transducer
-Thaumcraft:blockStoneDevice:12, Arcane Spa
-Thaumcraft:blockStoneDevice:13, Focal Manipulator
-Thaumcraft:blockStoneDevice:14, Flux Scrubber
-Thaumcraft:blockMirror:0, Magic Mirror
-Thaumcraft:blockMirror:6, Essentia Mirror
-Thaumcraft:blockTable:0, Table
-Thaumcraft:blockTable:14, Deconstruction Table
-Thaumcraft:blockTable:15, Arcane Worktable
-Thaumcraft:blockChestHungry, Hungry Chest
-Thaumcraft:blockArcaneDoor, Arcane Door
-Thaumcraft:blockLifter, Arcane Levitator
-Thaumcraft:blockMagicBox, tile.blockMagicBox.name
-Thaumcraft:blockAlchemyFurnace, Advanced Alchemical Furnace
-Thaumcraft:blockJar:0, Warded Jar
-Thaumcraft:blockJar:1, Brain in a Jar
-Thaumcraft:blockJar:3, Void Jar
-Thaumcraft:blockCandle:0, White Tallow Candle
-Thaumcraft:blockCandle:1, Orange Tallow Candle
-Thaumcraft:blockCandle:2, Magenta Tallow Candle
-Thaumcraft:blockCandle:3, Light Blue Tallow Candle
-Thaumcraft:blockCandle:4, Yellow Tallow Candle
-Thaumcraft:blockCandle:5, Lime Tallow Candle
-Thaumcraft:blockCandle:6, Pink Tallow Candle
-Thaumcraft:blockCandle:7, Gray Tallow Candle
-Thaumcraft:blockCandle:8, Light Gray Tallow Candle
-Thaumcraft:blockCandle:9, Cyan Tallow Candle
-Thaumcraft:blockCandle:10, Purple Tallow Candle
-Thaumcraft:blockCandle:11, Blue Tallow Candle
-Thaumcraft:blockCandle:12, Brown Tallow Candle
-Thaumcraft:blockCandle:13, Green Tallow Candle
-Thaumcraft:blockCandle:14, Red Tallow Candle
-Thaumcraft:blockCandle:15, Black Tallow Candle
-Thaumcraft:blockEldritch:4, Glowing Crusted Stone
-Thaumcraft:blockAiry:0, Aura Node
-Thaumcraft:blockManaPod, tile.blockManaPod.name
-Thaumcraft:blockArcaneFurnace, Infernal Furnace
-Thaumcraft:blockWarded, tile.blockWarded.name
-Thaumcraft:blockHole, Empty Space
-Thaumcraft:blockPortalEldritch, Eldritch Portal
-Thaumcraft:blockEssentiaReservoir:0, Essentia Reservoir
-Thaumcraft:blockEldritchNothing, tile.blockPortalNothing.name
-Thaumcraft:blockStairsArcaneStone, Arcane Stone Stairs
-Thaumcraft:blockStairsGreatwood, Greatwood Stairs
-Thaumcraft:blockStairsSilverwood, Silverwood Stairs
-Thaumcraft:blockStairsEldritch, Ancient Stone Stairs
-Thaumcraft:blockCosmeticSlabWood:0, Greatwood Slab
-Thaumcraft:blockCosmeticSlabWood:1, Silverwood Slab
-Thaumcraft:blockCosmeticSlabStone:0, Arcane Stone Slab
-Thaumcraft:blockCosmeticSlabStone:1, Ancient Stone Slab
-Thaumcraft:blockCosmeticDoubleSlabWood, tile.blockCosmeticDoubleSlabWood.name
-Thaumcraft:blockCosmeticDoubleSlabStone, tile.blockCosmeticDoubleSlabStone.name
-Thaumcraft:blockLootUrn:0, Old Urn
-Thaumcraft:blockLootUrn:1, Old Urn
-Thaumcraft:blockLootUrn:2, Old Urn
-Thaumcraft:blockLootCrate:0, Abandoned Crate
-Thaumcraft:blockLootCrate:1, Abandoned Crate
-Thaumcraft:blockLootCrate:2, Abandoned Crate
 Botania:flower:0, Mystical White Flower
 Botania:flower:1, Mystical Orange Flower
 Botania:flower:2, Mystical Magenta Flower
@@ -3491,6 +3717,103 @@ chisel:woolen_clay:12, Woolen Clay
 chisel:woolen_clay:13, Woolen Clay
 chisel:woolen_clay:14, Woolen Clay
 chisel:woolen_clay:15, Woolen Clay
+EnderIO:blockStirlingGenerator, Stirling Generator
+EnderIO:blockCombustionGenerator, Combustion Generator
+EnderIO:blockZombieGenerator, Zombie Generator
+EnderIO:blockSolarPanel:0, Photovoltaic Cell
+EnderIO:blockSolarPanel:1, Advanced Photovoltaic Cell
+EnderIO:blockSagMill, SAG Mill
+EnderIO:blockAlloySmelter, Alloy Smelter
+EnderIO:blockCapBank:0, Creative Capacitor Bank
+EnderIO:blockCapBank:1, Basic Capacitor Bank
+EnderIO:blockCapBank:1, Basic Capacitor Bank
+EnderIO:blockCapBank:2, Capacitor Bank
+EnderIO:blockCapBank:2, Capacitor Bank
+EnderIO:blockCapBank:3, Vibrant Capacitor Bank
+EnderIO:blockCapBank:3, Vibrant Capacitor Bank
+EnderIO:blockPainter, Painting Machine
+EnderIO:blockPaintedFence:0, Painted Fence
+EnderIO:blockPaintedFenceGate:0, Painted Gate
+EnderIO:blockPaintedWall:0, Painted Wall
+EnderIO:blockPaintedStair:0, Painted Stairs
+EnderIO:blockPaintedSlab:0, Painted Slab
+EnderIO:blockPaintedDoubleSlab:0, Painted Slab
+EnderIO:blockCrafter, Crafter
+EnderIO:blockPaintedGlowstone:0, Painted Glowstone
+EnderIO:blockPaintedCarpet:0, Painted Carpet
+EnderIO:blockVat, The Vat
+EnderIO:blockPowerMonitor, Power Monitor
+EnderIO:blockFarmStation, Farming Station
+EnderIO:blockWirelessCharger, Wireless Charger
+EnderIO:blockHyperCube, Dimensional Transceiver (Deprecated)
+EnderIO:blockTank:0, Fluid Tank
+EnderIO:blockTank:1, Pressurized Fluid Tank
+EnderIO:blockReservoir, Reservoir
+EnderIO:blockVacuumChest, Vacuum Chest
+EnderIO:blockTransceiver, Dimensional Transceiver
+EnderIO:blockBuffer:0, Item Buffer
+EnderIO:blockBuffer:1, Power Buffer
+EnderIO:blockBuffer:2, Omni Buffer
+EnderIO:blockBuffer:3, Creative Buffer
+EnderIO:blockInventoryPanel, Inventory Panel
+EnderIO:blockEnderIo, Ender IO
+EnderIO:blockTravelAnchor, Travel Anchor
+EnderIO:blockTelePad, Telepad Block
+EnderIO:blockSliceAndSplice, Slice'N'Splice
+EnderIO:blockSoulBinder, Soul Binder
+EnderIO:blockPoweredSpawner, Powered Spawner
+EnderIO:blockKillerJoe, Killer Joe
+EnderIO:blockAttractor, Attractor Obelisk
+EnderIO:blockSpawnGuard, Aversion Obelisk
+EnderIO:blockExperienceObelisk, Experience Obelisk
+EnderIO:blockWeatherObelisk, Weather Obelisk
+EnderIO:blockInhibitorObelisk, tile.blockInhibitorObelisk.name
+EnderIO:blockEnchanter, Enchanter
+EnderIO:blockDarkSteelPressurePlate:0, Dark Pressure Plate
+EnderIO:blockDarkSteelPressurePlate:1, Dark Pressure Plate
+EnderIO:blockDarkSteelAnvil:0, Dark Steel Anvil
+EnderIO:blockDarkSteelAnvil:1, Slightly Damaged Dark Steel Anvil
+EnderIO:blockDarkSteelAnvil:2, Very Damaged Dark Steel Anvil
+EnderIO:blockDarkSteelLadder, Dark Steel Ladder
+EnderIO:blockElectricLight:0, Powered Light
+EnderIO:blockElectricLight:1, Powered Light (Inverted)
+EnderIO:blockElectricLight:2, Light
+EnderIO:blockElectricLight:3, Light (Inverted)
+EnderIO:blockElectricLight:4, Wireless Powered Light
+EnderIO:blockElectricLight:5, Wireless Powered Light (Inverted)
+EnderIO:blockLightNode, tile.blockLightNode.name
+EnderIO:blockReinforcedObsidian, Reinforced Obsidian
+EnderIO:blockFusedQuartz:0, Fused Quartz
+EnderIO:blockFusedQuartz:1, Quite Clear Glass
+EnderIO:blockFusedQuartz:2, Enlightened Fused Quartz
+EnderIO:blockFusedQuartz:3, Enlightened Clear Glass
+EnderIO:blockFusedQuartz:4, Dark Fused Quartz
+EnderIO:blockFusedQuartz:5, Dark Clear Glass
+EnderIO:blockEnderRail, Ender Rail
+EnderIO:blockConduitBundle, Conduit Connector
+EnderIO:blockConduitFacade, tile.blockConduitFacade.name
+EnderIO:blockEndermanSkull:0, Enderman Head
+EnderIO:blockEndermanSkull:2, Tormented Enderman Head
+EnderIO:blockNutrient_distillation, Nutrient Distillation
+EnderIO:blockHootch, Hootch
+EnderIO:blockRocket_fuel, Rocket Fuel
+EnderIO:blockFire_water, Fire Water
+EnderIO:blockIngotStorage:0, Electrical Steel Block
+EnderIO:blockIngotStorage:1, Energetic Alloy Block
+EnderIO:blockIngotStorage:2, Vibrant Alloy Block
+EnderIO:blockIngotStorage:3, Redstone Alloy Block
+EnderIO:blockIngotStorage:4, Conductive Iron Block
+EnderIO:blockIngotStorage:5, Pulsating Iron Block
+EnderIO:blockIngotStorage:6, Dark Steel Block
+EnderIO:blockIngotStorage:7, Soularium Block
+EnderIO:blockDarkIronBars, Dark Iron Bars
+extracells:certustank, extracells.block.certustank.name
+extracells:walrus, Walrus
+extracells:fluidcrafter, ME Fluid Assembler
+extracells:ecbaseblock:0, ME Fluid Interface
+extracells:ecbaseblock:1, ME Fluid Auto Filler
+extracells:hardmedrive, Blast resistant ME Drive [WIP]
+extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ThermalFoundation:Ore:0, Copper Ore
 ThermalFoundation:Ore:1, Tin Ore
 ThermalFoundation:Ore:2, Silver Ore
@@ -3524,7 +3847,7 @@ ThermalFoundation:FluidCoal, Liquifacted Coal
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
+ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -3893,140 +4216,43 @@ ExtraUtilities:etherealglass:2, Dark Ethereal Glass
 ExtraUtilities:etherealglass:3, Ethereal Glass (Inverted)
 ExtraUtilities:etherealglass:4, Ineffable Glass (Inverted)
 ExtraUtilities:etherealglass:5, Dark Ethereal Glass (Inverted)
-EnderIO:blockStirlingGenerator, Stirling Generator
-EnderIO:blockCombustionGenerator, Combustion Generator
-EnderIO:blockZombieGenerator, Zombie Generator
-EnderIO:blockSolarPanel:0, Photovoltaic Cell
-EnderIO:blockSolarPanel:1, Advanced Photovoltaic Cell
-EnderIO:blockSagMill, SAG Mill
-EnderIO:blockAlloySmelter, Alloy Smelter
-EnderIO:blockCapBank:0, Creative Capacitor Bank
-EnderIO:blockCapBank:1, Basic Capacitor Bank
-EnderIO:blockCapBank:1, Basic Capacitor Bank
-EnderIO:blockCapBank:2, Capacitor Bank
-EnderIO:blockCapBank:2, Capacitor Bank
-EnderIO:blockCapBank:3, Vibrant Capacitor Bank
-EnderIO:blockCapBank:3, Vibrant Capacitor Bank
-EnderIO:blockPainter, Painting Machine
-EnderIO:blockPaintedFence:0, Painted Fence
-EnderIO:blockPaintedFenceGate:0, Painted Gate
-EnderIO:blockPaintedWall:0, Painted Wall
-EnderIO:blockPaintedStair:0, Painted Stairs
-EnderIO:blockPaintedSlab:0, Painted Slab
-EnderIO:blockPaintedDoubleSlab:0, Painted Slab
-EnderIO:blockCrafter, Crafter
-EnderIO:blockPaintedGlowstone:0, Painted Glowstone
-EnderIO:blockPaintedCarpet:0, Painted Carpet
-EnderIO:blockVat, The Vat
-EnderIO:blockPowerMonitor, Power Monitor
-EnderIO:blockFarmStation, Farming Station
-EnderIO:blockWirelessCharger, Wireless Charger
-EnderIO:blockHyperCube, Dimensional Transceiver (Deprecated)
-EnderIO:blockTank:0, Fluid Tank
-EnderIO:blockTank:1, Pressurized Fluid Tank
-EnderIO:blockReservoir, Reservoir
-EnderIO:blockVacuumChest, Vacuum Chest
-EnderIO:blockTransceiver, Dimensional Transceiver
-EnderIO:blockBuffer:0, Item Buffer
-EnderIO:blockBuffer:1, Power Buffer
-EnderIO:blockBuffer:2, Omni Buffer
-EnderIO:blockBuffer:3, Creative Buffer
-EnderIO:blockInventoryPanel, Inventory Panel
-EnderIO:blockEnderIo, Ender IO
-EnderIO:blockTravelAnchor, Travel Anchor
-EnderIO:blockTelePad, Telepad Block
-EnderIO:blockSliceAndSplice, Slice'N'Splice
-EnderIO:blockSoulBinder, Soul Binder
-EnderIO:blockPoweredSpawner, Powered Spawner
-EnderIO:blockKillerJoe, Killer Joe
-EnderIO:blockAttractor, Attractor Obelisk
-EnderIO:blockSpawnGuard, Aversion Obelisk
-EnderIO:blockExperienceObelisk, Experience Obelisk
-EnderIO:blockWeatherObelisk, Weather Obelisk
-EnderIO:blockInhibitorObelisk, tile.blockInhibitorObelisk.name
-EnderIO:blockEnchanter, Enchanter
-EnderIO:blockDarkSteelPressurePlate:0, Dark Pressure Plate
-EnderIO:blockDarkSteelPressurePlate:1, Dark Pressure Plate
-EnderIO:blockDarkSteelAnvil:0, Dark Steel Anvil
-EnderIO:blockDarkSteelAnvil:1, Slightly Damaged Dark Steel Anvil
-EnderIO:blockDarkSteelAnvil:2, Very Damaged Dark Steel Anvil
-EnderIO:blockDarkSteelLadder, Dark Steel Ladder
-EnderIO:blockElectricLight:0, Powered Light
-EnderIO:blockElectricLight:1, Powered Light (Inverted)
-EnderIO:blockElectricLight:2, Light
-EnderIO:blockElectricLight:3, Light (Inverted)
-EnderIO:blockElectricLight:4, Wireless Powered Light
-EnderIO:blockElectricLight:5, Wireless Powered Light (Inverted)
-EnderIO:blockLightNode, tile.blockLightNode.name
-EnderIO:blockReinforcedObsidian, Reinforced Obsidian
-EnderIO:blockFusedQuartz:0, Fused Quartz
-EnderIO:blockFusedQuartz:1, Quite Clear Glass
-EnderIO:blockFusedQuartz:2, Enlightened Fused Quartz
-EnderIO:blockFusedQuartz:3, Enlightened Clear Glass
-EnderIO:blockFusedQuartz:4, Dark Fused Quartz
-EnderIO:blockFusedQuartz:5, Dark Clear Glass
-EnderIO:blockEnderRail, Ender Rail
-EnderIO:blockConduitBundle, Conduit Connector
-EnderIO:blockConduitFacade, tile.blockConduitFacade.name
-EnderIO:blockEndermanSkull:0, Enderman Head
-EnderIO:blockEndermanSkull:2, Tormented Enderman Head
-EnderIO:blockNutrient_distillation, Nutrient Distillation
-EnderIO:blockHootch, Hootch
-EnderIO:blockRocket_fuel, Rocket Fuel
-EnderIO:blockFire_water, Fire Water
-EnderIO:blockIngotStorage:0, Electrical Steel Block
-EnderIO:blockIngotStorage:1, Energetic Alloy Block
-EnderIO:blockIngotStorage:2, Vibrant Alloy Block
-EnderIO:blockIngotStorage:3, Redstone Alloy Block
-EnderIO:blockIngotStorage:4, Conductive Iron Block
-EnderIO:blockIngotStorage:5, Pulsating Iron Block
-EnderIO:blockIngotStorage:6, Dark Steel Block
-EnderIO:blockIngotStorage:7, Soularium Block
-EnderIO:blockDarkIronBars, Dark Iron Bars
-extracells:certustank, extracells.block.certustank.name
-extracells:walrus, Walrus
-extracells:fluidcrafter, ME Fluid Assembler
-extracells:ecbaseblock:0, ME Fluid Interface
-extracells:ecbaseblock:1, ME Fluid Auto Filler
-extracells:hardmedrive, Blast resistant ME Drive [WIP]
-extracells:vibrantchamberfluid, Fluid Vibration Chamber
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
-ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
 ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:interface, Transvector Interface
 ThaumicTinkerer:platform, Ethereal Platform
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
+ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
+ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
 ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -4038,112 +4264,6 @@ ForbiddenMagic:TaintLeaves, Tainted Leaves
 ForbiddenMagic:TaintSapling, Tainted Sapling
 ForbiddenMagic:TaintBlock:0, Tainted Stone
 ForbiddenMagic:TaintBlock:1, Tainted Stone Bricks
-HardcoreEnderExpansion:corrupted_energy_low, tile.null.name
-HardcoreEnderExpansion:laboratory_glass, Laboratory Glass
-HardcoreEnderExpansion:obsidian_stairs, Obsidian Stairs
-HardcoreEnderExpansion:enderman_head_block, Enderman Head
-HardcoreEnderExpansion:accumulation_table, Accumulation Table
-HardcoreEnderExpansion:laboratory_stairs, Laboratory Stairs
-HardcoreEnderExpansion:enhanced_brewing_stand_block, tile.brewingStand.name
-HardcoreEnderExpansion:ravaged_brick_slab:0, Ravaged Brick Slab
-HardcoreEnderExpansion:ravaged_brick_smooth, Smooth Ravaged Brick
-HardcoreEnderExpansion:laboratory_floor, Laboratory Floor
-HardcoreEnderExpansion:spooky_leaves, Spooky Leaves
-HardcoreEnderExpansion:energy_extraction_table, Extraction Table
-HardcoreEnderExpansion:experience_table, Experience Table
-HardcoreEnderExpansion:instability_orb_ore, Instability Orb Ore
-HardcoreEnderExpansion:laser_beam, tile.laserBeam.name
-HardcoreEnderExpansion:laboratory_obsidian, Laboratory Obsidian
-HardcoreEnderExpansion:death_flower_pot, tile.flowerPot.name
-HardcoreEnderExpansion:stardust_ore, Stardust Ore
-HardcoreEnderExpansion:block_special_effects:1, specialEffects.1.name
-HardcoreEnderExpansion:block_special_effects:2, specialEffects.2.name
-HardcoreEnderExpansion:block_special_effects:3, specialEffects.3.name
-HardcoreEnderExpansion:block_special_effects:4, specialEffects.4.name
-HardcoreEnderExpansion:block_special_effects:5, specialEffects.5.name
-HardcoreEnderExpansion:enhanced_tnt, TNT
-HardcoreEnderExpansion:energy_cluster, Energy Cluster
-HardcoreEnderExpansion:crossed_decoration:2, Thorny Bush
-HardcoreEnderExpansion:crossed_decoration:3, Infested Bush
-HardcoreEnderExpansion:crossed_decoration:4, Infested Fern
-HardcoreEnderExpansion:crossed_decoration:5, Infested Grass
-HardcoreEnderExpansion:crossed_decoration:6, Lilyfire
-HardcoreEnderExpansion:crossed_decoration:7, Tall Violet Moss
-HardcoreEnderExpansion:crossed_decoration:8, Moderate Violet Moss
-HardcoreEnderExpansion:crossed_decoration:9, Short Violet Moss
-HardcoreEnderExpansion:crossed_decoration:10, Flameweed
-HardcoreEnderExpansion:crossed_decoration:11, Flameweed
-HardcoreEnderExpansion:crossed_decoration:12, Flameweed
-HardcoreEnderExpansion:crossed_decoration:13, Shadow Orchid
-HardcoreEnderExpansion:spooky_log, Spooky Log
-HardcoreEnderExpansion:ender_goo, Ender Goo
-HardcoreEnderExpansion:ravaged_brick:0, Ravaged Brick
-HardcoreEnderExpansion:ravaged_brick:1, Ravaged Brick
-HardcoreEnderExpansion:ravaged_brick:2, Ravaged Brick
-HardcoreEnderExpansion:ravaged_brick:3, Ravaged Brick
-HardcoreEnderExpansion:ravaged_brick:4, Ravaged Brick
-HardcoreEnderExpansion:ravaged_brick:5, Ravaged Brick
-HardcoreEnderExpansion:ravaged_brick_fence, Ravaged Brick Fence
-HardcoreEnderExpansion:end_stone_terrain:0, Infested End Stone
-HardcoreEnderExpansion:end_stone_terrain:1, Burned End Stone
-HardcoreEnderExpansion:end_stone_terrain:2, Enchanted End Stone
-HardcoreEnderExpansion:obsidian_special:0, Smooth Obsidian
-HardcoreEnderExpansion:obsidian_special:1, Chiseled Obsidian
-HardcoreEnderExpansion:obsidian_special:2, Obsidian Pillar
-HardcoreEnderExpansion:ravaged_brick_glow, Glowing Ravaged Brick
-HardcoreEnderExpansion:transport_beacon, Transport Beacon
-HardcoreEnderExpansion:igneous_rock_ore, Igneous Rock Ore
-HardcoreEnderExpansion:corrupted_energy_high, tile.null.name
-HardcoreEnderExpansion:sphalerite:0, Sphalerite
-HardcoreEnderExpansion:sphalerite:1, Sphalerite with Stardust
-HardcoreEnderExpansion:persegrit:0, Persegrit
-HardcoreEnderExpansion:persegrit:1, Persegrit
-HardcoreEnderExpansion:persegrit:2, Persegrit
-HardcoreEnderExpansion:persegrit:3, Persegrit
-HardcoreEnderExpansion:persegrit:4, Persegrit
-HardcoreEnderExpansion:persegrit:5, Persegrit
-HardcoreEnderExpansion:persegrit:6, Persegrit
-HardcoreEnderExpansion:persegrit:7, Persegrit
-HardcoreEnderExpansion:persegrit:8, Persegrit
-HardcoreEnderExpansion:persegrit:9, Persegrit
-HardcoreEnderExpansion:persegrit:10, Persegrit
-HardcoreEnderExpansion:persegrit:11, Persegrit
-HardcoreEnderExpansion:persegrit:12, Persegrit
-HardcoreEnderExpansion:persegrit:13, Persegrit
-HardcoreEnderExpansion:persegrit:14, Persegrit
-HardcoreEnderExpansion:persegrit:15, Persegrit
-HardcoreEnderExpansion:temple_end_portal, tile.templeEndPortal.name
-HardcoreEnderExpansion:decomposition_table, Decomposition Table
-HardcoreEnderExpansion:custom_spawner, Monster Spawner
-HardcoreEnderExpansion:essence_altar:0, Basic Essence Altar
-HardcoreEnderExpansion:essence_altar:1, Dragon Essence Altar
-HardcoreEnderExpansion:essence_altar:2, Fiery Essence Altar
-HardcoreEnderExpansion:essence_altar:3, Spectral Essence Altar
-HardcoreEnderExpansion:ravaged_brick_stairs, Ravaged Brick Stairs
-HardcoreEnderExpansion:dungeon_puzzle:13, Dungeon Puzzle (Wall)
-HardcoreEnderExpansion:dungeon_puzzle:14, Dungeon Puzzle (Rock)
-HardcoreEnderExpansion:dungeon_puzzle:15, Dungeon Puzzle (Ceiling)
-HardcoreEnderExpansion:dungeon_puzzle:12, Dungeon Puzzle (Disabled)
-HardcoreEnderExpansion:dungeon_puzzle:0, Dungeon Puzzle (Triggerable - Unlit)
-HardcoreEnderExpansion:dungeon_puzzle:1, Dungeon Puzzle (Triggerable - Lit)
-HardcoreEnderExpansion:dungeon_puzzle:2, Dungeon Puzzle (Non-triggerable - Unlit)
-HardcoreEnderExpansion:dungeon_puzzle:3, Dungeon Puzzle (Non-triggerable - Lit)
-HardcoreEnderExpansion:dungeon_puzzle:4, Dungeon Puzzle (Distributor - Spread - Unlit)
-HardcoreEnderExpansion:dungeon_puzzle:5, Dungeon Puzzle (Distributor - Spread - Lit)
-HardcoreEnderExpansion:dungeon_puzzle:6, Dungeon Puzzle (Distributor - Square - Unlit)
-HardcoreEnderExpansion:dungeon_puzzle:7, Dungeon Puzzle (Distributor - Square - Lit)
-HardcoreEnderExpansion:endium_block, Endium Block
-HardcoreEnderExpansion:endium_ore, Endium Ore
-HardcoreEnderExpansion:biome_core, tile.biomeIslandCore.name
-HardcoreEnderExpansion:void_chest, Void Chest
-HardcoreEnderExpansion:death_flower:0, Death Flower
-HardcoreEnderExpansion:death_flower:15, Death Flower
-HardcoreEnderExpansion:obsidian_special_glow:0, Smooth Glowing Obsidian
-HardcoreEnderExpansion:obsidian_special_glow:1, Chiseled Glowing Obsidian
-HardcoreEnderExpansion:obsidian_special_glow:2, Glowing Obsidian Pillar
-HardcoreEnderExpansion:end_powder_ore, End Powder Ore
-HardcoreEnderExpansion:cinder, Cinder
-HardcoreEnderExpansion:obsidian_end, Falling Obsidian
 Forestry:core:0, Analyzer
 Forestry:core:1, Escritoire
 Forestry:soil:0, Humus
@@ -4630,6 +4750,108 @@ gendustry:Liquifier, Protein Liquifier
 gendustry:Extractor, DNA Extractor
 gendustry:Transposer, Genetic Transposer
 gendustry:Replicator, Genetic Replicator
+ImmersiveEngineering:ore:0, Copper Ore
+ImmersiveEngineering:ore:1, Bauxite Ore
+ImmersiveEngineering:ore:2, Lead Ore
+ImmersiveEngineering:ore:3, Silver Ore
+ImmersiveEngineering:ore:4, Nickel Ore
+ImmersiveEngineering:storage:0, Block of Copper
+ImmersiveEngineering:storage:1, Block of Aluminium
+ImmersiveEngineering:storage:2, Block of Lead
+ImmersiveEngineering:storage:3, Block of Silver
+ImmersiveEngineering:storage:4, Block of Nickel
+ImmersiveEngineering:storage:5, Block of Constantan
+ImmersiveEngineering:storage:6, Block of Electrum
+ImmersiveEngineering:storage:7, Block of Steel
+ImmersiveEngineering:storage:8, Copper Wire Coil
+ImmersiveEngineering:storage:9, Electrum Wire Coil
+ImmersiveEngineering:storage:10, High-Voltage Wire Coil
+ImmersiveEngineering:storageSlab:0, Copper Slab
+ImmersiveEngineering:storageSlab:1, Aluminium Slab
+ImmersiveEngineering:storageSlab:2, Lead Slab
+ImmersiveEngineering:storageSlab:3, Silver Slab
+ImmersiveEngineering:storageSlab:4, Nickel Slab
+ImmersiveEngineering:storageSlab:5, Constantan Slab
+ImmersiveEngineering:storageSlab:6, Electrum Slab
+ImmersiveEngineering:storageSlab:7, Steel Slab
+ImmersiveEngineering:metalDevice:0, LV Wire Connector
+ImmersiveEngineering:metalDevice:1, LV Capacitor
+ImmersiveEngineering:metalDevice:1, LV Capacitor
+ImmersiveEngineering:metalDevice:2, MV Wire Connector
+ImmersiveEngineering:metalDevice:3, MV Capacitor
+ImmersiveEngineering:metalDevice:3, MV Capacitor
+ImmersiveEngineering:metalDevice:4, Transformer
+ImmersiveEngineering:metalDevice:5, HV Wire Relay
+ImmersiveEngineering:metalDevice:6, HV Wire Connector
+ImmersiveEngineering:metalDevice:7, HV Capacitor
+ImmersiveEngineering:metalDevice:7, HV Capacitor
+ImmersiveEngineering:metalDevice:8, HV Transformer
+ImmersiveEngineering:metalDevice:9, Kinetic Dynamo
+ImmersiveEngineering:metalDevice:10, Thermoelectric Generator
+ImmersiveEngineering:metalDevice:11, Conveyor Belt
+ImmersiveEngineering:metalDevice:12, External Heater
+ImmersiveEngineering:metalDevice:13, Item Router
+ImmersiveEngineering:metalDevice:14, Core Sample Drill
+ImmersiveEngineering:metalDevice:15, Dropping Conveyor Belt
+ImmersiveEngineering:metalDevice2:0, Breaker Switch
+ImmersiveEngineering:metalDevice2:2, Current Transformer
+ImmersiveEngineering:metalDevice2:3, Powered Lantern
+ImmersiveEngineering:metalDevice2:4, Floodlight
+ImmersiveEngineering:metalDevice2:5, Fluid Pipe
+ImmersiveEngineering:metalDevice2:6, Fluid Pump
+ImmersiveEngineering:metalDevice2:7, Metal Barrel
+ImmersiveEngineering:metalDevice2:8, Creative Capacitor
+ImmersiveEngineering:metalDevice2:9, Redstone Breaker
+ImmersiveEngineering:metalDevice2:10, Charging Station
+ImmersiveEngineering:metalDecoration:0, Steel Fence
+ImmersiveEngineering:metalDecoration:1, Steel Scaffolding
+ImmersiveEngineering:metalDecoration:2, Lantern
+ImmersiveEngineering:metalDecoration:3, Structural Arm
+ImmersiveEngineering:metalDecoration:4, Radiator Block
+ImmersiveEngineering:metalDecoration:5, Heavy Engineering Block
+ImmersiveEngineering:metalDecoration:6, Generator Block
+ImmersiveEngineering:metalDecoration:7, Light Engineering Block
+ImmersiveEngineering:metalDecoration:8, Structural Cable Connector
+ImmersiveEngineering:metalDecoration:9, Steel Wall Mount
+ImmersiveEngineering:metalDecoration:10, Sheet Metal Block
+ImmersiveEngineering:metalDecoration:11, Steel Scaffolding
+ImmersiveEngineering:metalDecoration:12, Aluminium Fence
+ImmersiveEngineering:metalDecoration:13, Aluminium Scaffolding
+ImmersiveEngineering:metalDecoration:14, Aluminium Scaffolding
+ImmersiveEngineering:metalDecoration:15, Aluminium Structural Arm
+ImmersiveEngineering:metalMultiblock:0, Lightning Rod Base
+ImmersiveEngineering:metalMultiblock:2, Industrial Squeezer
+ImmersiveEngineering:metalMultiblock:3, Fermenter
+ImmersiveEngineering:woodenDevice:0, Wooden Post
+ImmersiveEngineering:woodenDevice:1, Water Wheel
+ImmersiveEngineering:woodenDevice:2, Windmill
+ImmersiveEngineering:woodenDevice:3, Improved Windmill
+ImmersiveEngineering:woodenDevice:4, Wooden Storage Crate
+ImmersiveEngineering:woodenDevice:5, Engineer's Workbench
+ImmersiveEngineering:woodenDevice:6, Wooden Barrel
+ImmersiveEngineering:woodenDecoration:1, Treated Wood Fence
+ImmersiveEngineering:woodenDecoration:2, Treated Wood Slab
+ImmersiveEngineering:woodenDecoration:4, Treated Wood Doubleslab
+ImmersiveEngineering:woodenDecoration:5, Treated Wood Scaffolding
+ImmersiveEngineering:woodenDecoration:6, Wooden Wall Mount
+ImmersiveEngineering:treatedWood:0, Treated Wood Planks
+ImmersiveEngineering:treatedWood:1, Treated Wood Planks
+ImmersiveEngineering:treatedWood:2, Treated Wood Planks
+ImmersiveEngineering:woodenStairs, Treated Wood Stairs
+ImmersiveEngineering:woodenStairs1, Treated Wood Stairs
+ImmersiveEngineering:woodenStairs2, Treated Wood Stairs
+ImmersiveEngineering:stoneDevice:4, Insulating Glass
+ImmersiveEngineering:stoneDecoration:0, Hempcrete
+ImmersiveEngineering:stoneDecoration:1, Coke Brick
+ImmersiveEngineering:stoneDecoration:2, Blast Brick
+ImmersiveEngineering:stoneDecoration:3, Block of Coal Coke
+ImmersiveEngineering:stoneDecoration:4, Concrete
+ImmersiveEngineering:stoneDecoration:5, Concrete Tile
+ImmersiveEngineering:concreteStairs, Concrete Stairs
+ImmersiveEngineering:concreteTileStairs, Concrete Tile Stairs
+ImmersiveEngineering:hemp, Industrial Hemp
+ImmersiveEngineering:fakeLight, tile.ImmersiveEngineering.fakeLight.name
+ImmersiveEngineering:clothDevice, tile.ImmersiveEngineering.clothDevice.name
 IronChest:BlockIronChest:0, Iron Chest
 IronChest:BlockIronChest:1, Gold Chest
 IronChest:BlockIronChest:2, Diamond Chest
@@ -5397,66 +5619,6 @@ StorageDrawersMisc:trim_1:8, Hawthorn Trim
 StorageDrawersMisc:trim_1:9, Treated Wood Trim
 StorageDrawersMisc:trim_1:10, Livingwood Trim
 StorageDrawersMisc:trim_1:11, Dreamwood Trim
-TardisMod:tile.TardisMod.Tardis:0, TARDIS
-TardisMod:tile.TardisMod.TardisTop, TARDIS
-TardisMod:tile.TardisMod.TardisCore:0, Time Rotor
-TardisMod:tile.TardisMod.ConsoleBlock:0, Console
-TardisMod:tile.TardisMod.TardisEngineBlock:0, Temporal Engine
-TardisMod:tile.TardisMod.Component:0, Open Roundel
-TardisMod:tile.TardisMod.Component:1, Open White Roundel
-TardisMod:tile.TardisMod.InternalDoor:0, Door
-TardisMod:tile.TardisMod.InternalDoor:4, Primary Door
-TardisMod:tile.TardisMod.DecoBlock:0, Walkway
-TardisMod:tile.TardisMod.DecoBlock:1, Wall
-TardisMod:tile.TardisMod.DecoBlock:2, tile.TardisMod.DecoBlock.Walkway.name
-TardisMod:tile.TardisMod.DecoGlass:0, Glass
-TardisMod:tile.TardisMod.DecoGlass:1, Open Walkway
-TardisMod:tile.TardisMod.TardisDirt, Temporal Dirt
-TardisMod:tile.TardisMod.Schema, Schema Boundary
-TardisMod:tile.TardisMod.SchemaCore:0, Schema Core
-TardisMod:tile.TardisMod.SchemaComponent:0, Door
-TardisMod:tile.TardisMod.SchemaComponent:1, Door
-TardisMod:tile.TardisMod.SchemaComponent:2, Room Control Panel
-TardisMod:tile.TardisMod.SchemaComponent:3, Console
-TardisMod:tile.TardisMod.SchemaComponent:4, Door
-TardisMod:tile.TardisMod.SchemaComponent:5, Door
-TardisMod:tile.TardisMod.SchemaComponent:6, Console
-TardisMod:tile.TardisMod.SchemaComponent:7, Temporal Engine
-TardisMod:tile.TardisMod.SchemaComponent:8, Time Rotor
-TardisMod:tile.TardisMod.Slab:0, Console Slab
-TardisMod:tile.TardisMod.Slab:2, Corridor Slab
-TardisMod:tile.TardisMod.Slab:4, Walkway
-TardisMod:tile.TardisMod.Slab:6, Glass Slab
-TardisMod:tile.TardisMod.LandingPad:0, TARDIS Landing Pad
-TardisMod:tile.TardisMod.Lab:0, Temporal Laboratory
-TardisMod:tile.TardisMod.GravityLift:0, Solid Gravity Lift
-TardisMod:tile.TardisMod.GravityLift:1, Gravity Lift
-TardisMod:tile.TardisMod.ForceField:0, Solid Force Field
-TardisMod:tile.TardisMod.ForceField:1, Force Field
-TardisMod:tile.TardisMod.Battery:0, Basic Artron Battery
-TardisMod:tile.TardisMod.Battery:1, Advanced Artron Battery
-TardisMod:tile.TardisMod.Battery:2, Temporal Artron Battery
-TardisMod:tile.TardisMod.ColorableWall:15, Solid Block
-TardisMod:tile.TardisMod.ColorableFloor:15, Flat Block
-TardisMod:tile.TardisMod.ColorableBrick:15, Solid Bricks
-TardisMod:tile.TardisMod.ColorablePlank:15, Solid Planks
-TardisMod:tile.TardisMod.ColorableRoundel:15, Roundel
-TardisMod:tile.TardisMod.ColorableOpenRoundel:15, Open Roundel
-TardisMod:tile.TardisMod.Manual:0, Manual
-TardisMod:tile.TardisMod.ManualHelper, Manual
-TardisMod:tile.TardisMod.StairBlock, Stair
-TardisMod:tile.TardisMod.Summoner:0, TARDIS Recaller
-TardisMod:tile.TardisMod.MagicDoor:0, tile.TardisMod.MagicDoor.name
-TardisMod:tile.TardisMod.ColorableWall.Simulacrum:15, Solid Block (c)
-TardisMod:tile.TardisMod.ColorableFloor.Simulacrum:15, Flat Block (c)
-TardisMod:tile.TardisMod.ColorableBrick.Simulacrum:15, Solid Bricks (c)
-TardisMod:tile.TardisMod.ColorablePlank.Simulacrum:15, Solid Planks (c)
-TardisMod:tile.TardisMod.DecoGlass.Simulacrum:0, Glass (c)
-TardisMod:tile.TardisMod.DecoGlass.Simulacrum:1, Open Walkway (c)
-TardisMod:tile.TardisMod.DecoBlock.Simulacrum:0, Walkway (c)
-TardisMod:tile.TardisMod.DecoBlock.Simulacrum:1, Wall (c)
-TardisMod:tile.TardisMod.DecoBlock.Simulacrum:2, tile.TardisMod.DecoBlock.Simulacrum.Walkway.name
-TardisMod:tile.TardisMod.ShieldBlock:0, TARDIS Prevention Matrix
 thaumicenergistics:thaumicenergistics.block.essentia.provider, Essentia Provider
 thaumicenergistics:thaumicenergistics.block.infusion.provider, Infusion Provider
 thaumicenergistics:thaumicenergistics.block.gear.box, Iron Gear Box
@@ -5717,6 +5879,28 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass (White)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Road
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Log
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Enchanting Bookshelf
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ensorcelled Bookshelf
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Memory Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Rock)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Sea)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Crystal)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Soul)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Celerity)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Zombie)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Blaze)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Ghast)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Skull)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Slime)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Bat)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Runed Obsidian (Wisp)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Quicksand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dried Dirt
@@ -5827,8 +6011,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Crystal Cluster Brick
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Glyph of the Adept Enchanter
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Glyph of Arcane Potential
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Glyph of Rigid Stability
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Log
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingrock
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingrock Brick
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mossy Livingrock Brick
@@ -7129,6 +7311,9 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Woolen Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockConduitFacade.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Ore
@@ -7410,9 +7595,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Lapis Caelestis Paphiae My
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Lapis Caelestis Rufus (Red)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Lapis Caelestis Nox (Black)
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Clock
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Obsidian
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockConduitFacade.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
@@ -7423,69 +7605,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Stone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Stone Bricks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smooth Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Laboratory Floor
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Instability Orb Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Laboratory Obsidian
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Stardust Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - specialEffects.1.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - specialEffects.2.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - specialEffects.3.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - specialEffects.4.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - specialEffects.5.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Infested End Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Burned End Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Enchanted End Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smooth Obsidian
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Obsidian
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Obsidian Pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowing Ravaged Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Igneous Rock Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sphalerite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sphalerite with Stardust
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Persegrit
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Wall)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Rock)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Ceiling)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Disabled)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Triggerable - Unlit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Triggerable - Lit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Non-triggerable - Unlit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Non-triggerable - Lit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Distributor - Spread - Unlit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Distributor - Spread - Lit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Distributor - Square - Unlit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dungeon Puzzle (Distributor - Square - Lit)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Endium Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Endium Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.biomeIslandCore.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smooth Glowing Obsidian
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Glowing Obsidian
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowing Obsidian Pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - End Powder Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Cinder
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Falling Obsidian
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Apatite Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
@@ -7623,6 +7742,31 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Flux Crystal Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Curious Hive
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Unusual Hive
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Resonating Hive
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Bauxite Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lead Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nickel Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Copper
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Aluminium
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lead
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Silver
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nickel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Constantan
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Electrum
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Steel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Wire Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrum Wire Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - High-Voltage Wire Coil
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Hempcrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Coke Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blast Brick
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coal Coke
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Concrete Tile
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Osmium Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
@@ -7796,22 +7940,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Treated Wood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingwood Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dreamwood Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Walkway
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Wall
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.TardisMod.DecoBlock.Walkway.name
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Flat Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid Bricks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Roundel
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Manual
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid Block (c)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Flat Block (c)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid Bricks (c)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Solid Planks (c)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Walkway (c)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Wall (c)
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.TardisMod.DecoBlock.Simulacrum.Walkway.name
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -8002,320 +8130,113 @@ appliedenergistics2:item.ItemMultiPart:380, ME Terminal
 appliedenergistics2:item.ItemMultiPart:80, ME Toggle Bus
 ae2stuff:WirelessKit, Wireless Setup Kit
 ae2stuff:Visualiser, Network Visualisation Tool
-BiblioCraft:item.StockroomCatalog, Stockroom Catalog
-BiblioCraft:item.PlumbLine, Plumb line
-BiblioCraft:item.FramingSaw, Framing Saw
-BiblioCraft:item.FramingBoard, Framing Board
-BiblioCraft:item.FramingSheet, Framing Sheet
-BiblioCraft:item.TesterItem, ItemStack Name Tester
-BiblioCraft:item.AtlasBook:0, Atlas
-BiblioCraft:item.AtlasPlate, Atlas Plate
-BiblioCraft:item.DeathCompass, Eternal Compass
-BiblioCraft:item.PaintingCanvas, Painting Canvas
-BiblioCraft:item.BigBook, Big Writing Book
-BiblioCraft:item.RecipeBook, Empty Recipe Book
-BiblioCraft:item.SlottedBook, Slotted Book
-BiblioCraft:item.HandDrill, Hand Drill
-BiblioCraft:item.tapeMeasure, Tape Measure
-BiblioCraft:item.tape, Tape Measure Reel
-BiblioCraft:item.BiblioChase, Print Press Chase
-BiblioCraft:item.PrintPlate, Print Press Plate
-BiblioCraft:item.EnchantedPlate, Enchanted Plate
-BiblioCraft:item.BiblioRedBook, Redstone: Volume I
-BiblioCraft:item.BiblioGlasses:0, Reading Glasses
-BiblioCraft:item.BiblioGlasses:1, Tinted Glasses
-BiblioCraft:item.BiblioGlasses:2, Monocle
-BiblioCraft:item.BiblioDrill, Screw Gun
-BiblioCraft:item.BiblioCreativeLock, Lock and Key
-BiblioCraft:item.BiblioClipboard, Clipboard
-BiblioCraft:item.seatBack:0, Oak Seat Back
-BiblioCraft:item.seatBack:1, Spruce Seat Back
-BiblioCraft:item.seatBack:2, Birch Seat Back
-BiblioCraft:item.seatBack:3, Jungle Seat Back
-BiblioCraft:item.seatBack:4, Acacia Seat Back
-BiblioCraft:item.seatBack:5, Dark Oak Seat Back
-BiblioCraft:item.seatBack:6, Framed Seat Back
-BiblioCraft:item.seatBack2:0, Oak Seat Back
-BiblioCraft:item.seatBack2:1, Spruce Seat Back
-BiblioCraft:item.seatBack2:2, Birch Seat Back
-BiblioCraft:item.seatBack2:3, Jungle Seat Back
-BiblioCraft:item.seatBack2:4, Acacia Seat Back
-BiblioCraft:item.seatBack2:5, Dark Oak Seat Back
-BiblioCraft:item.seatBack2:6, Framed Seat Back
-BiblioCraft:item.seatBack3:0, Oak Seat Back
-BiblioCraft:item.seatBack3:1, Spruce Seat Back
-BiblioCraft:item.seatBack3:2, Birch Seat Back
-BiblioCraft:item.seatBack3:3, Jungle Seat Back
-BiblioCraft:item.seatBack3:4, Acacia Seat Back
-BiblioCraft:item.seatBack3:5, Dark Oak Seat Back
-BiblioCraft:item.seatBack3:6, Framed Seat Back
-BiblioCraft:item.seatBack4:0, Oak Seat Back
-BiblioCraft:item.seatBack4:1, Spruce Seat Back
-BiblioCraft:item.seatBack4:2, Birch Seat Back
-BiblioCraft:item.seatBack4:3, Jungle Seat Back
-BiblioCraft:item.seatBack4:4, Acacia Seat Back
-BiblioCraft:item.seatBack4:5, Dark Oak Seat Back
-BiblioCraft:item.seatBack4:6, Framed Seat Back
-BiblioCraft:item.seatBack5:0, Oak Seat Back
-BiblioCraft:item.seatBack5:1, Spruce Seat Back
-BiblioCraft:item.seatBack5:2, Birch Seat Back
-BiblioCraft:item.seatBack5:3, Jungle Seat Back
-BiblioCraft:item.seatBack5:4, Acacia Seat Back
-BiblioCraft:item.seatBack5:5, Dark Oak Seat Back
-BiblioCraft:item.seatBack5:6, Framed Seat Back
-BiblioCraft:item.BiblioMapTool, Drafting Compass
-BiblioCraft:item.BiblioWayPointCompass, Waypoint Compass
-BiomesOPlenty:food:0, Berry
-BiomesOPlenty:food:1, Shroom Powder
-BiomesOPlenty:food:2, Wild Carrots
-BiomesOPlenty:food:3, Peach
-BiomesOPlenty:food:4, Fruit Salad
-BiomesOPlenty:food:5, Veggie Salad
-BiomesOPlenty:food:6, Shroom Salad
-BiomesOPlenty:food:8, Persimmon
-BiomesOPlenty:food:9, Filled Honeycomb
-BiomesOPlenty:food:10, Ambrosia
-BiomesOPlenty:food:11, Turnip
-BiomesOPlenty:food:12, Pear
-BiomesOPlenty:food:13, Bowl of Rice
-BiomesOPlenty:turnipSeeds, Turnip Seeds
-BiomesOPlenty:misc:0, Mud Brick
-BiomesOPlenty:misc:1, Pile of Ashes
-BiomesOPlenty:misc:2, Empty Honeycomb
-BiomesOPlenty:misc:3, Chunk of Flesh
-BiomesOPlenty:misc:4, Celestial Crystal Shard
-BiomesOPlenty:misc:5, Blue Dye
-BiomesOPlenty:misc:6, Brown Dye
-BiomesOPlenty:misc:7, Green Dye
-BiomesOPlenty:misc:8, White Dye
-BiomesOPlenty:misc:9, Black Dye
-BiomesOPlenty:misc:10, Ghastly Soul
-BiomesOPlenty:misc:11, Pixie Dust
-BiomesOPlenty:misc:12, Ichor
-BiomesOPlenty:misc:13, Pinecone
-BiomesOPlenty:gems:0, Ender Amethyst
-BiomesOPlenty:gems:1, Ruby
-BiomesOPlenty:gems:2, Peridot
-BiomesOPlenty:gems:3, Topaz
-BiomesOPlenty:gems:4, Tanzanite
-BiomesOPlenty:gems:5, Malachite
-BiomesOPlenty:gems:6, Sapphire
-BiomesOPlenty:gems:7, Amber
-BiomesOPlenty:mudball, Mud Ball
-BiomesOPlenty:jarEmpty, Empty Jar
-BiomesOPlenty:jarFilled:0, Honey Jar
-BiomesOPlenty:jarFilled:1, Poison Extract Jar
-BiomesOPlenty:jarFilled:2, Pixie Jar
-BiomesOPlenty:dartBlower, Dart Blower
-BiomesOPlenty:dart:0, Dart
-BiomesOPlenty:dart:1, Poison Dart
-BiomesOPlenty:ancientStaff:0, Ancient Staff
-BiomesOPlenty:ancientStaff:1, Ancient Staff Handle
-BiomesOPlenty:ancientStaff:2, Ancient Staff Pole
-BiomesOPlenty:ancientStaff:3, Ancient Staff Topper
-BiomesOPlenty:ancientStaff:4, Depleted Ancient Staff
-BiomesOPlenty:enderporter, Enderporter
-BiomesOPlenty:bopBucket, item.bopBucket.name
-BiomesOPlenty:record_wanderer, Music Disc
-BiomesOPlenty:record_corruption, Music Disc
-BiomesOPlenty:biomeFinder, Biome Radar
-BiomesOPlenty:biomeEssence, Biome Essence
-BiomesOPlenty:swordMud, Muddy Sword
-BiomesOPlenty:shovelMud, Muddy Shovel
-BiomesOPlenty:pickaxeMud, Muddy Pickaxe
-BiomesOPlenty:axeMud, Muddy Axe
-BiomesOPlenty:hoeMud, Muddy Hoe
-BiomesOPlenty:swordAmethyst, Amethyst Sword
-BiomesOPlenty:shovelAmethyst, Amethyst Shovel
-BiomesOPlenty:pickaxeAmethyst, Amethyst Pickaxe
-BiomesOPlenty:axeAmethyst, Amethyst Axe
-BiomesOPlenty:hoeAmethyst, Amethyst Hoe
-BiomesOPlenty:scytheWood, Wooden Scythe
-BiomesOPlenty:scytheStone, Stone Scythe
-BiomesOPlenty:scytheIron, Iron Scythe
-BiomesOPlenty:scytheGold, Gold Scythe
-BiomesOPlenty:scytheDiamond, Diamond Scythe
-BiomesOPlenty:scytheMud, Mud Scythe
-BiomesOPlenty:scytheAmethyst, Amethyst Scythe
-BiomesOPlenty:helmetMud, Muddy Helmet
-BiomesOPlenty:chestplateMud, Muddy Chestplate
-BiomesOPlenty:leggingsMud, Muddy Leggings
-BiomesOPlenty:bootsMud, Muddy Boots
-BiomesOPlenty:helmetAmethyst, Amethyst Helmet
-BiomesOPlenty:chestplateAmethyst, Amethyst Chestplate
-BiomesOPlenty:leggingsAmethyst, Amethyst Leggings
-BiomesOPlenty:bootsAmethyst, Amethyst Boots
-BiomesOPlenty:flowerBand:0, Dull Flower Band
-BiomesOPlenty:flowerBand:1, Plain Flower Band
-BiomesOPlenty:flowerBand:2, Lush Flower Band
-BiomesOPlenty:flowerBand:3, Exotic Flower Band
-BiomesOPlenty:flippers, Flippers
-BiomesOPlenty:wadingBoots, Wading Boots
-AWWayofTime:weakBloodOrb, Weak Blood Orb
-AWWayofTime:apprenticeBloodOrb, Apprentice Blood Orb
-AWWayofTime:magicianBloodOrb, Magician's Blood Orb
-AWWayofTime:energyBlaster, Energy Blaster
-AWWayofTime:energySword, Bound Blade
-AWWayofTime:lavaCrystal, Lava Crystal
-AWWayofTime:waterSigil, Water Sigil
-AWWayofTime:lavaSigil, Lava Sigil
-AWWayofTime:voidSigil, Void Sigil
-AWWayofTime:blankSlate, Blank Slate
-AWWayofTime:reinforcedSlate, Reinforced Slate
-AWWayofTime:sacrificialKnife, Sacrificial Knife
-AWWayofTime:daggerOfSacrifice, Dagger of Sacrifice
-AWWayofTime:airSigil, Air Sigil
-AWWayofTime:sigilOfTheFastMiner, Sigil of the Fast Miner
-AWWayofTime:sigilOfElementalAffinity, Sigil of Elemental Affinity
-AWWayofTime:sigilOfHaste, Sigil of Haste
-AWWayofTime:sigilOfHolding, Sigil of Holding
-AWWayofTime:divinationSigil, Divination Sigil
-AWWayofTime:waterScribeTool, Elemental Inscription Tool: Water
-AWWayofTime:fireScribeTool, Elemental Inscription Tool: Fire
-AWWayofTime:earthScribeTool, Elemental Inscription Tool: Earth
-AWWayofTime:airScribeTool, Elemental Inscription Tool: Air
-AWWayofTime:activationCrystal:0, Weak Activation Crystal
-AWWayofTime:activationCrystal:1, Awakened Activation Crystal
-AWWayofTime:activationCrystal:2, Creative Activation Crystal
-AWWayofTime:boundPickaxe, Bound Pickaxe
-AWWayofTime:boundAxe, Bound Axe
-AWWayofTime:boundShovel, Bound Shovel
-AWWayofTime:boundHelmet, Bound Helmet
-AWWayofTime:boundPlate, Bound Plate
-AWWayofTime:boundLeggings, Bound Leggings
-AWWayofTime:boundBoots, Bound Boots
-AWWayofTime:weakBloodShard, Weak Blood Shard
-AWWayofTime:growthSigil, Sigil of the Green Grove
-AWWayofTime:blankSpell, Unbound Crystal
-AWWayofTime:masterBloodOrb, Master Blood Orb
-AWWayofTime:alchemyFlask, Potion Flask
-AWWayofTime:standardBindingAgent, Standard Binding Agent
-AWWayofTime:mundanePowerCatalyst, Mundane Power Catalyst
-AWWayofTime:averagePowerCatalyst, Average Power Catalyst
-AWWayofTime:greaterPowerCatalyst, Greater Power Catalyst
-AWWayofTime:mundaneLengtheningCatalyst, Mundane Lengthening Catalyst
-AWWayofTime:averageLengtheningCatalyst, Average Lengthening Catalyst
-AWWayofTime:greaterLengtheningCatalyst, Greater Lengthening Catalyst
-AWWayofTime:incendium, Incendium
-AWWayofTime:magicales, Magicales
-AWWayofTime:sanctus, Sanctus
-AWWayofTime:aether, Aether
-AWWayofTime:simpleCatalyst, Simple Catalyst
-AWWayofTime:crepitous, Crepitous
-AWWayofTime:crystallos, Crystallos
-AWWayofTime:terrae, Terrae
-AWWayofTime:aquasalus, Aquasalus
-AWWayofTime:tennebrae, Tenebrae
-AWWayofTime:demonBloodShard, Demon Blood Shard
-AWWayofTime:archmageBloodOrb, Archmage's Blood Orb
-AWWayofTime:transcendentBloodOrb, Transcendent Blood Orb
-AWWayofTime:sigilOfWind, Sigil of the Whirlwind
-AWWayofTime:telepositionFocus, Teleposition Focus
-AWWayofTime:enhancedTelepositionFocus, Enhanced Teleposition Focus
-AWWayofTime:reinforcedTelepositionFocus, Reinforced Teleposition Focus
-AWWayofTime:demonicTelepositionFocus, Demonic Teleposition Focus
-AWWayofTime:imbuedSlate, Imbued Slate
-AWWayofTime:demonicSlate, Demonic Slate
-AWWayofTime:duskScribeTool, Elemental Inscription Tool: Dusk
-AWWayofTime:sigilOfTheBridge, Sigil of the Phantom Bridge
-AWWayofTime:armourInhibitor, Armour Inhibitor
-AWWayofTime:creativeFiller, Orb of Testing
-AWWayofTime:demonPlacer:0, Demon Crystal
-AWWayofTime:creativeDagger, Creative Sacrificial Knife
-AWWayofTime:weakFillingAgent, Weak Filling Agent
-AWWayofTime:standardFillingAgent, Standard Filling Agent
-AWWayofTime:enhancedFillingAgent, Enhanced Filling Agent
-AWWayofTime:weakBindingAgent, Weak Binding Agent
-AWWayofTime:itemRitualDiviner:0, Ritual Diviner
-AWWayofTime:itemRitualDiviner:1, Ritual Diviner
-AWWayofTime:itemRitualDiviner:2, Ritual Diviner
-AWWayofTime:sigilOfMagnetism, Sigil of Magnetism
-AWWayofTime:itemKeyOfDiablo:0, Key of Binding
-AWWayofTime:itemKeyOfDiablo:0, Key of Binding
-AWWayofTime:energyBazooka, Energy Bazooka
-AWWayofTime:itemBloodLightSigil, Sigil of the Blood Lamp
-AWWayofTime:itemComplexSpellCrystal, Complex Spell Crystal
-AWWayofTime:sigilOfSupression, Sigil of Supression
-AWWayofTime:sigilOfEnderSeverance, Sigil of Ender Severance
-AWWayofTime:fluidSigil, 
-AWWayofTime:seerSigil, Sigil of Sight
-AWWayofTime:customTool, Dynamic Mace
-AWWayofTime:bucketLife, Bucket of Life
-AWWayofTime:itemCombinationalCatalyst, Combinational Catalyst
-AWWayofTime:itemAttunedCrystal:0, Alchemic Router
-AWWayofTime:itemTankSegmenter:0, Alchemic Segmenter
-AWWayofTime:itemDestinationClearer, Alchemic Cleanser
-AWWayofTime:bloodMagicBaseItems:0, Quartz Rod
-AWWayofTime:bloodMagicBaseItems:1, Empty Core
-AWWayofTime:bloodMagicBaseItems:2, Magicales Cable
-AWWayofTime:bloodMagicBaseItems:3, Wooden Brace
-AWWayofTime:bloodMagicBaseItems:4, Stone Brace
-AWWayofTime:bloodMagicBaseItems:5, Projectile Core
-AWWayofTime:bloodMagicBaseItems:6, Self Core
-AWWayofTime:bloodMagicBaseItems:7, Melee Core
-AWWayofTime:bloodMagicBaseItems:8, Paradigm Plate
-AWWayofTime:bloodMagicBaseItems:9, Output Spell Cable
-AWWayofTime:bloodMagicBaseItems:10, Fire Core
-AWWayofTime:bloodMagicBaseItems:11, Icy Core
-AWWayofTime:bloodMagicBaseItems:12, Gusty Core
-AWWayofTime:bloodMagicBaseItems:13, Earthen Core
-AWWayofTime:bloodMagicBaseItems:14, Input Spell Cable
-AWWayofTime:bloodMagicBaseItems:15, Cracked Runic Plate
-AWWayofTime:bloodMagicBaseItems:16, Runic Plate
-AWWayofTime:bloodMagicBaseItems:17, Imbued Runic Plate
-AWWayofTime:bloodMagicBaseItems:18, Unattuned Core
-AWWayofTime:bloodMagicBaseItems:19, Offensive Core
-AWWayofTime:bloodMagicBaseItems:20, Defensive Core
-AWWayofTime:bloodMagicBaseItems:21, Environmental Core
-AWWayofTime:bloodMagicBaseItems:22, Power Core
-AWWayofTime:bloodMagicBaseItems:23, Reduction Core
-AWWayofTime:bloodMagicBaseItems:24, Potency Core
-AWWayofTime:bloodMagicBaseItems:25, Obsidian Brace
-AWWayofTime:bloodMagicBaseItems:26, Tool Core
-AWWayofTime:bloodMagicBaseItems:27, Ethereal Slate
-AWWayofTime:bloodMagicBaseItems:28, Life Shard
-AWWayofTime:bloodMagicBaseItems:29, Soul Shard
-AWWayofTime:bloodMagicBaseItems:30, Soul Runic Plate
-AWWayofTime:bloodMagicBaseItems:31, Living Brace
-AWWayofTime:bloodMagicBaseItems:32, Ender Shard
-AWWayofTime:bloodMagicBaseAlchemyItems:0, Offensa
-AWWayofTime:bloodMagicBaseAlchemyItems:1, Praesidium
-AWWayofTime:bloodMagicBaseAlchemyItems:2, Orbis Terrae
-AWWayofTime:bloodMagicBaseAlchemyItems:3, Strengthened Catalyst
-AWWayofTime:bloodMagicBaseAlchemyItems:4, Concentrated Catalyst
-AWWayofTime:bloodMagicBaseAlchemyItems:5, Fractured Bone
-AWWayofTime:bloodMagicBaseAlchemyItems:6, Virtus
-AWWayofTime:bloodMagicBaseAlchemyItems:7, Reductus
-AWWayofTime:bloodMagicBaseAlchemyItems:8, Potentia
-AWWayofTime:dawnScribeTool, Elemental Inscription Tool: Dawn
-AWWayofTime:itemBloodPack, Blood Letter's Pack
-AWWayofTime:itemHarvestSigil, Harvest Goddess Sigil
-AWWayofTime:itemCompressionSigil, Sigil of Compression
-AWWayofTime:itemAssassinSigil, Sigil of the Assassin
-AWWayofTime:boundHelmetWater, Water Omega Helmet
-AWWayofTime:boundPlateWater, Water Omega Plate
-AWWayofTime:boundLeggingsWater, Water Omega Leggings
-AWWayofTime:boundBootsWater, Water Omega Boots
-AWWayofTime:boundHelmetEarth, Earth Omega Helmet
-AWWayofTime:boundPlateEarth, Earth Omega Plate
-AWWayofTime:boundLeggingsEarth, Earth Omega Leggings
-AWWayofTime:boundBootsEarth, Earth Omega Boots
-AWWayofTime:boundHelmetWind, Wind Omega Helmet
-AWWayofTime:boundPlateWind, Wind Omega Plate
-AWWayofTime:boundLeggingsWind, Wind Omega Leggings
-AWWayofTime:boundBootsWind, Wind Omega Boots
-AWWayofTime:boundHelmetFire, Fire Omega Helmet
-AWWayofTime:boundPlateFire, Fire Omega Plate
-AWWayofTime:boundLeggingsFire, Fire Omega Leggings
-AWWayofTime:boundBootsFire, Fire Omega Boots
-AWWayofTime:inputRoutingFocus, Input Routing Focus
-AWWayofTime:outputRoutingFocus, item.outputRoutingFocus.name
-AWWayofTime:bloodMagicIncenseItem:0, Wood Ash
-AWWayofTime:bloodMagicIncenseItem:1, Byrrus
-AWWayofTime:bloodMagicIncenseItem:2, Livens
-AWWayofTime:bloodMagicIncenseItem:3, Viridis
-AWWayofTime:bloodMagicIncenseItem:4, Purpura
-AWWayofTime:ritualDismantler, Ritual Dismantler
+MineFactoryReloaded:hammer, Precision Sledgehammer
+MineFactoryReloaded:plastic.boots, Plastic Boots
+MineFactoryReloaded:rubber.raw, Raw Rubber
+MineFactoryReloaded:rubber.bar, Rubber Bar
+MineFactoryReloaded:plastic.raw, Raw Plastic
+MineFactoryReloaded:plastic.sheet, Plastic Sheets
+MineFactoryReloaded:upgrade.radius:0, Upgrade (Lapis)
+MineFactoryReloaded:upgrade.radius:1, Upgrade (Tin)
+MineFactoryReloaded:upgrade.radius:2, Upgrade (Iron)
+MineFactoryReloaded:upgrade.radius:3, Upgrade (Copper)
+MineFactoryReloaded:upgrade.radius:4, Upgrade (Bronze)
+MineFactoryReloaded:upgrade.radius:5, Upgrade (Silver)
+MineFactoryReloaded:upgrade.radius:6, Upgrade (Gold)
+MineFactoryReloaded:upgrade.radius:7, Upgrade (Quartz)
+MineFactoryReloaded:upgrade.radius:8, Upgrade (Diamond)
+MineFactoryReloaded:upgrade.radius:9, Upgrade (Platinum)
+MineFactoryReloaded:upgrade.radius:10, Upgrade (Emerald)
+MineFactoryReloaded:upgrade.radius:11, Upgrade (Cobble)
+MineFactoryReloaded:rednet.meter:0, RedNet Meter
+MineFactoryReloaded:rednet.meter:1, RedNet Multimeter
+MineFactoryReloaded:rednet.meter:2, Debugger
+MineFactoryReloaded:rednet.memorycard, PRC Memory Card
+MineFactoryReloaded:upgrade.logic:0, PRC LX-100 Logic Expansion Card
+MineFactoryReloaded:upgrade.logic:1, PRC LX-300 Logic Expansion Card
+MineFactoryReloaded:upgrade.logic:2, PRC LX-500 Logic Expansion Card
+MineFactoryReloaded:meat.ingot.raw, Raw Meat Ingot
+MineFactoryReloaded:meat.ingot.cooked, Cooked Meat Ingot
+MineFactoryReloaded:meat.nugget.raw, Raw "Meat" Nugget
+MineFactoryReloaded:meat.nugget.cooked, Cooked "Meat" Nugget
+MineFactoryReloaded:pinkslime:0, Pink Slimeball
+MineFactoryReloaded:pinkslime:1, Pink Slime Crystal
+MineFactoryReloaded:syringe.empty, Empty Syringe
+MineFactoryReloaded:syringe.health, Health Syringe
+MineFactoryReloaded:syringe.growth, Growth Syringe
+MineFactoryReloaded:syringe.zombie, Zombie Syringe
+MineFactoryReloaded:syringe.slime, Slime Embiggening Syringe
+MineFactoryReloaded:syringe.cure, De-Zombification Syringe
+MineFactoryReloaded:safarinet.launcher, Safari Net Launcher
+MineFactoryReloaded:safarinet.reusable, Safari Net (Reusable)
+MineFactoryReloaded:safarinet.singleuse, Safari Net (Single-Use)
+MineFactoryReloaded:safarinet.jailer, Jailer's Safari Net
+MineFactoryReloaded:safarinet.jailer.fancy, Golden Jailer's Safari Net
+MineFactoryReloaded:portaspawner, PortaSpawner
+MineFactoryReloaded:xpextractor, XP Extractor
+MineFactoryReloaded:straw, Straw
+MineFactoryReloaded:milkbottle, Milk Bottle
+MineFactoryReloaded:plastic.cup:0, Plastic Cup
+MineFactoryReloaded:plastic.bag, Plastic Bag
+MineFactoryReloaded:sugarcharcoal, Sugar Charcoal
+MineFactoryReloaded:fertilizer, Industrial Fertilizer
+MineFactoryReloaded:ceramicdye:0, Ceramic Dye (White)
+MineFactoryReloaded:ceramicdye:1, Ceramic Dye (Orange)
+MineFactoryReloaded:ceramicdye:2, Ceramic Dye (Magenta)
+MineFactoryReloaded:ceramicdye:3, Ceramic Dye (Light Blue)
+MineFactoryReloaded:ceramicdye:4, Ceramic Dye (Yellow)
+MineFactoryReloaded:ceramicdye:5, Ceramic Dye (Lime)
+MineFactoryReloaded:ceramicdye:6, Ceramic Dye (Pink)
+MineFactoryReloaded:ceramicdye:7, Ceramic Dye (Gray)
+MineFactoryReloaded:ceramicdye:8, Ceramic Dye (Light Gray)
+MineFactoryReloaded:ceramicdye:9, Ceramic Dye (Cyan)
+MineFactoryReloaded:ceramicdye:10, Ceramic Dye (Purple)
+MineFactoryReloaded:ceramicdye:11, Ceramic Dye (Blue)
+MineFactoryReloaded:ceramicdye:12, Ceramic Dye (Brown)
+MineFactoryReloaded:ceramicdye:13, Ceramic Dye (Green)
+MineFactoryReloaded:ceramicdye:14, Ceramic Dye (Red)
+MineFactoryReloaded:ceramicdye:15, Ceramic Dye (Black)
+MineFactoryReloaded:laserfocus:0, Laser Focus (White)
+MineFactoryReloaded:laserfocus:1, Laser Focus (Orange)
+MineFactoryReloaded:laserfocus:2, Laser Focus (Magenta)
+MineFactoryReloaded:laserfocus:3, Laser Focus (Light Blue)
+MineFactoryReloaded:laserfocus:4, Laser Focus (Yellow)
+MineFactoryReloaded:laserfocus:5, Laser Focus (Lime)
+MineFactoryReloaded:laserfocus:6, Laser Focus (Pink)
+MineFactoryReloaded:laserfocus:7, Laser Focus (Gray)
+MineFactoryReloaded:laserfocus:8, Laser Focus (Light Gray)
+MineFactoryReloaded:laserfocus:9, Laser Focus (Cyan)
+MineFactoryReloaded:laserfocus:10, Laser Focus (Purple)
+MineFactoryReloaded:laserfocus:11, Laser Focus (Blue)
+MineFactoryReloaded:laserfocus:12, Laser Focus (Brown)
+MineFactoryReloaded:laserfocus:13, Laser Focus (Green)
+MineFactoryReloaded:laserfocus:14, Laser Focus (Red)
+MineFactoryReloaded:laserfocus:15, Laser Focus (Black)
+MineFactoryReloaded:record.blank, Blank Record
+MineFactoryReloaded:spyglass, Spyglass
+MineFactoryReloaded:ruler, Ruler
+MineFactoryReloaded:fishingrod, Fishing Rod
+MineFactoryReloaded:needlegun, Needlegun
+MineFactoryReloaded:needlegun.ammo.empty, Needlegun Magazine
+MineFactoryReloaded:needlegun.ammo.standard, Needlegun Ammo (Needles)
+MineFactoryReloaded:needlegun.ammo.pierce, Needlegun Ammo (Shrapnel)
+MineFactoryReloaded:needlegun.ammo.lava, Needlegun Ammo (Lava)
+MineFactoryReloaded:needlegun.ammo.sludge, Needlegun Ammo (Sludge)
+MineFactoryReloaded:needlegun.ammo.sewage, Needlegun Ammo (Sewage)
+MineFactoryReloaded:needlegun.ammo.fire, Needlegun Ammo (Fire)
+MineFactoryReloaded:needlegun.ammo.anvil, Needlegun Ammo (Anvil)
+MineFactoryReloaded:rocketlauncher, SPAMR Launcher
+MineFactoryReloaded:rocket:0, Tracking Self-Propelled Anti Material Rocket
+MineFactoryReloaded:rocket:1, Self-Propelled Anti Material Rocket
+MineFactoryReloaded:potatolauncher, Potato Cannon
+MineFactoryReloaded:bucket.sewage, Sewage Bucket
+MineFactoryReloaded:bucket.sludge, Sludge Bucket
+MineFactoryReloaded:bucket.essence, Essence Bucket
+MineFactoryReloaded:bucket.biofuel, BioFuel Bucket
+MineFactoryReloaded:bucket.meat, Meat Bucket
+MineFactoryReloaded:bucket.pinkslime, Pink Slime Bucket
+MineFactoryReloaded:bucket.chocolatemilk, Chocolate Milk Bucket
+MineFactoryReloaded:bucket.mushroomsoup, Mushroom Soup Bucket
 Thaumcraft:WandCasting:0, Iron Capped Wooden Wand
 Thaumcraft:WandCasting:9, Gold Banded Greatwood Wand
 Thaumcraft:WandCasting:54, Thaumium Bossed Silverwood Wand
@@ -8638,6 +8559,371 @@ Thaumcraft:ItemLootBag:1, Uncommon Treasure
 Thaumcraft:ItemLootBag:2, Rare Treasure
 Thaumcraft:ItemCompassStone:0, Sinister Lodestone
 Thaumcraft:ItemPrimalCrusher, Primal Crusher
+Automagy:shardSliver:0, Sliver of Air
+Automagy:shardSliver:1, Sliver of Fire
+Automagy:shardSliver:2, Sliver of Water
+Automagy:shardSliver:3, Sliver of Earth
+Automagy:shardSliver:4, Sliver of Order
+Automagy:shardSliver:5, Sliver of Entropy
+Automagy:enchantedPaper:0, Enchanted Paper
+Automagy:enchantedPaper:1, Runic Whitelist
+Automagy:enchantedPaper:2, Runic Blacklist
+Automagy:enchantedPaper:3, Bound Enchanting Paper
+Automagy:avaricePearl:0, Avarice Pearl
+Automagy:avaricePearl:1, Miser's Pearl
+Automagy:crystalEye, Crystalline Eye
+Automagy:crystalEntityEye, Oculo Anima
+Automagy:crystalBrain:0, Crystalline Brain: Air
+Automagy:crystalBrain:1, Crystalline Brain: Fire
+Automagy:crystalBrain:2, Crystalline Brain: Water
+Automagy:crystalBrain:3, Crystalline Brain: Earth
+Automagy:crystalBrain:4, Crystalline Brain: Order
+Automagy:crystalBrain:5, Crystalline Brain: Entropy
+Automagy:golemLinker, Golem Linking Bell
+Automagy:ingredient:0, Conflux Disc
+Automagy:horizontal:0, Shattered Avarice Pearl
+Automagy:edible:0, Mercatus Amalgam
+Automagy:foodstuff:0, Vishroom Stew
+Automagy:netherHeart, Ember Heart
+Automagy:tallyLens:0, Tally Box Lens: Clear
+Automagy:tallyLens:1, Tally Box Lens: Unbound
+Automagy:tallyLens:2, Tally Box Lens: Yield
+Automagy:glyph:0, Aqueous Admixture
+Automagy:glyph:1, Glyph of the Void
+Automagy:glyph:2, Glyph of Consumption
+Automagy:glyph:3, Glyph of Siphoning
+Automagy:glyph:4, Glyph of Envy
+Automagy:glyph:5, Glyph of Temperance
+Automagy:glyph:6, Glyph of Preservation
+Automagy:glyph:7, Glyph of the Guzzler
+Automagy:glyph:8, Glyph of the Reservoir
+Automagy:glyph:9, Glyph of the Bovine
+Automagy:golemWorkbenchUpgrade:0, Workbench Upgrade: Air
+Automagy:golemWorkbenchUpgrade:1, Workbench Upgrade: Fire
+Automagy:golemWorkbenchUpgrade:3, Workbench Upgrade: Earth
+Automagy:golemWorkbenchUpgrade:5, Workbench Upgrade: Entropy
+Automagy:baubleEnderDisjunction:0, Ring of Ender Disjunction
+Automagy:baubleEnderDisjunction:1, Lesser Ring of Ender Disjunction
+Automagy:autoHandMirror, Hungry Hand Mirror
+Automagy:focusCrafting, Wand Focus: Crafting
+Automagy:phialExtra, Phial of Enchanter's Concentrate
+Automagy:creativeTool:0, Thinking Cap
+Automagy:bucketMushroom, Bucket of Mushroom Soup
+Automagy:bucketVishroom, Bucket of Vishroom Soup
+BiblioCraft:item.StockroomCatalog, Stockroom Catalog
+BiblioCraft:item.PlumbLine, Plumb line
+BiblioCraft:item.FramingSaw, Framing Saw
+BiblioCraft:item.FramingBoard, Framing Board
+BiblioCraft:item.FramingSheet, Framing Sheet
+BiblioCraft:item.TesterItem, ItemStack Name Tester
+BiblioCraft:item.AtlasBook:0, Atlas
+BiblioCraft:item.AtlasPlate, Atlas Plate
+BiblioCraft:item.DeathCompass, Eternal Compass
+BiblioCraft:item.PaintingCanvas, Painting Canvas
+BiblioCraft:item.BigBook, Big Writing Book
+BiblioCraft:item.RecipeBook, Empty Recipe Book
+BiblioCraft:item.SlottedBook, Slotted Book
+BiblioCraft:item.HandDrill, Hand Drill
+BiblioCraft:item.tapeMeasure, Tape Measure
+BiblioCraft:item.tape, Tape Measure Reel
+BiblioCraft:item.BiblioChase, Print Press Chase
+BiblioCraft:item.PrintPlate, Print Press Plate
+BiblioCraft:item.EnchantedPlate, Enchanted Plate
+BiblioCraft:item.BiblioRedBook, Redstone: Volume I
+BiblioCraft:item.BiblioGlasses:0, Reading Glasses
+BiblioCraft:item.BiblioGlasses:1, Tinted Glasses
+BiblioCraft:item.BiblioGlasses:2, Monocle
+BiblioCraft:item.BiblioDrill, Screw Gun
+BiblioCraft:item.BiblioCreativeLock, Lock and Key
+BiblioCraft:item.BiblioClipboard, Clipboard
+BiblioCraft:item.seatBack:0, Oak Seat Back
+BiblioCraft:item.seatBack:1, Spruce Seat Back
+BiblioCraft:item.seatBack:2, Birch Seat Back
+BiblioCraft:item.seatBack:3, Jungle Seat Back
+BiblioCraft:item.seatBack:4, Acacia Seat Back
+BiblioCraft:item.seatBack:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack:6, Framed Seat Back
+BiblioCraft:item.seatBack2:0, Oak Seat Back
+BiblioCraft:item.seatBack2:1, Spruce Seat Back
+BiblioCraft:item.seatBack2:2, Birch Seat Back
+BiblioCraft:item.seatBack2:3, Jungle Seat Back
+BiblioCraft:item.seatBack2:4, Acacia Seat Back
+BiblioCraft:item.seatBack2:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack2:6, Framed Seat Back
+BiblioCraft:item.seatBack3:0, Oak Seat Back
+BiblioCraft:item.seatBack3:1, Spruce Seat Back
+BiblioCraft:item.seatBack3:2, Birch Seat Back
+BiblioCraft:item.seatBack3:3, Jungle Seat Back
+BiblioCraft:item.seatBack3:4, Acacia Seat Back
+BiblioCraft:item.seatBack3:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack3:6, Framed Seat Back
+BiblioCraft:item.seatBack4:0, Oak Seat Back
+BiblioCraft:item.seatBack4:1, Spruce Seat Back
+BiblioCraft:item.seatBack4:2, Birch Seat Back
+BiblioCraft:item.seatBack4:3, Jungle Seat Back
+BiblioCraft:item.seatBack4:4, Acacia Seat Back
+BiblioCraft:item.seatBack4:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack4:6, Framed Seat Back
+BiblioCraft:item.seatBack5:0, Oak Seat Back
+BiblioCraft:item.seatBack5:1, Spruce Seat Back
+BiblioCraft:item.seatBack5:2, Birch Seat Back
+BiblioCraft:item.seatBack5:3, Jungle Seat Back
+BiblioCraft:item.seatBack5:4, Acacia Seat Back
+BiblioCraft:item.seatBack5:5, Dark Oak Seat Back
+BiblioCraft:item.seatBack5:6, Framed Seat Back
+BiblioCraft:item.BiblioMapTool, Drafting Compass
+BiblioCraft:item.BiblioWayPointCompass, Waypoint Compass
+BiomesOPlenty:food:0, Berry
+BiomesOPlenty:food:1, Shroom Powder
+BiomesOPlenty:food:2, Wild Carrots
+BiomesOPlenty:food:3, Peach
+BiomesOPlenty:food:4, Fruit Salad
+BiomesOPlenty:food:5, Veggie Salad
+BiomesOPlenty:food:6, Shroom Salad
+BiomesOPlenty:food:8, Persimmon
+BiomesOPlenty:food:9, Filled Honeycomb
+BiomesOPlenty:food:10, Ambrosia
+BiomesOPlenty:food:11, Turnip
+BiomesOPlenty:food:12, Pear
+BiomesOPlenty:food:13, Bowl of Rice
+BiomesOPlenty:turnipSeeds, Turnip Seeds
+BiomesOPlenty:misc:0, Mud Brick
+BiomesOPlenty:misc:1, Pile of Ashes
+BiomesOPlenty:misc:2, Empty Honeycomb
+BiomesOPlenty:misc:3, Chunk of Flesh
+BiomesOPlenty:misc:4, Celestial Crystal Shard
+BiomesOPlenty:misc:5, Blue Dye
+BiomesOPlenty:misc:6, Brown Dye
+BiomesOPlenty:misc:7, Green Dye
+BiomesOPlenty:misc:8, White Dye
+BiomesOPlenty:misc:9, Black Dye
+BiomesOPlenty:misc:10, Ghastly Soul
+BiomesOPlenty:misc:11, Pixie Dust
+BiomesOPlenty:misc:12, Ichor
+BiomesOPlenty:misc:13, Pinecone
+BiomesOPlenty:gems:0, Ender Amethyst
+BiomesOPlenty:gems:1, Ruby
+BiomesOPlenty:gems:2, Peridot
+BiomesOPlenty:gems:3, Topaz
+BiomesOPlenty:gems:4, Tanzanite
+BiomesOPlenty:gems:5, Malachite
+BiomesOPlenty:gems:6, Sapphire
+BiomesOPlenty:gems:7, Amber
+BiomesOPlenty:mudball, Mud Ball
+BiomesOPlenty:jarEmpty, Empty Jar
+BiomesOPlenty:jarFilled:0, Honey Jar
+BiomesOPlenty:jarFilled:1, Poison Extract Jar
+BiomesOPlenty:jarFilled:2, Pixie Jar
+BiomesOPlenty:dartBlower, Dart Blower
+BiomesOPlenty:dart:0, Dart
+BiomesOPlenty:dart:1, Poison Dart
+BiomesOPlenty:ancientStaff:0, Ancient Staff
+BiomesOPlenty:ancientStaff:1, Ancient Staff Handle
+BiomesOPlenty:ancientStaff:2, Ancient Staff Pole
+BiomesOPlenty:ancientStaff:3, Ancient Staff Topper
+BiomesOPlenty:ancientStaff:4, Depleted Ancient Staff
+BiomesOPlenty:enderporter, Enderporter
+BiomesOPlenty:bopBucket, item.bopBucket.name
+BiomesOPlenty:record_wanderer, Music Disc
+BiomesOPlenty:record_corruption, Music Disc
+BiomesOPlenty:biomeFinder, Biome Radar
+BiomesOPlenty:biomeEssence, Biome Essence
+BiomesOPlenty:swordMud, Muddy Sword
+BiomesOPlenty:shovelMud, Muddy Shovel
+BiomesOPlenty:pickaxeMud, Muddy Pickaxe
+BiomesOPlenty:axeMud, Muddy Axe
+BiomesOPlenty:hoeMud, Muddy Hoe
+BiomesOPlenty:swordAmethyst, Amethyst Sword
+BiomesOPlenty:shovelAmethyst, Amethyst Shovel
+BiomesOPlenty:pickaxeAmethyst, Amethyst Pickaxe
+BiomesOPlenty:axeAmethyst, Amethyst Axe
+BiomesOPlenty:hoeAmethyst, Amethyst Hoe
+BiomesOPlenty:scytheWood, Wooden Scythe
+BiomesOPlenty:scytheStone, Stone Scythe
+BiomesOPlenty:scytheIron, Iron Scythe
+BiomesOPlenty:scytheGold, Gold Scythe
+BiomesOPlenty:scytheDiamond, Diamond Scythe
+BiomesOPlenty:scytheMud, Mud Scythe
+BiomesOPlenty:scytheAmethyst, Amethyst Scythe
+BiomesOPlenty:helmetMud, Muddy Helmet
+BiomesOPlenty:chestplateMud, Muddy Chestplate
+BiomesOPlenty:leggingsMud, Muddy Leggings
+BiomesOPlenty:bootsMud, Muddy Boots
+BiomesOPlenty:helmetAmethyst, Amethyst Helmet
+BiomesOPlenty:chestplateAmethyst, Amethyst Chestplate
+BiomesOPlenty:leggingsAmethyst, Amethyst Leggings
+BiomesOPlenty:bootsAmethyst, Amethyst Boots
+BiomesOPlenty:flowerBand:0, Dull Flower Band
+BiomesOPlenty:flowerBand:1, Plain Flower Band
+BiomesOPlenty:flowerBand:2, Lush Flower Band
+BiomesOPlenty:flowerBand:3, Exotic Flower Band
+BiomesOPlenty:flippers, Flippers
+BiomesOPlenty:wadingBoots, Wading Boots
+AWWayofTime:weakBloodOrb, Weak Blood Orb
+AWWayofTime:apprenticeBloodOrb, Apprentice Blood Orb
+AWWayofTime:magicianBloodOrb, Magician's Blood Orb
+AWWayofTime:energyBlaster, Energy Blaster
+AWWayofTime:energySword, Bound Blade
+AWWayofTime:lavaCrystal, Lava Crystal
+AWWayofTime:waterSigil, Water Sigil
+AWWayofTime:lavaSigil, Lava Sigil
+AWWayofTime:voidSigil, Void Sigil
+AWWayofTime:blankSlate, Blank Slate
+AWWayofTime:reinforcedSlate, Reinforced Slate
+AWWayofTime:sacrificialKnife, Sacrificial Knife
+AWWayofTime:daggerOfSacrifice, Dagger of Sacrifice
+AWWayofTime:airSigil, Air Sigil
+AWWayofTime:sigilOfTheFastMiner, Sigil of the Fast Miner
+AWWayofTime:sigilOfElementalAffinity, Sigil of Elemental Affinity
+AWWayofTime:sigilOfHaste, Sigil of Haste
+AWWayofTime:sigilOfHolding, Sigil of Holding
+AWWayofTime:divinationSigil, Divination Sigil
+AWWayofTime:waterScribeTool, Elemental Inscription Tool: Water
+AWWayofTime:fireScribeTool, Elemental Inscription Tool: Fire
+AWWayofTime:earthScribeTool, Elemental Inscription Tool: Earth
+AWWayofTime:airScribeTool, Elemental Inscription Tool: Air
+AWWayofTime:activationCrystal:0, Weak Activation Crystal
+AWWayofTime:activationCrystal:1, Awakened Activation Crystal
+AWWayofTime:activationCrystal:2, Creative Activation Crystal
+AWWayofTime:boundPickaxe, Bound Pickaxe
+AWWayofTime:boundAxe, Bound Axe
+AWWayofTime:boundShovel, Bound Shovel
+AWWayofTime:boundHelmet, Bound Helmet
+AWWayofTime:boundPlate, Bound Plate
+AWWayofTime:boundLeggings, Bound Leggings
+AWWayofTime:boundBoots, Bound Boots
+AWWayofTime:weakBloodShard, Weak Blood Shard
+AWWayofTime:growthSigil, Sigil of the Green Grove
+AWWayofTime:blankSpell, Unbound Crystal
+AWWayofTime:masterBloodOrb, Master Blood Orb
+AWWayofTime:alchemyFlask, Potion Flask
+AWWayofTime:standardBindingAgent, Standard Binding Agent
+AWWayofTime:mundanePowerCatalyst, Mundane Power Catalyst
+AWWayofTime:averagePowerCatalyst, Average Power Catalyst
+AWWayofTime:greaterPowerCatalyst, Greater Power Catalyst
+AWWayofTime:mundaneLengtheningCatalyst, Mundane Lengthening Catalyst
+AWWayofTime:averageLengtheningCatalyst, Average Lengthening Catalyst
+AWWayofTime:greaterLengtheningCatalyst, Greater Lengthening Catalyst
+AWWayofTime:incendium, Incendium
+AWWayofTime:magicales, Magicales
+AWWayofTime:sanctus, Sanctus
+AWWayofTime:aether, Aether
+AWWayofTime:simpleCatalyst, Simple Catalyst
+AWWayofTime:crepitous, Crepitous
+AWWayofTime:crystallos, Crystallos
+AWWayofTime:terrae, Terrae
+AWWayofTime:aquasalus, Aquasalus
+AWWayofTime:tennebrae, Tenebrae
+AWWayofTime:demonBloodShard, Demon Blood Shard
+AWWayofTime:archmageBloodOrb, Archmage's Blood Orb
+AWWayofTime:transcendentBloodOrb, Transcendent Blood Orb
+AWWayofTime:sigilOfWind, Sigil of the Whirlwind
+AWWayofTime:telepositionFocus, Teleposition Focus
+AWWayofTime:enhancedTelepositionFocus, Enhanced Teleposition Focus
+AWWayofTime:reinforcedTelepositionFocus, Reinforced Teleposition Focus
+AWWayofTime:demonicTelepositionFocus, Demonic Teleposition Focus
+AWWayofTime:imbuedSlate, Imbued Slate
+AWWayofTime:demonicSlate, Demonic Slate
+AWWayofTime:duskScribeTool, Elemental Inscription Tool: Dusk
+AWWayofTime:sigilOfTheBridge, Sigil of the Phantom Bridge
+AWWayofTime:armourInhibitor, Armour Inhibitor
+AWWayofTime:creativeFiller, Orb of Testing
+AWWayofTime:demonPlacer:0, Demon Crystal
+AWWayofTime:creativeDagger, Creative Sacrificial Knife
+AWWayofTime:weakFillingAgent, Weak Filling Agent
+AWWayofTime:standardFillingAgent, Standard Filling Agent
+AWWayofTime:enhancedFillingAgent, Enhanced Filling Agent
+AWWayofTime:weakBindingAgent, Weak Binding Agent
+AWWayofTime:itemRitualDiviner:0, Ritual Diviner
+AWWayofTime:itemRitualDiviner:1, Ritual Diviner
+AWWayofTime:itemRitualDiviner:2, Ritual Diviner
+AWWayofTime:sigilOfMagnetism, Sigil of Magnetism
+AWWayofTime:itemKeyOfDiablo:0, Key of Binding
+AWWayofTime:itemKeyOfDiablo:0, Key of Binding
+AWWayofTime:energyBazooka, Energy Bazooka
+AWWayofTime:itemBloodLightSigil, Sigil of the Blood Lamp
+AWWayofTime:itemComplexSpellCrystal, Complex Spell Crystal
+AWWayofTime:sigilOfSupression, Sigil of Supression
+AWWayofTime:sigilOfEnderSeverance, Sigil of Ender Severance
+AWWayofTime:fluidSigil, 
+AWWayofTime:seerSigil, Sigil of Sight
+AWWayofTime:customTool, Dynamic Mace
+AWWayofTime:bucketLife, Bucket of Life
+AWWayofTime:itemCombinationalCatalyst, Combinational Catalyst
+AWWayofTime:itemAttunedCrystal:0, Alchemic Router
+AWWayofTime:itemTankSegmenter:0, Alchemic Segmenter
+AWWayofTime:itemDestinationClearer, Alchemic Cleanser
+AWWayofTime:bloodMagicBaseItems:0, Quartz Rod
+AWWayofTime:bloodMagicBaseItems:1, Empty Core
+AWWayofTime:bloodMagicBaseItems:2, Magicales Cable
+AWWayofTime:bloodMagicBaseItems:3, Wooden Brace
+AWWayofTime:bloodMagicBaseItems:4, Stone Brace
+AWWayofTime:bloodMagicBaseItems:5, Projectile Core
+AWWayofTime:bloodMagicBaseItems:6, Self Core
+AWWayofTime:bloodMagicBaseItems:7, Melee Core
+AWWayofTime:bloodMagicBaseItems:8, Paradigm Plate
+AWWayofTime:bloodMagicBaseItems:9, Output Spell Cable
+AWWayofTime:bloodMagicBaseItems:10, Fire Core
+AWWayofTime:bloodMagicBaseItems:11, Icy Core
+AWWayofTime:bloodMagicBaseItems:12, Gusty Core
+AWWayofTime:bloodMagicBaseItems:13, Earthen Core
+AWWayofTime:bloodMagicBaseItems:14, Input Spell Cable
+AWWayofTime:bloodMagicBaseItems:15, Cracked Runic Plate
+AWWayofTime:bloodMagicBaseItems:16, Runic Plate
+AWWayofTime:bloodMagicBaseItems:17, Imbued Runic Plate
+AWWayofTime:bloodMagicBaseItems:18, Unattuned Core
+AWWayofTime:bloodMagicBaseItems:19, Offensive Core
+AWWayofTime:bloodMagicBaseItems:20, Defensive Core
+AWWayofTime:bloodMagicBaseItems:21, Environmental Core
+AWWayofTime:bloodMagicBaseItems:22, Power Core
+AWWayofTime:bloodMagicBaseItems:23, Reduction Core
+AWWayofTime:bloodMagicBaseItems:24, Potency Core
+AWWayofTime:bloodMagicBaseItems:25, Obsidian Brace
+AWWayofTime:bloodMagicBaseItems:26, Tool Core
+AWWayofTime:bloodMagicBaseItems:27, Ethereal Slate
+AWWayofTime:bloodMagicBaseItems:28, Life Shard
+AWWayofTime:bloodMagicBaseItems:29, Soul Shard
+AWWayofTime:bloodMagicBaseItems:30, Soul Runic Plate
+AWWayofTime:bloodMagicBaseItems:31, Living Brace
+AWWayofTime:bloodMagicBaseItems:32, Ender Shard
+AWWayofTime:bloodMagicBaseAlchemyItems:0, Offensa
+AWWayofTime:bloodMagicBaseAlchemyItems:1, Praesidium
+AWWayofTime:bloodMagicBaseAlchemyItems:2, Orbis Terrae
+AWWayofTime:bloodMagicBaseAlchemyItems:3, Strengthened Catalyst
+AWWayofTime:bloodMagicBaseAlchemyItems:4, Concentrated Catalyst
+AWWayofTime:bloodMagicBaseAlchemyItems:5, Fractured Bone
+AWWayofTime:bloodMagicBaseAlchemyItems:6, Virtus
+AWWayofTime:bloodMagicBaseAlchemyItems:7, Reductus
+AWWayofTime:bloodMagicBaseAlchemyItems:8, Potentia
+AWWayofTime:dawnScribeTool, Elemental Inscription Tool: Dawn
+AWWayofTime:itemBloodPack, Blood Letter's Pack
+AWWayofTime:itemHarvestSigil, Harvest Goddess Sigil
+AWWayofTime:itemCompressionSigil, Sigil of Compression
+AWWayofTime:itemAssassinSigil, Sigil of the Assassin
+AWWayofTime:boundHelmetWater, Water Omega Helmet
+AWWayofTime:boundPlateWater, Water Omega Plate
+AWWayofTime:boundLeggingsWater, Water Omega Leggings
+AWWayofTime:boundBootsWater, Water Omega Boots
+AWWayofTime:boundHelmetEarth, Earth Omega Helmet
+AWWayofTime:boundPlateEarth, Earth Omega Plate
+AWWayofTime:boundLeggingsEarth, Earth Omega Leggings
+AWWayofTime:boundBootsEarth, Earth Omega Boots
+AWWayofTime:boundHelmetWind, Wind Omega Helmet
+AWWayofTime:boundPlateWind, Wind Omega Plate
+AWWayofTime:boundLeggingsWind, Wind Omega Leggings
+AWWayofTime:boundBootsWind, Wind Omega Boots
+AWWayofTime:boundHelmetFire, Fire Omega Helmet
+AWWayofTime:boundPlateFire, Fire Omega Plate
+AWWayofTime:boundLeggingsFire, Fire Omega Leggings
+AWWayofTime:boundBootsFire, Fire Omega Boots
+AWWayofTime:inputRoutingFocus, Input Routing Focus
+AWWayofTime:outputRoutingFocus, item.outputRoutingFocus.name
+AWWayofTime:bloodMagicIncenseItem:0, Wood Ash
+AWWayofTime:bloodMagicIncenseItem:1, Byrrus
+AWWayofTime:bloodMagicIncenseItem:2, Livens
+AWWayofTime:bloodMagicIncenseItem:3, Viridis
+AWWayofTime:bloodMagicIncenseItem:4, Purpura
+AWWayofTime:ritualDismantler, Ritual Dismantler
 Botania:lexicon, item.lexicon.name
 Botania:petal:0, Mystical White Petal
 Botania:petal:1, Mystical Orange Petal
@@ -9095,6 +9381,164 @@ chisel:diamondChisel, item.null.name
 chisel:obsidianChisel, item.null.name
 chisel:cloudinabottle, Cloud In A Bottle
 chisel:smashingrock, Smashing Rock
+EnderIO:itemCoordSelector, Coordinate Selector
+EnderIO:itemFusedQuartzFrame, Fused Quartz Frame
+EnderIO:itemConduitFacade:0, Conduit Facade
+EnderIO:itemConduitFacade:1, Hardened Conduit Facade
+EnderIO:itemBrokenSpawner:0, Broken Spawner
+EnderIO:itemBrokenSpawner:0, Broken Spawner
+EnderIO:itemBrokenSpawner:0, Broken Spawner
+EnderIO:itemBrokenSpawner:0, Broken Spawner
+EnderIO:itemBrokenSpawner:0, Broken Spawner
+EnderIO:itemBrokenSpawner:0, Broken Spawner
+EnderIO:itemBrokenSpawner:0, Broken Spawner
+EnderIO:itemFrankenSkull:0, Zombie Electrode
+EnderIO:itemFrankenSkull:1, Z-Logic Controller
+EnderIO:itemFrankenSkull:2, Frank'N'Zombie
+EnderIO:itemFrankenSkull:3, Ender Resonator
+EnderIO:itemFrankenSkull:4, Sentient Ender
+EnderIO:itemRedstoneConduit:0, Redstone Conduit
+EnderIO:itemRedstoneConduit:1, Conduit Switch
+EnderIO:itemRedstoneConduit:2, Insulated Redstone Conduit
+EnderIO:itemPowerConduit:0, Energy Conduit
+EnderIO:itemPowerConduit:1, Enhanced Energy Conduit
+EnderIO:itemPowerConduit:2, Ender Energy Conduit
+EnderIO:itemLiquidConduit:0, Fluid Conduit
+EnderIO:itemLiquidConduit:1, Pressurized Fluid Conduit
+EnderIO:itemLiquidConduit:2, Ender Fluid Conduit
+EnderIO:itemItemConduit:0, Item Conduit
+EnderIO:itemGasConduit:0, Gas Conduit
+EnderIO:itemMEConduit:0, ME Conduit
+EnderIO:itemMEConduit:1, Dense ME Conduit
+EnderIO:itemOCConduit:0, Network Conduit (OC)
+EnderIO:itemBasicFilterUpgrade:0, Basic Item Filter
+EnderIO:itemBasicFilterUpgrade:1, Advanced Item Filter
+EnderIO:itemExistingItemFilter:0, Existing Item Filter
+EnderIO:itemModItemFilter, Mod Item Filter
+EnderIO:itemPowerItemFilter:0, Chargeable Item Filter
+EnderIO:itemExtractSpeedUpgrade:0, Item Conduit Speed Upgrade
+EnderIO:itemExtractSpeedUpgrade:1, Item Conduit Speed Downgrade
+EnderIO:itemFunctionUpgrade:0, Remote Awareness Upgrade
+EnderIO:itemBasicCapacitor:0, Basic Capacitor
+EnderIO:itemBasicCapacitor:1, Double-Layer Capacitor
+EnderIO:itemBasicCapacitor:2, Octadic Capacitor
+EnderIO:itemMachinePart:0, Machine Chassis
+EnderIO:itemMachinePart:1, Basic Gear
+EnderIO:itemMaterial:0, Silicon
+EnderIO:itemMaterial:1, Conduit Binder
+EnderIO:itemMaterial:2, Binder Composite
+EnderIO:itemMaterial:3, Pulsating Iron Nugget
+EnderIO:itemMaterial:4, Vibrant Alloy Nugget
+EnderIO:itemMaterial:5, Pulsating Crystal
+EnderIO:itemMaterial:6, Vibrant Crystal
+EnderIO:itemMaterial:7, Dark Steel Ball
+EnderIO:itemMaterial:8, Ender Crystal
+EnderIO:itemMaterial:9, Enticing Crystal
+EnderIO:itemMaterial:10, Weather Crystal
+EnderIO:itemAlloy:0, Electrical Steel
+EnderIO:itemAlloy:1, Energetic Alloy
+EnderIO:itemAlloy:2, Vibrant Alloy
+EnderIO:itemAlloy:3, Redstone Alloy
+EnderIO:itemAlloy:4, Conductive Iron
+EnderIO:itemAlloy:5, Pulsating Iron
+EnderIO:itemAlloy:6, Dark Steel
+EnderIO:itemAlloy:7, Soularium
+EnderIO:itemPowderIngot:0, Coal Powder
+EnderIO:itemPowderIngot:1, Iron Powder
+EnderIO:itemPowderIngot:2, Gold Powder
+EnderIO:itemPowderIngot:3, Copper Powder
+EnderIO:itemPowderIngot:4, Tin Powder
+EnderIO:itemPowderIngot:6, Enderium Base
+EnderIO:itemPowderIngot:7, Obsidian Powder
+EnderIO:itemPowderIngot:8, Flour
+EnderIO:bucketXpjuice, XP Bucket
+EnderIO:bucketNutrient_distillation, Nutrient Distillation Bucket
+EnderIO:bucketHootch, Hootch Bucket
+EnderIO:bucketRocket_fuel, Rocket Fuel Bucket
+EnderIO:bucketFire_water, Fire Water Bucket
+EnderIO:itemYetaWrench, Yeta Wrench
+EnderIO:itemEnderface, Enderface
+EnderIO:itemTravelStaff:0, Staff of Traveling
+EnderIO:itemTravelStaff:16, Staff of Traveling
+EnderIO:itemConduitProbe:0, Conduit Probe
+EnderIO:itemXpTransfer:0, Experience Rod
+EnderIO:itemSoulVessel, Soul Vial
+EnderIO:itemEnderFood:0, "Enderios"
+EnderIO:itemGliderWing:0, Glider Wing
+EnderIO:itemGliderWing:1, Glider Wings
+EnderIO:item.darkSteel_helmet, Dark Helm
+EnderIO:item.darkSteel_chestplate, Dark Plate
+EnderIO:item.darkSteel_leggings, Dark Leggings
+EnderIO:item.darkSteel_boots, Dark Boots
+EnderIO:item.darkSteel_sword, The Ender
+EnderIO:item.darkSteel_pickaxe, Dark Pick
+EnderIO:item.darkSteel_axe, Dark Axe
+EnderIO:item.darkSteel_shears, Dark Shears
+EnderIO:itemMagnet:0, Electromagnet
+EnderIO:itemMagnet:16, Electromagnet
+extracells:part.base:0, ME Fluid Export Bus
+extracells:part.base:1, ME Fluid Import Bus
+extracells:part.base:2, ME Fluid Storage Bus
+extracells:part.base:3, ME Fluid Terminal
+extracells:part.base:4, ME Fluid Level Emitter
+extracells:part.base:5, ME Fluid Annihilation Plane
+extracells:part.base:6, ME Fluid Formation Plane
+extracells:part.base:7, ME Drive Fixture
+extracells:part.base:8, ME Energy Cell Fixture
+extracells:part.base:9, ME Fluid Interface
+extracells:part.base:10, ME Fluid Storage Monitor
+extracells:part.base:11, ME Fluid Conversion Monitor
+extracells:part.base:12, ME Ore Dictionary Export Bus
+extracells:part.base:13, ME Gas Import Bus
+extracells:part.base:14, ME Gas Export Bus
+extracells:part.base:15, ME Gas Terminal
+extracells:storage.fluid:0, ME 1k Fluid Storage
+extracells:storage.fluid:1, ME 4k Fluid Storage
+extracells:storage.fluid:2, ME 16k Fluid Storage
+extracells:storage.fluid:3, ME 64k Fluid Storage
+extracells:storage.fluid:4, ME 256k Fluid Storage
+extracells:storage.fluid:5, ME 1024k Fluid Storage
+extracells:storage.fluid:6, ME 4096k Fluid Storage
+extracells:storage.physical:0, ME 256k Storage
+extracells:storage.physical:1, ME 1024k Storage
+extracells:storage.physical:2, ME 4096k Storage
+extracells:storage.physical:3, ME 16384k Storage
+extracells:storage.physical:4, ME Block Container - Empty
+extracells:storage.physical:4, ME Block Container - Empty
+extracells:storage.gas:0, ME 1k Gas Storage
+extracells:storage.gas:1, ME 4k Gas Storage
+extracells:storage.gas:2, ME 16k Gas Storage
+extracells:storage.gas:3, ME 64k Gas Storage
+extracells:storage.gas:4, ME 256k Gas Storage
+extracells:storage.gas:5, ME 1024k Gas Storage
+extracells:storage.gas:6, ME 4096k Gas Storage
+extracells:pattern.fluid, item.extracells.pattern.fluid.name
+extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
+extracells:storage.component:0, 256k ME Storage Component
+extracells:storage.component:1, 1024k ME Storage Component
+extracells:storage.component:2, 4096k ME Storage Component
+extracells:storage.component:3, 16384k ME Storage Component
+extracells:storage.component:4, 1k ME Fluid Storage Component
+extracells:storage.component:5, 4k ME Fluid Storage Component
+extracells:storage.component:6, 16k ME Fluid Storage Component
+extracells:storage.component:7, 64k ME Fluid Storage Component
+extracells:storage.component:8, 256k ME Fluid Storage Component
+extracells:storage.component:9, 1024k ME Fluid Storage Component
+extracells:storage.component:10, 4096k ME Fluid Storage Component
+extracells:storage.component:11, 1k ME Gas Storage Component
+extracells:storage.component:12, 4k ME Gas Storage Component
+extracells:storage.component:13, 16k ME Gas Storage Component
+extracells:storage.component:14, 64k ME Gas Storage Component
+extracells:storage.component:15, 256k ME Gas Storage Component
+extracells:storage.component:16, 1024k ME Gas Storage Component
+extracells:storage.component:17, 4096k ME Gas Storage Component
+extracells:storage.casing:0, Advanced Storage Housing
+extracells:storage.casing:1, Fluid Storage Housing
+extracells:storage.casing:2, Gas Storage Housing
+extracells:fluid.item, item.extracells.fluid.item.name
+extracells:storage.fluid.portable, item.extracells.storage.fluid.portable.name
+extracells:pattern.crafting, item.extracells.pattern.crafting.name
+extracells:terminal.universal.wireless, item.extracells.terminal.universal.wireless.name
 ThermalFoundation:lexicon, item.thermalfoundation.tome.name
 ThermalFoundation:bucket:0, Destabilized Redstone Bucket
 ThermalFoundation:bucket:1, Energized Glowstone Bucket
@@ -9336,164 +9780,6 @@ ExtraUtilities:watering_can, Watering Can
 ExtraUtilities:scanner, Portable Scanner
 ExtraUtilities:golden_bag, Golden Bag of Holding
 ExtraUtilities:bedrockiumIngot, Bedrockium Ingot
-EnderIO:itemCoordSelector, Coordinate Selector
-EnderIO:itemFusedQuartzFrame, Fused Quartz Frame
-EnderIO:itemConduitFacade:0, Conduit Facade
-EnderIO:itemConduitFacade:1, Hardened Conduit Facade
-EnderIO:itemBrokenSpawner:0, Broken Spawner
-EnderIO:itemBrokenSpawner:0, Broken Spawner
-EnderIO:itemBrokenSpawner:0, Broken Spawner
-EnderIO:itemBrokenSpawner:0, Broken Spawner
-EnderIO:itemBrokenSpawner:0, Broken Spawner
-EnderIO:itemBrokenSpawner:0, Broken Spawner
-EnderIO:itemBrokenSpawner:0, Broken Spawner
-EnderIO:itemFrankenSkull:0, Zombie Electrode
-EnderIO:itemFrankenSkull:1, Z-Logic Controller
-EnderIO:itemFrankenSkull:2, Frank'N'Zombie
-EnderIO:itemFrankenSkull:3, Ender Resonator
-EnderIO:itemFrankenSkull:4, Sentient Ender
-EnderIO:itemRedstoneConduit:0, Redstone Conduit
-EnderIO:itemRedstoneConduit:1, Conduit Switch
-EnderIO:itemRedstoneConduit:2, Insulated Redstone Conduit
-EnderIO:itemPowerConduit:0, Energy Conduit
-EnderIO:itemPowerConduit:1, Enhanced Energy Conduit
-EnderIO:itemPowerConduit:2, Ender Energy Conduit
-EnderIO:itemLiquidConduit:0, Fluid Conduit
-EnderIO:itemLiquidConduit:1, Pressurized Fluid Conduit
-EnderIO:itemLiquidConduit:2, Ender Fluid Conduit
-EnderIO:itemItemConduit:0, Item Conduit
-EnderIO:itemGasConduit:0, Gas Conduit
-EnderIO:itemMEConduit:0, ME Conduit
-EnderIO:itemMEConduit:1, Dense ME Conduit
-EnderIO:itemOCConduit:0, Network Conduit (OC)
-EnderIO:itemBasicFilterUpgrade:0, Basic Item Filter
-EnderIO:itemBasicFilterUpgrade:1, Advanced Item Filter
-EnderIO:itemExistingItemFilter:0, Existing Item Filter
-EnderIO:itemModItemFilter, Mod Item Filter
-EnderIO:itemPowerItemFilter:0, Chargeable Item Filter
-EnderIO:itemExtractSpeedUpgrade:0, Item Conduit Speed Upgrade
-EnderIO:itemExtractSpeedUpgrade:1, Item Conduit Speed Downgrade
-EnderIO:itemFunctionUpgrade:0, Remote Awareness Upgrade
-EnderIO:itemBasicCapacitor:0, Basic Capacitor
-EnderIO:itemBasicCapacitor:1, Double-Layer Capacitor
-EnderIO:itemBasicCapacitor:2, Octadic Capacitor
-EnderIO:itemMachinePart:0, Machine Chassis
-EnderIO:itemMachinePart:1, Basic Gear
-EnderIO:itemMaterial:0, Silicon
-EnderIO:itemMaterial:1, Conduit Binder
-EnderIO:itemMaterial:2, Binder Composite
-EnderIO:itemMaterial:3, Pulsating Iron Nugget
-EnderIO:itemMaterial:4, Vibrant Alloy Nugget
-EnderIO:itemMaterial:5, Pulsating Crystal
-EnderIO:itemMaterial:6, Vibrant Crystal
-EnderIO:itemMaterial:7, Dark Steel Ball
-EnderIO:itemMaterial:8, Ender Crystal
-EnderIO:itemMaterial:9, Enticing Crystal
-EnderIO:itemMaterial:10, Weather Crystal
-EnderIO:itemAlloy:0, Electrical Steel
-EnderIO:itemAlloy:1, Energetic Alloy
-EnderIO:itemAlloy:2, Vibrant Alloy
-EnderIO:itemAlloy:3, Redstone Alloy
-EnderIO:itemAlloy:4, Conductive Iron
-EnderIO:itemAlloy:5, Pulsating Iron
-EnderIO:itemAlloy:6, Dark Steel
-EnderIO:itemAlloy:7, Soularium
-EnderIO:itemPowderIngot:0, Coal Powder
-EnderIO:itemPowderIngot:1, Iron Powder
-EnderIO:itemPowderIngot:2, Gold Powder
-EnderIO:itemPowderIngot:3, Copper Powder
-EnderIO:itemPowderIngot:4, Tin Powder
-EnderIO:itemPowderIngot:6, Enderium Base
-EnderIO:itemPowderIngot:7, Obsidian Powder
-EnderIO:itemPowderIngot:8, Flour
-EnderIO:bucketXpjuice, XP Bucket
-EnderIO:bucketNutrient_distillation, Nutrient Distillation Bucket
-EnderIO:bucketHootch, Hootch Bucket
-EnderIO:bucketRocket_fuel, Rocket Fuel Bucket
-EnderIO:bucketFire_water, Fire Water Bucket
-EnderIO:itemYetaWrench, Yeta Wrench
-EnderIO:itemEnderface, Enderface
-EnderIO:itemTravelStaff:0, Staff of Traveling
-EnderIO:itemTravelStaff:16, Staff of Traveling
-EnderIO:itemConduitProbe:0, Conduit Probe
-EnderIO:itemXpTransfer:0, Experience Rod
-EnderIO:itemSoulVessel, Soul Vial
-EnderIO:itemEnderFood:0, "Enderios"
-EnderIO:itemGliderWing:0, Glider Wing
-EnderIO:itemGliderWing:1, Glider Wings
-EnderIO:item.darkSteel_helmet, Dark Helm
-EnderIO:item.darkSteel_chestplate, Dark Plate
-EnderIO:item.darkSteel_leggings, Dark Leggings
-EnderIO:item.darkSteel_boots, Dark Boots
-EnderIO:item.darkSteel_sword, The Ender
-EnderIO:item.darkSteel_pickaxe, Dark Pick
-EnderIO:item.darkSteel_axe, Dark Axe
-EnderIO:item.darkSteel_shears, Dark Shears
-EnderIO:itemMagnet:0, Electromagnet
-EnderIO:itemMagnet:16, Electromagnet
-extracells:part.base:0, ME Fluid Export Bus
-extracells:part.base:1, ME Fluid Import Bus
-extracells:part.base:2, ME Fluid Storage Bus
-extracells:part.base:3, ME Fluid Terminal
-extracells:part.base:4, ME Fluid Level Emitter
-extracells:part.base:5, ME Fluid Annihilation Plane
-extracells:part.base:6, ME Fluid Formation Plane
-extracells:part.base:7, ME Drive Fixture
-extracells:part.base:8, ME Energy Cell Fixture
-extracells:part.base:9, ME Fluid Interface
-extracells:part.base:10, ME Fluid Storage Monitor
-extracells:part.base:11, ME Fluid Conversion Monitor
-extracells:part.base:12, ME Ore Dictionary Export Bus
-extracells:part.base:13, ME Gas Import Bus
-extracells:part.base:14, ME Gas Export Bus
-extracells:part.base:15, ME Gas Terminal
-extracells:storage.fluid:0, ME 1k Fluid Storage
-extracells:storage.fluid:1, ME 4k Fluid Storage
-extracells:storage.fluid:2, ME 16k Fluid Storage
-extracells:storage.fluid:3, ME 64k Fluid Storage
-extracells:storage.fluid:4, ME 256k Fluid Storage
-extracells:storage.fluid:5, ME 1024k Fluid Storage
-extracells:storage.fluid:6, ME 4096k Fluid Storage
-extracells:storage.physical:0, ME 256k Storage
-extracells:storage.physical:1, ME 1024k Storage
-extracells:storage.physical:2, ME 4096k Storage
-extracells:storage.physical:3, ME 16384k Storage
-extracells:storage.physical:4, ME Block Container - Empty
-extracells:storage.physical:4, ME Block Container - Empty
-extracells:storage.gas:0, ME 1k Gas Storage
-extracells:storage.gas:1, ME 4k Gas Storage
-extracells:storage.gas:2, ME 16k Gas Storage
-extracells:storage.gas:3, ME 64k Gas Storage
-extracells:storage.gas:4, ME 256k Gas Storage
-extracells:storage.gas:5, ME 1024k Gas Storage
-extracells:storage.gas:6, ME 4096k Gas Storage
-extracells:pattern.fluid, item.extracells.pattern.fluid.name
-extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
-extracells:storage.component:0, 256k ME Storage Component
-extracells:storage.component:1, 1024k ME Storage Component
-extracells:storage.component:2, 4096k ME Storage Component
-extracells:storage.component:3, 16384k ME Storage Component
-extracells:storage.component:4, 1k ME Fluid Storage Component
-extracells:storage.component:5, 4k ME Fluid Storage Component
-extracells:storage.component:6, 16k ME Fluid Storage Component
-extracells:storage.component:7, 64k ME Fluid Storage Component
-extracells:storage.component:8, 256k ME Fluid Storage Component
-extracells:storage.component:9, 1024k ME Fluid Storage Component
-extracells:storage.component:10, 4096k ME Fluid Storage Component
-extracells:storage.component:11, 1k ME Gas Storage Component
-extracells:storage.component:12, 4k ME Gas Storage Component
-extracells:storage.component:13, 16k ME Gas Storage Component
-extracells:storage.component:14, 64k ME Gas Storage Component
-extracells:storage.component:15, 256k ME Gas Storage Component
-extracells:storage.component:16, 1024k ME Gas Storage Component
-extracells:storage.component:17, 4096k ME Gas Storage Component
-extracells:storage.casing:0, Advanced Storage Housing
-extracells:storage.casing:1, Fluid Storage Housing
-extracells:storage.casing:2, Gas Storage Housing
-extracells:fluid.item, item.extracells.fluid.item.name
-extracells:storage.fluid.portable, item.extracells.storage.fluid.portable.name
-extracells:pattern.crafting, item.extracells.pattern.crafting.name
-extracells:terminal.universal.wireless, item.extracells.terminal.universal.wireless.name
 ForbiddenMagic:NetherShard:0, Wrath Shard
 ForbiddenMagic:NetherShard:1, Envy Shard
 ForbiddenMagic:NetherShard:2, Taint Shard
@@ -9561,177 +9847,6 @@ ForbiddenMagic:RingNutrition, Ring of Nutrition
 ForbiddenMagic:TaintFruit, Tainted Fruit
 ForbiddenMagic:TaintCoal, Hexcoal
 ForbiddenMagic:BlinkFocus, Wand Focus: Blink
-HardcoreEnderExpansion:endoplasm, Ectoplasm
-HardcoreEnderExpansion:essence:0, Dragon Essence
-HardcoreEnderExpansion:essence:1, Fiery Essence
-HardcoreEnderExpansion:essence:2, Spectral Essence
-HardcoreEnderExpansion:charm_pouch, Charm Pouch
-HardcoreEnderExpansion:dry_splinter, Dry Splinter
-HardcoreEnderExpansion:auricion, Auricion
-HardcoreEnderExpansion:living_matter, Living Matter
-HardcoreEnderExpansion:silverfish_blood, Silverfish Blood
-HardcoreEnderExpansion:rune:0, Rune of Power
-HardcoreEnderExpansion:rune:1, Rune of Agility
-HardcoreEnderExpansion:rune:2, Rune of Vigor
-HardcoreEnderExpansion:rune:3, Rune of Defense
-HardcoreEnderExpansion:rune:4, Rune of Magic
-HardcoreEnderExpansion:rune:5, Rune of Void
-HardcoreEnderExpansion:potion_of_instability, Potion of Instability
-HardcoreEnderExpansion:arcane_shard, Arcane Shard
-HardcoreEnderExpansion:obsidian_fragment, Obsidian Fragment
-HardcoreEnderExpansion:bucket_ender_goo, Ender Goo Bucket
-HardcoreEnderExpansion:item_special_effects, item.itemNumber.name
-HardcoreEnderExpansion:stardust, Stardust
-HardcoreEnderExpansion:energy_wand, Energy Wand
-HardcoreEnderExpansion:ghost_amulet:0, Ghost Amulet (Impure)
-HardcoreEnderExpansion:ghost_amulet:1, Ghost Amulet
-HardcoreEnderExpansion:igneous_rock, Igneous Rock
-HardcoreEnderExpansion:obsidian_rod, Obsidian Rod
-HardcoreEnderExpansion:schorching_pickaxe, Scorching Pickaxe
-HardcoreEnderExpansion:temple_caller, Temple Caller
-HardcoreEnderExpansion:transference_gem, Transference Gem
-HardcoreEnderExpansion:curse_amulet, Curse Amulet
-HardcoreEnderExpansion:knowledge_note:0, Knowledge Note
-HardcoreEnderExpansion:instability_orb, Instability Orb
-HardcoreEnderExpansion:endium_ingot, Endium Ingot
-HardcoreEnderExpansion:potion_of_purity, Potion of Purity
-HardcoreEnderExpansion:fire_shard, Infernium
-HardcoreEnderExpansion:infestation_remedy, Infestation Remedy
-HardcoreEnderExpansion:energy_wand_core, Energy Wand Core
-HardcoreEnderExpansion:music_disk:0, Music Disc
-HardcoreEnderExpansion:music_disk:1, Music Disc
-HardcoreEnderExpansion:music_disk:2, Music Disc
-HardcoreEnderExpansion:music_disk:3, Music Disc
-HardcoreEnderExpansion:music_disk:4, Music Disc
-HardcoreEnderExpansion:music_disk:5, Music Disc
-HardcoreEnderExpansion:music_disk:6, Music Disc
-HardcoreEnderExpansion:music_disk:7, Music Disc
-HardcoreEnderExpansion:music_disk:8, Music Disc
-HardcoreEnderExpansion:music_disk:9, Music Disc
-HardcoreEnderExpansion:end_powder, End Powder
-HardcoreEnderExpansion:adventurers_diary, Adventurer's Diary
-HardcoreEnderExpansion:spawn_eggs:0, Spawn Angry Enderman
-HardcoreEnderExpansion:spawn_eggs:1, Spawn Baby Enderman
-HardcoreEnderExpansion:spawn_eggs:2, Spawn Ender Guardian
-HardcoreEnderExpansion:spawn_eggs:3, Spawn Vampire Bat
-HardcoreEnderExpansion:spawn_eggs:4, Spawn Infested Bat
-HardcoreEnderExpansion:spawn_eggs:5, Spawn Fire Golem
-HardcoreEnderExpansion:spawn_eggs:6, Spawn Scorching Lens
-HardcoreEnderExpansion:spawn_eggs:7, Spawn Ender Eye
-HardcoreEnderExpansion:spawn_eggs:8, Spawn Fire Fiend
-HardcoreEnderExpansion:spawn_eggs:9, Spawn Ender Demon
-HardcoreEnderExpansion:spawn_eggs:10, Spawn Paralyzed Enderman
-HardcoreEnderExpansion:spawn_eggs:11, Spawn Louse
-HardcoreEnderExpansion:spawn_eggs:12, Spawn Haunted Miner
-HardcoreEnderExpansion:spawn_eggs:13, Spawn Homeland Enderman
-HardcoreEnderExpansion:spawn_eggs:14, Spawn Endermage
-HardcoreEnderExpansion:charm:0, Charm of Power
-HardcoreEnderExpansion:charm:1, Charm of Power
-HardcoreEnderExpansion:charm:2, Charm of Power
-HardcoreEnderExpansion:charm:3, Charm of Agility
-HardcoreEnderExpansion:charm:4, Charm of Agility
-HardcoreEnderExpansion:charm:5, Charm of Agility
-HardcoreEnderExpansion:charm:6, Charm of Vigor
-HardcoreEnderExpansion:charm:7, Charm of Vigor
-HardcoreEnderExpansion:charm:8, Charm of Vigor
-HardcoreEnderExpansion:charm:9, Charm of Defense
-HardcoreEnderExpansion:charm:10, Charm of Defense
-HardcoreEnderExpansion:charm:11, Charm of Defense
-HardcoreEnderExpansion:charm:12, Charm of Magic
-HardcoreEnderExpansion:charm:13, Charm of Magic
-HardcoreEnderExpansion:charm:14, Charm of Magic
-HardcoreEnderExpansion:charm:18, Charm of Equality
-HardcoreEnderExpansion:charm:19, Charm of Blocking
-HardcoreEnderExpansion:charm:20, Charm of Blocking
-HardcoreEnderExpansion:charm:21, Charm of Blocking
-HardcoreEnderExpansion:charm:22, Charm of Blocking Reflection
-HardcoreEnderExpansion:charm:23, Charm of Blocking Reflection
-HardcoreEnderExpansion:charm:24, Charm of Blocking Reflection
-HardcoreEnderExpansion:charm:71, Charm of Blocking Repulsion
-HardcoreEnderExpansion:charm:72, Charm of Blocking Repulsion
-HardcoreEnderExpansion:charm:73, Charm of Blocking Repulsion
-HardcoreEnderExpansion:charm:25, Charm of Digestive Recover
-HardcoreEnderExpansion:charm:26, Charm of Digestive Recover
-HardcoreEnderExpansion:charm:27, Charm of Digestive Recover
-HardcoreEnderExpansion:charm:28, Charm of Life Steal
-HardcoreEnderExpansion:charm:29, Charm of Life Steal
-HardcoreEnderExpansion:charm:30, Charm of Life Steal
-HardcoreEnderExpansion:charm:31, Charm of Damage Redirection
-HardcoreEnderExpansion:charm:32, Charm of Damage Redirection
-HardcoreEnderExpansion:charm:33, Charm of Damage Redirection
-HardcoreEnderExpansion:charm:34, Charm of Damage Redirection
-HardcoreEnderExpansion:charm:35, Charm of Damage Redirection
-HardcoreEnderExpansion:charm:36, Charm of Damage Redirection
-HardcoreEnderExpansion:charm:37, Charm of Magic Penetration
-HardcoreEnderExpansion:charm:38, Charm of Magic Penetration
-HardcoreEnderExpansion:charm:39, Charm of Magic Penetration
-HardcoreEnderExpansion:charm:40, Charm of Magic Penetration
-HardcoreEnderExpansion:charm:41, Charm of Magic Penetration
-HardcoreEnderExpansion:charm:42, Charm of Magic Penetration
-HardcoreEnderExpansion:charm:43, Charm of Magic Penetration
-HardcoreEnderExpansion:charm:44, Charm of Witchery Harm
-HardcoreEnderExpansion:charm:45, Charm of Witchery Harm
-HardcoreEnderExpansion:charm:46, Charm of Witchery Harm
-HardcoreEnderExpansion:charm:65, Charm of Witchery Harm
-HardcoreEnderExpansion:charm:74, Charm of Magic Defense
-HardcoreEnderExpansion:charm:75, Charm of Magic Defense
-HardcoreEnderExpansion:charm:76, Charm of Magic Defense
-HardcoreEnderExpansion:charm:49, Charm of Falling Protection
-HardcoreEnderExpansion:charm:50, Charm of Falling Protection
-HardcoreEnderExpansion:charm:51, Charm of Haste
-HardcoreEnderExpansion:charm:52, Charm of Haste
-HardcoreEnderExpansion:charm:53, Charm of Haste
-HardcoreEnderExpansion:charm:54, Charm of Critical Strike
-HardcoreEnderExpansion:charm:55, Charm of Critical Strike
-HardcoreEnderExpansion:charm:56, Charm of Critical Strike
-HardcoreEnderExpansion:charm:57, Charm of Critical Strike
-HardcoreEnderExpansion:charm:58, Charm of Critical Strike
-HardcoreEnderExpansion:charm:59, Charm of Critical Strike
-HardcoreEnderExpansion:charm:60, Charm of Second Durability
-HardcoreEnderExpansion:charm:61, Charm of Second Durability
-HardcoreEnderExpansion:charm:62, Charm of Second Durability
-HardcoreEnderExpansion:charm:63, Charm of Second Durability
-HardcoreEnderExpansion:charm:64, Charm of Second Durability
-HardcoreEnderExpansion:charm:17, Charm of Slaughter Impact
-HardcoreEnderExpansion:charm:66, Charm of Slaughter Impact
-HardcoreEnderExpansion:charm:67, Charm of Slaughter Impact
-HardcoreEnderExpansion:charm:68, Charm of Slaughter Impact
-HardcoreEnderExpansion:charm:69, Charm of Slaughter Impact
-HardcoreEnderExpansion:charm:70, Charm of Slaughter Impact
-HardcoreEnderExpansion:charm:77, Charm of Last Resort
-HardcoreEnderExpansion:charm:78, Charm of Last Resort
-HardcoreEnderExpansion:charm:79, Charm of Last Resort
-HardcoreEnderExpansion:blank_gem, Blank Gem
-HardcoreEnderExpansion:exp_bottle_consistent, Bottle o' Enchanting
-HardcoreEnderExpansion:enderman_head, item.endermanHead.name
-HardcoreEnderExpansion:enhanced_ender_pearl, Ender Pearl
-HardcoreEnderExpansion:biome_compass, Biome Compass
-HardcoreEnderExpansion:spatial_dash_gem, Spatial Dash Gem
-HardcoreEnderExpansion:spectral_tear, Spectral Tear
-HardcoreEnderExpansion:enhanced_brewing_stand, Enhanced Brewing Stand
-HardcoreEnderExpansion:curse:0, Curse of Teleportation
-HardcoreEnderExpansion:curse:256, Curse of Teleportation
-HardcoreEnderExpansion:curse:1, Curse of Confusion
-HardcoreEnderExpansion:curse:257, Curse of Confusion
-HardcoreEnderExpansion:curse:2, Curse of Tranquility
-HardcoreEnderExpansion:curse:258, Curse of Tranquility
-HardcoreEnderExpansion:curse:3, Curse of Slowness
-HardcoreEnderExpansion:curse:259, Curse of Slowness
-HardcoreEnderExpansion:curse:4, Curse of Weakness
-HardcoreEnderExpansion:curse:260, Curse of Weakness
-HardcoreEnderExpansion:curse:5, Curse of Blindness
-HardcoreEnderExpansion:curse:261, Curse of Blindness
-HardcoreEnderExpansion:curse:6, Curse of Death
-HardcoreEnderExpansion:curse:262, Curse of Death
-HardcoreEnderExpansion:curse:7, Curse of Decay
-HardcoreEnderExpansion:curse:263, Curse of Decay
-HardcoreEnderExpansion:curse:8, Curse of Vampire
-HardcoreEnderExpansion:curse:264, Curse of Vampire
-HardcoreEnderExpansion:curse:9, Curse of Rebound
-HardcoreEnderExpansion:curse:265, Curse of Rebound
-HardcoreEnderExpansion:curse:10, Curse of Loss
-HardcoreEnderExpansion:curse:266, Curse of Loss
-HardcoreEnderExpansion:altar_nexus, Altar Nexus
 Forestry:fertilizerBio, Compost
 Forestry:fertilizerCompound, Fertilizer
 Forestry:apatite, Apatite
@@ -10180,6 +10295,98 @@ gendustry:LiquidDNACan, Liquid DNA Can
 gendustry:ProteinBucket, Protein Bucket
 gendustry:ProteinCan, Protein Can
 guideapi:ItemLostPage:0, Lost Page
+ImmersiveEngineering:metal:0, Copper Ingot
+ImmersiveEngineering:metal:1, Aluminium Ingot
+ImmersiveEngineering:metal:2, Lead Ingot
+ImmersiveEngineering:metal:3, Silver Ingot
+ImmersiveEngineering:metal:4, Nickel Ingot
+ImmersiveEngineering:metal:5, Constantan Ingot
+ImmersiveEngineering:metal:6, Electrum Ingot
+ImmersiveEngineering:metal:7, Steel Ingot
+ImmersiveEngineering:metal:8, Iron Grit
+ImmersiveEngineering:metal:9, Gold Grit
+ImmersiveEngineering:metal:10, Copper Grit
+ImmersiveEngineering:metal:11, Aluminium Grit
+ImmersiveEngineering:metal:12, Lead Grit
+ImmersiveEngineering:metal:13, Silver Grit
+ImmersiveEngineering:metal:14, Nickel Grit
+ImmersiveEngineering:metal:15, Constantan Grit
+ImmersiveEngineering:metal:16, Electrum Grit
+ImmersiveEngineering:metal:17, Coke Dust
+ImmersiveEngineering:metal:18, Quartz Dust
+ImmersiveEngineering:metal:19, HOP Graphite Dust
+ImmersiveEngineering:metal:20, HOP Graphite Ingot
+ImmersiveEngineering:metal:21, Iron Nugget
+ImmersiveEngineering:metal:22, Copper Nugget
+ImmersiveEngineering:metal:23, Aluminium Nugget
+ImmersiveEngineering:metal:24, Lead Nugget
+ImmersiveEngineering:metal:25, Silver Nugget
+ImmersiveEngineering:metal:26, Nickel Nugget
+ImmersiveEngineering:metal:27, Constantan Nugget
+ImmersiveEngineering:metal:28, Electrum Nugget
+ImmersiveEngineering:metal:29, Steel Nugget
+ImmersiveEngineering:material:0, Treated Stick
+ImmersiveEngineering:material:1, Waterwheel Segment
+ImmersiveEngineering:material:2, Windmill Blade
+ImmersiveEngineering:material:3, Industrial Hemp Fiber
+ImmersiveEngineering:material:4, Tough Fabric
+ImmersiveEngineering:material:5, Improved Windmill Blade
+ImmersiveEngineering:material:6, Coal Coke
+ImmersiveEngineering:material:7, Revolver Barrel
+ImmersiveEngineering:material:8, Revolver Drum
+ImmersiveEngineering:material:9, Wooden Grip
+ImmersiveEngineering:material:10, Revolver Hammer
+ImmersiveEngineering:material:11, Iron Mechanical Component
+ImmersiveEngineering:material:12, Steel Mechanical Component
+ImmersiveEngineering:material:13, Slag
+ImmersiveEngineering:seed:0, Industrial Hemp Seeds
+ImmersiveEngineering:coil:0, LV Wire Coil
+ImmersiveEngineering:coil:1, MV Wire Coil
+ImmersiveEngineering:coil:2, HV Wire Coil
+ImmersiveEngineering:coil:3, Hemp Rope Coil
+ImmersiveEngineering:coil:4, Steel Cable Coil
+ImmersiveEngineering:tool:0, Engineer's Hammer
+ImmersiveEngineering:tool:1, Engineer's Wire Cutters
+ImmersiveEngineering:tool:2, Engineer's Voltmeter
+ImmersiveEngineering:tool:3, Engineer's Manual
+ImmersiveEngineering:revolver:0, Revolver
+ImmersiveEngineering:revolver:1, Revolver Speedloader
+ImmersiveEngineering:bullet:0, Empty Casing
+ImmersiveEngineering:bullet:1, Empty Shell
+ImmersiveEngineering:bullet:2, Casull Cartridge
+ImmersiveEngineering:bullet:3, Armor-Piercing Cartridge
+ImmersiveEngineering:bullet:4, Buckshot Cartridge
+ImmersiveEngineering:bullet:5, High-Explosive Cartridge
+ImmersiveEngineering:bullet:6, Dragon's Breath Cartridge
+ImmersiveEngineering:bullet:7, Homing Cartridge
+ImmersiveEngineering:bullet:8, Wolfpack Cartridge
+ImmersiveEngineering:bullet:9, Silver Cartridge
+ImmersiveEngineering:bullet:10, Phial Cartridge
+ImmersiveEngineering:fluidContainers:0, Bottle of Creosote Oil
+ImmersiveEngineering:fluidContainers:1, Bucket of Creosote Oil
+ImmersiveEngineering:fluidContainers:2, Bottle of Plant Oil
+ImmersiveEngineering:fluidContainers:3, Bucket of Plant Oil
+ImmersiveEngineering:fluidContainers:4, Bottle of Ethanol
+ImmersiveEngineering:fluidContainers:5, Bucket of Ethanol
+ImmersiveEngineering:fluidContainers:6, Bottle of Biodiesel
+ImmersiveEngineering:fluidContainers:7, Bucket of Biodiesel
+ImmersiveEngineering:drill:0, Mining Drill
+ImmersiveEngineering:drillhead:0, Steel Drill Head
+ImmersiveEngineering:drillhead:1, Iron Drill Head
+ImmersiveEngineering:toolupgrade:0, Pressurized Air Tank
+ImmersiveEngineering:toolupgrade:1, Advanced Lubrication System
+ImmersiveEngineering:toolupgrade:2, Additional Augers
+ImmersiveEngineering:toolupgrade:3, Large Tank
+ImmersiveEngineering:toolupgrade:4, Bayonet
+ImmersiveEngineering:toolupgrade:5, Extended Magazine
+ImmersiveEngineering:toolupgrade:6, Amplifier Electron Tubes
+ImmersiveEngineering:toolupgrade:7, Focused Nozzle
+ImmersiveEngineering:skyhook, Engineer's Skyhook
+ImmersiveEngineering:blueprint, Engineer's Blueprint
+ImmersiveEngineering:graphiteElectrode, Graphite Electrode
+ImmersiveEngineering:shader, Shader
+ImmersiveEngineering:jerrycan, Jerrycan
+ImmersiveEngineering:chemthrower, Chemical Thrower
 IronChest:ironGoldUpgrade, Iron to Gold Chest Upgrade
 IronChest:goldDiamondUpgrade, Gold to Diamond Chest Upgrade
 IronChest:copperSilverUpgrade, Copper to Silver Chest Upgrade
@@ -10757,36 +10964,25 @@ StorageDrawers:upgradeCreative:1, Creative Vending Upgrade
 StorageDrawers:upgradeLock, Drawer Key
 StorageDrawers:shroudKey, Concealment Key
 StorageDrawers:tape, Packing Tape
-darkcore:item.darkcore.UniqueSword, Keening
-TardisMod:item.TardisMod.Schematic, item.TardisMod.Schematic.name
-TardisMod:item.TardisMod.SonicScrewdriver, Sonic Screwdriver
-TardisMod:item.TardisMod.TardisKey, TARDIS Key
-TardisMod:item.TardisMod.Component:0, TARDIS Cable Interface - Transmat
-TardisMod:item.TardisMod.Component:1, TARDIS Cable Interface - ME Cable
-TardisMod:item.TardisMod.Component:2, TARDIS Cable Interface - Energy Conduit
-TardisMod:item.TardisMod.Component:3, TARDIS Cable Interface - Itemduct
-TardisMod:item.TardisMod.Component:4, TARDIS Cable Interface - Fluiduct
-TardisMod:item.TardisMod.Component:5, TARDIS Cable Interface - Chunk Loader
-TardisMod:item.TardisMod.Component:6, TARDIS Cable Interface - Computercraft (Unfinished)
-TardisMod:item.TardisMod.Component:7, Nanogene Canister
-TardisMod:item.TardisMod.Component:8, TARDIS Cable Interface - Essentia
-TardisMod:item.TardisMod.CraftingComponent:0, Chronosteel Ingot
-TardisMod:item.TardisMod.CraftingComponent:1, Dalekanium Ingot
-TardisMod:item.TardisMod.CraftingComponent:2, Kontron Crystal
-TardisMod:item.TardisMod.CraftingComponent:3, Upgrade Template
-TardisMod:item.TardisMod.ManualItem, Handheld Manual
-TardisMod:item.TardisMod.UpgradeItem:0, Broken Upgrade
-TardisMod:item.TardisMod.UpgradeItem:1, Upgrade - Explosion Protection
-TardisMod:item.TardisMod.UpgradeItem:2, Upgrade - Combat Protection
-TardisMod:item.TardisMod.UpgradeItem:3, Upgrade - Missed Control Protection
-TardisMod:item.TardisMod.UpgradeItem:4, Upgrade - Speed Level
-TardisMod:item.TardisMod.UpgradeItem:5, Upgrade - Shield Level
-TardisMod:item.TardisMod.UpgradeItem:6, Upgrade - Max Rooms Level
-TardisMod:item.TardisMod.UpgradeItem:7, Upgrade - Energy Level
-TardisMod:item.TardisMod.UpgradeItem:8, Upgrade - Energy Regen Level
-TardisMod:item.TardisMod.NameTag, Temporal Name Tag
-TardisMod:item.TardisMod.Decorator, TARDIS Decorator
-TardisMod:item.TardisMod.ChameleonUpgrade:0, Upgrade - Chameleon Circuit
+Talismans 2:Blank Talisman, Blank Talisman
+Talismans 2:Flame Talisman, Flame Talisman
+Talismans 2:Water Talisman, Water Talisman
+Talismans 2:Light Talisman, Light Talisman
+Talismans 2:Movement Talisman, Movement Talisman
+Talismans 2:Mining Talisman, Mining Talisman
+Talismans 2:Invisible Talisman, Invisible Talisman
+Talismans 2:Witherless Talisman, Witherless Talisman
+Talismans 2:Crafting Talisman, Crafting Talisman
+Talismans 2:Magnet Talisman, Magnet Talisman
+Talismans 2:Talisman Rings:0, A Normal Ring
+Talismans 2:Talisman Rings:1, Ring Of Crafting
+Talismans 2:Talisman Rings:2, Ring Of Fire
+Talismans 2:Talisman Rings:3, Ring Of Invisibility
+Talismans 2:Talisman Rings:4, Ring Of Light
+Talismans 2:Talisman Rings:5, Ring Of The Miner
+Talismans 2:Talisman Rings:6, Ring Of Movement
+Talismans 2:Talisman Rings:7, Ring Of Water Breathing
+Talismans 2:Talisman Rings:8, Ring Of Witherless
 thaumicenergistics:part.base:0, Essentia Import Bus
 thaumicenergistics:part.base:1, Essentia Level Emitter
 thaumicenergistics:part.base:2, Essentia Storage Bus
@@ -11205,6 +11401,157 @@ ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Chiseled Certus Quartz Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
 ThermalDynamics:cover:0, Certus Quartz Pillar Slabs Cover
+ThermalDynamics:cover:0, Cargo Pickup Rail Cover
+ThermalDynamics:cover:0, Cargo Dropoff Rail Cover
+ThermalDynamics:cover:0, Passenger Pickup Rail Cover
+ThermalDynamics:cover:0, Passenger Dropoff Rail Cover
+ThermalDynamics:cover:0, Rubber Sapling Cover
+ThermalDynamics:cover:0, Sacred Rubber Sapling Cover
+ThermalDynamics:cover:0, Mega Rubber Sapling Cover
+ThermalDynamics:cover:0, Sacred Rubber Sapling Cover
+ThermalDynamics:cover:0, Rubber Wood Cover
+ThermalDynamics:cover:0, Rubber Wood Cover
+ThermalDynamics:cover:0, Dry Rubber Leaves Cover
+ThermalDynamics:cover:0, Dry Rubber Leaves Cover
+ThermalDynamics:cover:0, Stained Glass (White) Cover
+ThermalDynamics:cover:0, Stained Glass (Orange) Cover
+ThermalDynamics:cover:0, Stained Glass (Magenta) Cover
+ThermalDynamics:cover:0, Stained Glass (Light Blue) Cover
+ThermalDynamics:cover:0, Stained Glass (Yellow) Cover
+ThermalDynamics:cover:0, Stained Glass (Lime) Cover
+ThermalDynamics:cover:0, Stained Glass (Pink) Cover
+ThermalDynamics:cover:0, Stained Glass (Gray) Cover
+ThermalDynamics:cover:0, Stained Glass (Light Gray) Cover
+ThermalDynamics:cover:0, Stained Glass (Cyan) Cover
+ThermalDynamics:cover:0, Stained Glass (Purple) Cover
+ThermalDynamics:cover:0, Stained Glass (Blue) Cover
+ThermalDynamics:cover:0, Stained Glass (Brown) Cover
+ThermalDynamics:cover:0, Stained Glass (Green) Cover
+ThermalDynamics:cover:0, Stained Glass (Red) Cover
+ThermalDynamics:cover:0, Stained Glass (Black) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (White) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Orange) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Magenta) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Light Blue) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Yellow) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Lime) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Pink) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Gray) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Light Gray) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Cyan) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Purple) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Blue) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Brown) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Green) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Red) Cover
+ThermalDynamics:cover:0, Stained Glass Pane (Black) Cover
+ThermalDynamics:cover:0, Road Cover
+ThermalDynamics:cover:0, Road Light Cover
+ThermalDynamics:cover:0, Road Light (Inverted) Cover
+ThermalDynamics:cover:0, Pink Slime Block Cover
+ThermalDynamics:cover:0, Vine Scaffolding Cover
+ThermalDynamics:cover:0, Fertile Soil Cover
+ThermalDynamics:cover:0, Milk Cover
+ThermalDynamics:cover:0, Sludge Cover
+ThermalDynamics:cover:0, Sewage Cover
+ThermalDynamics:cover:0, Essence Cover
+ThermalDynamics:cover:0, BioFuel Cover
+ThermalDynamics:cover:0, Meat Cover
+ThermalDynamics:cover:0, Pink Slime Cover
+ThermalDynamics:cover:0, Chocolate Milk Cover
+ThermalDynamics:cover:0, Mushroom Soup Cover
+ThermalDynamics:cover:0, Steam Cover
+ThermalDynamics:cover:0, Flux Goo Cover
+ThermalDynamics:cover:0, Flux Gas Cover
+ThermalDynamics:cover:0, Purifying Fluid Cover
+ThermalDynamics:cover:0, Liquid Death Cover
+ThermalDynamics:cover:0, Cinnabar Ore Cover
+ThermalDynamics:cover:0, Air Infused Stone Cover
+ThermalDynamics:cover:0, Fire Infused Stone Cover
+ThermalDynamics:cover:0, Water Infused Stone Cover
+ThermalDynamics:cover:0, Earth Infused Stone Cover
+ThermalDynamics:cover:0, Order Infused Stone Cover
+ThermalDynamics:cover:0, Entropy Infused Stone Cover
+ThermalDynamics:cover:0, Amber Bearing Stone Cover
+ThermalDynamics:cover:0, Greatwood Log Cover
+ThermalDynamics:cover:0, Silverwood Log Cover
+ThermalDynamics:cover:0, Greatwood Leaves Cover
+ThermalDynamics:cover:0, Silverwood Leaves Cover
+ThermalDynamics:cover:0, Greatwood Sapling Cover
+ThermalDynamics:cover:0, Silverwood Sapling Cover
+ThermalDynamics:cover:0, Shimmerleaf Cover
+ThermalDynamics:cover:0, Cinderpearl Cover
+ThermalDynamics:cover:0, Vishroom Cover
+ThermalDynamics:cover:0, Crusted Taint Cover
+ThermalDynamics:cover:0, Tainted Soil Cover
+ThermalDynamics:cover:0, Block of Flesh Cover
+ThermalDynamics:cover:0, Fibrous Taint Cover
+ThermalDynamics:cover:0, Tainted Grass Cover
+ThermalDynamics:cover:0, Tainted Plant Cover
+ThermalDynamics:cover:0, Spore Stalk Cover
+ThermalDynamics:cover:0, Obsidian Totem Cover
+ThermalDynamics:cover:0, Obsidian Tile Cover
+ThermalDynamics:cover:0, Paving Stone of Travel Cover
+ThermalDynamics:cover:0, Thaumium Block Cover
+ThermalDynamics:cover:0, Tallow Block Cover
+ThermalDynamics:cover:0, Arcane Stone Block Cover
+ThermalDynamics:cover:0, Arcane Stone Bricks Cover
+ThermalDynamics:cover:0, Golem Fetter Cover
+ThermalDynamics:cover:0, Ancient Stone Cover
+ThermalDynamics:cover:0, Ancient Rock Cover
+ThermalDynamics:cover:0, Crusted Stone Cover
+ThermalDynamics:cover:0, Ancient Stone Pedestal Cover
+ThermalDynamics:cover:0, White Tallow Candle Cover
+ThermalDynamics:cover:0, Orange Tallow Candle Cover
+ThermalDynamics:cover:0, Magenta Tallow Candle Cover
+ThermalDynamics:cover:0, Light Blue Tallow Candle Cover
+ThermalDynamics:cover:0, Yellow Tallow Candle Cover
+ThermalDynamics:cover:0, Lime Tallow Candle Cover
+ThermalDynamics:cover:0, Pink Tallow Candle Cover
+ThermalDynamics:cover:0, Gray Tallow Candle Cover
+ThermalDynamics:cover:0, Light Gray Tallow Candle Cover
+ThermalDynamics:cover:0, Cyan Tallow Candle Cover
+ThermalDynamics:cover:0, Purple Tallow Candle Cover
+ThermalDynamics:cover:0, Blue Tallow Candle Cover
+ThermalDynamics:cover:0, Brown Tallow Candle Cover
+ThermalDynamics:cover:0, Green Tallow Candle Cover
+ThermalDynamics:cover:0, Red Tallow Candle Cover
+ThermalDynamics:cover:0, Black Tallow Candle Cover
+ThermalDynamics:cover:0, tile.blockPortalNothing.name Cover
+ThermalDynamics:cover:0, Arcane Stone Stairs Cover
+ThermalDynamics:cover:0, Greatwood Stairs Cover
+ThermalDynamics:cover:0, Silverwood Stairs Cover
+ThermalDynamics:cover:0, Ancient Stone Stairs Cover
+ThermalDynamics:cover:0, Greatwood Slab Cover
+ThermalDynamics:cover:0, Silverwood Slab Cover
+ThermalDynamics:cover:0, Arcane Stone Slab Cover
+ThermalDynamics:cover:0, Ancient Stone Slab Cover
+ThermalDynamics:cover:0, Old Urn Cover
+ThermalDynamics:cover:0, Old Urn Cover
+ThermalDynamics:cover:0, Old Urn Cover
+ThermalDynamics:cover:0, Abandoned Crate Cover
+ThermalDynamics:cover:0, Abandoned Crate Cover
+ThermalDynamics:cover:0, Abandoned Crate Cover
+ThermalDynamics:cover:0, Essentia Aggregator Cover
+ThermalDynamics:cover:0, Enchanting Bookshelf Cover
+ThermalDynamics:cover:0, Ensorcelled Bookshelf Cover
+ThermalDynamics:cover:0, Memory Block Cover
+ThermalDynamics:cover:0, Runed Obsidian Cover
+ThermalDynamics:cover:0, Runed Obsidian (Rock) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Sea) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Crystal) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Soul) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Celerity) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Zombie) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Blaze) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Ghast) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Skull) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Slime) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Bat) Cover
+ThermalDynamics:cover:0, Runed Obsidian (Wisp) Cover
+ThermalDynamics:cover:0, Milk Cover
+ThermalDynamics:cover:0, Mushroom Soup Cover
+ThermalDynamics:cover:0, Vishroom Soup Cover
 ThermalDynamics:cover:0, Mud Cover
 ThermalDynamics:cover:0, Quicksand Cover
 ThermalDynamics:cover:0, Dried Dirt Cover
@@ -11490,77 +11837,6 @@ ThermalDynamics:cover:0, Crystal Cluster Brick Cover
 ThermalDynamics:cover:0, Glyph of the Adept Enchanter Cover
 ThermalDynamics:cover:0, Glyph of Arcane Potential Cover
 ThermalDynamics:cover:0, Glyph of Rigid Stability Cover
-ThermalDynamics:cover:0, Flux Goo Cover
-ThermalDynamics:cover:0, Flux Gas Cover
-ThermalDynamics:cover:0, Purifying Fluid Cover
-ThermalDynamics:cover:0, Liquid Death Cover
-ThermalDynamics:cover:0, Cinnabar Ore Cover
-ThermalDynamics:cover:0, Air Infused Stone Cover
-ThermalDynamics:cover:0, Fire Infused Stone Cover
-ThermalDynamics:cover:0, Water Infused Stone Cover
-ThermalDynamics:cover:0, Earth Infused Stone Cover
-ThermalDynamics:cover:0, Order Infused Stone Cover
-ThermalDynamics:cover:0, Entropy Infused Stone Cover
-ThermalDynamics:cover:0, Amber Bearing Stone Cover
-ThermalDynamics:cover:0, Greatwood Log Cover
-ThermalDynamics:cover:0, Silverwood Log Cover
-ThermalDynamics:cover:0, Greatwood Leaves Cover
-ThermalDynamics:cover:0, Silverwood Leaves Cover
-ThermalDynamics:cover:0, Greatwood Sapling Cover
-ThermalDynamics:cover:0, Silverwood Sapling Cover
-ThermalDynamics:cover:0, Shimmerleaf Cover
-ThermalDynamics:cover:0, Cinderpearl Cover
-ThermalDynamics:cover:0, Vishroom Cover
-ThermalDynamics:cover:0, Crusted Taint Cover
-ThermalDynamics:cover:0, Tainted Soil Cover
-ThermalDynamics:cover:0, Block of Flesh Cover
-ThermalDynamics:cover:0, Fibrous Taint Cover
-ThermalDynamics:cover:0, Tainted Grass Cover
-ThermalDynamics:cover:0, Tainted Plant Cover
-ThermalDynamics:cover:0, Spore Stalk Cover
-ThermalDynamics:cover:0, Obsidian Totem Cover
-ThermalDynamics:cover:0, Obsidian Tile Cover
-ThermalDynamics:cover:0, Paving Stone of Travel Cover
-ThermalDynamics:cover:0, Thaumium Block Cover
-ThermalDynamics:cover:0, Tallow Block Cover
-ThermalDynamics:cover:0, Arcane Stone Block Cover
-ThermalDynamics:cover:0, Arcane Stone Bricks Cover
-ThermalDynamics:cover:0, Golem Fetter Cover
-ThermalDynamics:cover:0, Ancient Stone Cover
-ThermalDynamics:cover:0, Ancient Rock Cover
-ThermalDynamics:cover:0, Crusted Stone Cover
-ThermalDynamics:cover:0, Ancient Stone Pedestal Cover
-ThermalDynamics:cover:0, White Tallow Candle Cover
-ThermalDynamics:cover:0, Orange Tallow Candle Cover
-ThermalDynamics:cover:0, Magenta Tallow Candle Cover
-ThermalDynamics:cover:0, Light Blue Tallow Candle Cover
-ThermalDynamics:cover:0, Yellow Tallow Candle Cover
-ThermalDynamics:cover:0, Lime Tallow Candle Cover
-ThermalDynamics:cover:0, Pink Tallow Candle Cover
-ThermalDynamics:cover:0, Gray Tallow Candle Cover
-ThermalDynamics:cover:0, Light Gray Tallow Candle Cover
-ThermalDynamics:cover:0, Cyan Tallow Candle Cover
-ThermalDynamics:cover:0, Purple Tallow Candle Cover
-ThermalDynamics:cover:0, Blue Tallow Candle Cover
-ThermalDynamics:cover:0, Brown Tallow Candle Cover
-ThermalDynamics:cover:0, Green Tallow Candle Cover
-ThermalDynamics:cover:0, Red Tallow Candle Cover
-ThermalDynamics:cover:0, Black Tallow Candle Cover
-ThermalDynamics:cover:0, tile.blockPortalNothing.name Cover
-ThermalDynamics:cover:0, Arcane Stone Stairs Cover
-ThermalDynamics:cover:0, Greatwood Stairs Cover
-ThermalDynamics:cover:0, Silverwood Stairs Cover
-ThermalDynamics:cover:0, Ancient Stone Stairs Cover
-ThermalDynamics:cover:0, Greatwood Slab Cover
-ThermalDynamics:cover:0, Silverwood Slab Cover
-ThermalDynamics:cover:0, Arcane Stone Slab Cover
-ThermalDynamics:cover:0, Ancient Stone Slab Cover
-ThermalDynamics:cover:0, Old Urn Cover
-ThermalDynamics:cover:0, Old Urn Cover
-ThermalDynamics:cover:0, Old Urn Cover
-ThermalDynamics:cover:0, Abandoned Crate Cover
-ThermalDynamics:cover:0, Abandoned Crate Cover
-ThermalDynamics:cover:0, Abandoned Crate Cover
 ThermalDynamics:cover:0, Mystical White Flower Cover
 ThermalDynamics:cover:0, Mystical Orange Flower Cover
 ThermalDynamics:cover:0, Mystical Magenta Flower Cover
@@ -13517,6 +13793,26 @@ ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
 ThermalDynamics:cover:0, Woolen Clay Cover
+ThermalDynamics:cover:0, Dark Steel Anvil Cover
+ThermalDynamics:cover:0, Dark Steel Anvil Cover
+ThermalDynamics:cover:0, Dark Steel Anvil Cover
+ThermalDynamics:cover:0, Dark Steel Ladder Cover
+ThermalDynamics:cover:0, Reinforced Obsidian Cover
+ThermalDynamics:cover:0, Ender Rail Cover
+ThermalDynamics:cover:0, tile.blockConduitFacade.name Cover
+ThermalDynamics:cover:0, Nutrient Distillation Cover
+ThermalDynamics:cover:0, Hootch Cover
+ThermalDynamics:cover:0, Rocket Fuel Cover
+ThermalDynamics:cover:0, Fire Water Cover
+ThermalDynamics:cover:0, Electrical Steel Block Cover
+ThermalDynamics:cover:0, Energetic Alloy Block Cover
+ThermalDynamics:cover:0, Vibrant Alloy Block Cover
+ThermalDynamics:cover:0, Redstone Alloy Block Cover
+ThermalDynamics:cover:0, Conductive Iron Block Cover
+ThermalDynamics:cover:0, Pulsating Iron Block Cover
+ThermalDynamics:cover:0, Dark Steel Block Cover
+ThermalDynamics:cover:0, Soularium Block Cover
+ThermalDynamics:cover:0, Dark Iron Bars Cover
 ThermalDynamics:cover:0, Copper Ore Cover
 ThermalDynamics:cover:0, Tin Ore Cover
 ThermalDynamics:cover:0, Silver Ore Cover
@@ -13852,45 +14148,25 @@ ThermalDynamics:cover:0, Dark Ethereal Glass Cover
 ThermalDynamics:cover:0, Ethereal Glass (Inverted) Cover
 ThermalDynamics:cover:0, Ineffable Glass (Inverted) Cover
 ThermalDynamics:cover:0, Dark Ethereal Glass (Inverted) Cover
-ThermalDynamics:cover:0, Dark Steel Anvil Cover
-ThermalDynamics:cover:0, Dark Steel Anvil Cover
-ThermalDynamics:cover:0, Dark Steel Anvil Cover
-ThermalDynamics:cover:0, Dark Steel Ladder Cover
-ThermalDynamics:cover:0, Reinforced Obsidian Cover
-ThermalDynamics:cover:0, Ender Rail Cover
-ThermalDynamics:cover:0, tile.blockConduitFacade.name Cover
-ThermalDynamics:cover:0, Nutrient Distillation Cover
-ThermalDynamics:cover:0, Hootch Cover
-ThermalDynamics:cover:0, Rocket Fuel Cover
-ThermalDynamics:cover:0, Fire Water Cover
-ThermalDynamics:cover:0, Electrical Steel Block Cover
-ThermalDynamics:cover:0, Energetic Alloy Block Cover
-ThermalDynamics:cover:0, Vibrant Alloy Block Cover
-ThermalDynamics:cover:0, Redstone Alloy Block Cover
-ThermalDynamics:cover:0, Conductive Iron Block Cover
-ThermalDynamics:cover:0, Pulsating Iron Block Cover
-ThermalDynamics:cover:0, Dark Steel Block Cover
-ThermalDynamics:cover:0, Soularium Block Cover
-ThermalDynamics:cover:0, Dark Iron Bars Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
 ThermalDynamics:cover:0, Paving Slab of Travel Cover
 ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Paving Stair of Travel Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -13901,94 +14177,6 @@ ThermalDynamics:cover:0, Tainted Leaves Cover
 ThermalDynamics:cover:0, Tainted Sapling Cover
 ThermalDynamics:cover:0, Tainted Stone Cover
 ThermalDynamics:cover:0, Tainted Stone Bricks Cover
-ThermalDynamics:cover:0, tile.null.name Cover
-ThermalDynamics:cover:0, Laboratory Glass Cover
-ThermalDynamics:cover:0, Obsidian Stairs Cover
-ThermalDynamics:cover:0, Laboratory Stairs Cover
-ThermalDynamics:cover:0, Ravaged Brick Slab Cover
-ThermalDynamics:cover:0, Smooth Ravaged Brick Cover
-ThermalDynamics:cover:0, Laboratory Floor Cover
-ThermalDynamics:cover:0, Spooky Leaves Cover
-ThermalDynamics:cover:0, Instability Orb Ore Cover
-ThermalDynamics:cover:0, Laboratory Obsidian Cover
-ThermalDynamics:cover:0, Stardust Ore Cover
-ThermalDynamics:cover:0, specialEffects.1.name Cover
-ThermalDynamics:cover:0, specialEffects.2.name Cover
-ThermalDynamics:cover:0, specialEffects.3.name Cover
-ThermalDynamics:cover:0, specialEffects.4.name Cover
-ThermalDynamics:cover:0, specialEffects.5.name Cover
-ThermalDynamics:cover:0, Thorny Bush Cover
-ThermalDynamics:cover:0, Infested Bush Cover
-ThermalDynamics:cover:0, Infested Fern Cover
-ThermalDynamics:cover:0, Infested Grass Cover
-ThermalDynamics:cover:0, Lilyfire Cover
-ThermalDynamics:cover:0, Tall Violet Moss Cover
-ThermalDynamics:cover:0, Moderate Violet Moss Cover
-ThermalDynamics:cover:0, Short Violet Moss Cover
-ThermalDynamics:cover:0, Flameweed Cover
-ThermalDynamics:cover:0, Flameweed Cover
-ThermalDynamics:cover:0, Flameweed Cover
-ThermalDynamics:cover:0, Shadow Orchid Cover
-ThermalDynamics:cover:0, Spooky Log Cover
-ThermalDynamics:cover:0, Ender Goo Cover
-ThermalDynamics:cover:0, Ravaged Brick Cover
-ThermalDynamics:cover:0, Ravaged Brick Cover
-ThermalDynamics:cover:0, Ravaged Brick Cover
-ThermalDynamics:cover:0, Ravaged Brick Cover
-ThermalDynamics:cover:0, Ravaged Brick Cover
-ThermalDynamics:cover:0, Ravaged Brick Cover
-ThermalDynamics:cover:0, Ravaged Brick Fence Cover
-ThermalDynamics:cover:0, Infested End Stone Cover
-ThermalDynamics:cover:0, Burned End Stone Cover
-ThermalDynamics:cover:0, Enchanted End Stone Cover
-ThermalDynamics:cover:0, Smooth Obsidian Cover
-ThermalDynamics:cover:0, Chiseled Obsidian Cover
-ThermalDynamics:cover:0, Obsidian Pillar Cover
-ThermalDynamics:cover:0, Glowing Ravaged Brick Cover
-ThermalDynamics:cover:0, Igneous Rock Ore Cover
-ThermalDynamics:cover:0, tile.null.name Cover
-ThermalDynamics:cover:0, Sphalerite Cover
-ThermalDynamics:cover:0, Sphalerite with Stardust Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Persegrit Cover
-ThermalDynamics:cover:0, Ravaged Brick Stairs Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Wall) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Rock) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Ceiling) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Disabled) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Triggerable - Unlit) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Triggerable - Lit) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Non-triggerable - Unlit) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Non-triggerable - Lit) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Distributor - Spread - Unlit) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Distributor - Spread - Lit) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Distributor - Square - Unlit) Cover
-ThermalDynamics:cover:0, Dungeon Puzzle (Distributor - Square - Lit) Cover
-ThermalDynamics:cover:0, Endium Block Cover
-ThermalDynamics:cover:0, Endium Ore Cover
-ThermalDynamics:cover:0, tile.biomeIslandCore.name Cover
-ThermalDynamics:cover:0, Death Flower Cover
-ThermalDynamics:cover:0, Death Flower Cover
-ThermalDynamics:cover:0, Smooth Glowing Obsidian Cover
-ThermalDynamics:cover:0, Chiseled Glowing Obsidian Cover
-ThermalDynamics:cover:0, Glowing Obsidian Pillar Cover
-ThermalDynamics:cover:0, End Powder Ore Cover
-ThermalDynamics:cover:0, Cinder Cover
-ThermalDynamics:cover:0, Falling Obsidian Cover
 ThermalDynamics:cover:0, Humus Cover
 ThermalDynamics:cover:0, Bog Earth Cover
 ThermalDynamics:cover:0, Apatite Ore Cover
@@ -14241,6 +14429,53 @@ ThermalDynamics:cover:0, Resonating Hive Cover
 ThermalDynamics:cover:0, Mutagen Cover
 ThermalDynamics:cover:0, Liquid DNA Cover
 ThermalDynamics:cover:0, Protein Cover
+ThermalDynamics:cover:0, Copper Ore Cover
+ThermalDynamics:cover:0, Bauxite Ore Cover
+ThermalDynamics:cover:0, Lead Ore Cover
+ThermalDynamics:cover:0, Silver Ore Cover
+ThermalDynamics:cover:0, Nickel Ore Cover
+ThermalDynamics:cover:0, Block of Copper Cover
+ThermalDynamics:cover:0, Block of Aluminium Cover
+ThermalDynamics:cover:0, Block of Lead Cover
+ThermalDynamics:cover:0, Block of Silver Cover
+ThermalDynamics:cover:0, Block of Nickel Cover
+ThermalDynamics:cover:0, Block of Constantan Cover
+ThermalDynamics:cover:0, Block of Electrum Cover
+ThermalDynamics:cover:0, Block of Steel Cover
+ThermalDynamics:cover:0, Copper Wire Coil Cover
+ThermalDynamics:cover:0, Electrum Wire Coil Cover
+ThermalDynamics:cover:0, High-Voltage Wire Coil Cover
+ThermalDynamics:cover:0, Steel Fence Cover
+ThermalDynamics:cover:0, Steel Scaffolding Cover
+ThermalDynamics:cover:0, Radiator Block Cover
+ThermalDynamics:cover:0, Heavy Engineering Block Cover
+ThermalDynamics:cover:0, Generator Block Cover
+ThermalDynamics:cover:0, Light Engineering Block Cover
+ThermalDynamics:cover:0, Sheet Metal Block Cover
+ThermalDynamics:cover:0, Steel Scaffolding Cover
+ThermalDynamics:cover:0, Aluminium Fence Cover
+ThermalDynamics:cover:0, Aluminium Scaffolding Cover
+ThermalDynamics:cover:0, Aluminium Scaffolding Cover
+ThermalDynamics:cover:0, Treated Wood Fence Cover
+ThermalDynamics:cover:0, Treated Wood Slab Cover
+ThermalDynamics:cover:0, Treated Wood Doubleslab Cover
+ThermalDynamics:cover:0, Treated Wood Scaffolding Cover
+ThermalDynamics:cover:0, Treated Wood Planks Cover
+ThermalDynamics:cover:0, Treated Wood Planks Cover
+ThermalDynamics:cover:0, Treated Wood Planks Cover
+ThermalDynamics:cover:0, Treated Wood Stairs Cover
+ThermalDynamics:cover:0, Treated Wood Stairs Cover
+ThermalDynamics:cover:0, Treated Wood Stairs Cover
+ThermalDynamics:cover:0, Insulating Glass Cover
+ThermalDynamics:cover:0, Hempcrete Cover
+ThermalDynamics:cover:0, Coke Brick Cover
+ThermalDynamics:cover:0, Blast Brick Cover
+ThermalDynamics:cover:0, Block of Coal Coke Cover
+ThermalDynamics:cover:0, Concrete Cover
+ThermalDynamics:cover:0, Concrete Tile Cover
+ThermalDynamics:cover:0, Concrete Stairs Cover
+ThermalDynamics:cover:0, Concrete Tile Stairs Cover
+ThermalDynamics:cover:0, Industrial Hemp Cover
 ThermalDynamics:cover:0, Osmium Block Cover
 ThermalDynamics:cover:0, Bronze Block Cover
 ThermalDynamics:cover:0, Refined Obsidian Cover
@@ -14480,47 +14715,6 @@ ThermalDynamics:cover:0, Hawthorn Trim Cover
 ThermalDynamics:cover:0, Treated Wood Trim Cover
 ThermalDynamics:cover:0, Livingwood Trim Cover
 ThermalDynamics:cover:0, Dreamwood Trim Cover
-ThermalDynamics:cover:0, TARDIS Cover
-ThermalDynamics:cover:0, Door Cover
-ThermalDynamics:cover:0, Primary Door Cover
-ThermalDynamics:cover:0, Walkway Cover
-ThermalDynamics:cover:0, Wall Cover
-ThermalDynamics:cover:0, tile.TardisMod.DecoBlock.Walkway.name Cover
-ThermalDynamics:cover:0, Glass Cover
-ThermalDynamics:cover:0, Open Walkway Cover
-ThermalDynamics:cover:0, Temporal Dirt Cover
-ThermalDynamics:cover:0, Schema Boundary Cover
-ThermalDynamics:cover:0, Door Cover
-ThermalDynamics:cover:0, Door Cover
-ThermalDynamics:cover:0, Room Control Panel Cover
-ThermalDynamics:cover:0, Console Cover
-ThermalDynamics:cover:0, Door Cover
-ThermalDynamics:cover:0, Door Cover
-ThermalDynamics:cover:0, Console Cover
-ThermalDynamics:cover:0, Temporal Engine Cover
-ThermalDynamics:cover:0, Time Rotor Cover
-ThermalDynamics:cover:0, Console Slab Cover
-ThermalDynamics:cover:0, Corridor Slab Cover
-ThermalDynamics:cover:0, Walkway Cover
-ThermalDynamics:cover:0, Glass Slab Cover
-ThermalDynamics:cover:0, Solid Force Field Cover
-ThermalDynamics:cover:0, Force Field Cover
-ThermalDynamics:cover:0, Solid Block Cover
-ThermalDynamics:cover:0, Flat Block Cover
-ThermalDynamics:cover:0, Solid Bricks Cover
-ThermalDynamics:cover:0, Solid Planks Cover
-ThermalDynamics:cover:0, Roundel Cover
-ThermalDynamics:cover:0, Manual Cover
-ThermalDynamics:cover:0, Stair Cover
-ThermalDynamics:cover:0, Solid Block (c) Cover
-ThermalDynamics:cover:0, Flat Block (c) Cover
-ThermalDynamics:cover:0, Solid Bricks (c) Cover
-ThermalDynamics:cover:0, Solid Planks (c) Cover
-ThermalDynamics:cover:0, Glass (c) Cover
-ThermalDynamics:cover:0, Open Walkway (c) Cover
-ThermalDynamics:cover:0, Walkway (c) Cover
-ThermalDynamics:cover:0, Wall (c) Cover
-ThermalDynamics:cover:0, tile.TardisMod.DecoBlock.Simulacrum.Walkway.name Cover
 ThermalDynamics:cover:0, Ice Cover
 ThermalDynamics:cover:0, Frame Cover
 ThermalDynamics:retriever:0, Retriever

@@ -8,8 +8,12 @@
 !/README.md
 
 # Include the minecraft directory and ignore all but modpack files.
-!/minecraft
+!/minecraft/
 /minecraft/*
-!/minecraft/config
-!/minecraft/mods
+!/minecraft/config/
+!/minecraft/mods/
+
+# Ignore selected modpack files
+/minecraft/config/INpureProjects/logs/
+/minecraft/mods/carpentersblocks
 
